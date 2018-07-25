@@ -1,5 +1,6 @@
 {{ partial "head.html" . }} {{ partial "nav.html" . }}
 <style>
+
   .grid {
     display: grid;
     grid-template-columns: repeat(12, [col-start] 1fr);
@@ -21,8 +22,6 @@
   .testimonials {
     grid-column: 1 / -1;
   }
-
-
 
   @media all and (min-width: 43.75rem) {
     .find-your-chapter {
@@ -51,6 +50,7 @@
       grid-column: 7 / 13;
     }
   }
+
 </style>
 <div class="grid">
   <div class="hero-img">
@@ -138,6 +138,7 @@
       <li data-target="#carouselIndicators" data-slide-to="9"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
+      <div class="container">
       <div class="carousel-item active">
         <p>“SSDP has given me the tools and opportunities to fight back and advocate for my clients on a grander scale. My SSDP family has inspired me toward a harm reduction approach to treating mental health and substance use disorders. Most significantly,
           SSDP has given me the chance to live out my dream of developing a science and harm reduction-based drug education curriculum.”</p>
@@ -196,6 +197,7 @@
         <p>Berea College</p>
       </div>
     </div>
+  </div>
   </div>
 </div>
 {{ partial "footer.html" . }}
