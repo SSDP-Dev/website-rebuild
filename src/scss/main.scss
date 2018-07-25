@@ -60,3 +60,95 @@ h5 {
 .grid {
   display: grid;
 }
+
+
+/** Custom Nav Styles **/
+.ssdp-full-header {
+  border-bottom: 1px solid #eee;
+  background: #fbfbfb;
+  padding: 6px 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .ssdp-full-header {
+    display: none;
+  }
+}
+
+.ssdp-header-contacts {
+  font-size: 13px;
+  line-height: 24px;
+  float: left;
+}
+
+.ssdp-header-contact-item{
+  float: right;
+  margin-right: 22px;
+}
+
+.ssdp-header-soc-icon {
+  line-height: 18px;
+  font-size: 17px;
+  padding: 0px 6px 0;
+  margin: 5px 0 0;
+  display: inline-block;
+  float: right;
+  opacity:0.9;
+}
+
+.nav {
+  margin: 30px auto;
+}
+
+.navbar-brand {
+  max-width: 100px;
+}
+
+.navbar-nav {
+  float: right;
+}
+
+.navbar-nav > li > a {
+  text-transform: uppercase;
+}
+
+/** Custom Button Styles **/
+
+.ssdp-round-button {
+  color: #fff;
+  border: 2px solid #f8f8f8;
+  background: transparent;
+  border-radius: 32px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-bottom: 13px;
+}
+/** Icons on Home Page **/
+.ssdp-front-page-icon {
+  float: left;
+  font-size: 50px;
+  margin-right: 10px;
+}
+
+/** Custom Headers **/
+.ssdp-front-page-header {
+  color: #ffffff;
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+/** Carousel Styles **/
+
+.item > p {
+  color: #fff;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 28px;
+  text-align: center;
+}
+
+.item > h3 {
+  color: #fff;
+  text-align: center;
+}

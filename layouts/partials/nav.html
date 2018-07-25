@@ -1,0 +1,38 @@
+
+<nav class="navbar navbar navbar-static-top" role="navigation">
+  <div class="ssdp-full-header">
+    <div id="subheader" class="container">
+      <div class="section">
+        <div class="ssdp-header-contacts ">
+          <a class="" href="mailto:ssdp@ssdp.org" target="" data-toggle="tooltip" data-placement="" title="">
+            <div class="ssdp-header-contact-item"><i class="fas fa-envelope"></i>ssdp@ssdp.org</div>
+          </a>
+          <div class="ssdp-header-contact-item"><i class="fas fa-mobile-alt"></i> 202-393-5280</div>
+        </div>
+        <a target="_blank" href="https://www.youtube.com/user/SSDP" class="ssdp-header-soc-icon" title="YouTube" style="opacity: 0.9;">
+          <i class="fab fa-youtube"></i></a>
+        <a target="_blank" href="https://www.instagram.com/schoolsnotprisons/" class="ssdp-header-soc-icon" title="Instagram" style="opacity: 0.9;">
+        <i class="fab fa-instagram"></i></a>
+        <a target="_blank" href="https://twitter.com/ssdp" class="ssdp-header-soc-icon" title="Twitter" style="opacity: 0.9;">
+        <i class="fab fa-twitter"></i></a>
+        <a target="_blank" href="https://www.facebook.com/ssdp/" class="ssdp-header-soc-icon" title="Facebook" style="opacity: 0.9;">
+        <i class="fab fa-facebook-f"></i></a>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">SSDP</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          {{ if .Site.Menus.main }} {{ range sort .Site.Menus.main }}
+          <li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }} {{ end }}
+        </ul>
+      </div>
+    </nav>
+  </div>
+</nav>
