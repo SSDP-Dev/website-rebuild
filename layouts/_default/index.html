@@ -6,67 +6,113 @@
     grid-auto-flow: dense;
   }
 
-  @media all and (min-width: 43.75rem) {
+  .campus-change,
+  .dpr-global,
+  .chapters-map,
+  .find-your-chapter,
+  .for-students,
+  .full-text,
+  .harm-reduction,
+  .just-say-know,
+  .get-updates,
+  .hero-img,
+  .testimonials {
+    grid-column: 1 / -1;
+  }
 
+  @media all and (min-width: 43.75rem) {
+    .find-your-chapter {
+      grid-column: 1 / 5;
+    }
+    .get-updates {
+      grid-column: 5 / 9;
+    }
+    .for-students {
+      grid-column: 9 / 13;
+    }
+    .dpr-global{
+      grid-column: 3 / 7;
+    }
+    .campus-change {
+      grid-column: 7 / 11;
+    }
+    .harm-reduction {
+      grid-column: 3 / 7;
+    }
+    .just-say-know {
+      grid-column: 7 / 11;
+    }
   }
 </style>
 <div class="grid">
   <div class="hero-img">
     <img class="img-responsive" src="/img/home-page-hero.jpg" alt=" " style="width:100%" />
   </div>
-  <div class="full-text">
-    <div style="font-size:24px;">We are replacing the disastrous war on drugs with policies rooted in evidence, compassion and human rights. Our 5,000 student members mobilize from 300 schools around the globe to make change from the campus to the UN because the war on drugs is a
-      war on us.
-    </div>
-    <button type="button" class="btn btn-default ssdp-round-button">TAKE ACTION<i class="fas fa-angle-double-right"></i>
+  <div class="full-text bg-john-walsh-ssdp p-3">
+    <div class="container">
+      <div class="text-white" style="font-size:24px;">We are replacing the disastrous war on drugs with policies rooted in evidence, compassion and human rights. Our 5,000 student members mobilize from 300 schools around the globe to make change from the campus to the UN because the war on drugs is
+        a war on us.
+      </div>
+      <button type="button" class="btn btn-default ssdp-round-button">TAKE ACTION<i class="fas fa-angle-double-right"></i>
         </button>
-    <button type="button" class="btn btn-default ssdp-round-button">DONATE NOW <i class="fas fa-angle-double-right"></i></button>
+      <button type="button" class="btn btn-default ssdp-round-button">DONATE NOW<i class="fas fa-angle-double-right"></i></button>
+    </div>
   </div>
-  <div class="find-your-chapter" style="background: #bce051">
+  <div class="find-your-chapter p-5" style="background: #bce051">
     <h4 class="ssdp-front-page-header">Find Your Chapter</h4>
     <p class="text-white">From Hawaii to Maine and from Alaska to Georgia, you will find a chapter nearby.&nbsp;From 300 campuses in 13 countries, SSDP members mobilize to end the drug war.</p>
     <a href="https://ssdp.org/chapters/" class="btn btn-default ssdp-round-button" target="_self">Search<i class="fas fa-search"></i> </a>
   </div>
-  <div class="get-updates" style="background: #07a8a2">
+  <div class="get-updates p-5" style="background: #07a8a2">
     <h4 class="ssdp-front-page-header">Get Updates &amp; Alerts</h4>
     <p class="text-white">Whether it’s for national news alerts, local action alerts, campaign activities or details on an event near you, sign up to stay informed and get involved in SSDP.</p>
     <a href="http://ssdp.nationbuilder.com/mailing_list_signup" class="btn btn-default ssdp-round-button" target="_self">Subscribe<i class="far fa-envelope"></i></a>
   </div>
-  <div class="for-students" style="background:#2a3636">
+  <div class="for-students p-5" style="background:#2a3636">
     <h4 class="ssdp-front-page-header">Students</h4>
     <p class="text-white">Since 1998, SSDP’s students have led a powerful grassroots movement to end the Drug War and begin a new era that sensibly and humanely tackles one of society’s most complex issues.</p>
     <a href="https://ssdp.org/chapters/start/" class="btn btn-default ssdp-round-button" target="_self">Get Involved<i class="fas fa-arrow-circle-right"></i></a>
   </div>
   <!-- One column: chapters map title -->
-  <div class="chapters-map" style="background-color: ##f7f7f7">
-    <h2 class style="text-align: center">Chapters Map</h2>
-    <hr />
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1eJ4HTTVUrMGa0HlB8Tjk-8Pgrfc" width="50%" height="400px" style="display: block; margin: 0 auto;"></iframe>
+  <div class="chapters-map pb-5" style="background-color: ##f7f7f7">
+    <div class="container">
+      <h2 class="p-5" style="text-align: center">Chapters Map</h2>
+      <hr />
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1eJ4HTTVUrMGa0HlB8Tjk-8Pgrfc" width="100%" height="400px" style="display: block; margin: 0 auto;"></iframe>
+    </div>
   </div>
-  <div class="full-text">
+  <div class="full-text bg-john-walsh-ssdp p-5">
     <h2 class="text-white" style="text-align: center">
         Change your campus.<br /> Change your world.</h2>
     <hr />
   </div>
-  <div class="dpr-global">
-    <i class="fas fa-globe ssdp-front-page-icon"></i>
-    <h3 class="text-white">Global drug policy reform</h3>
-    <p class="text-white">We ensure active and meaningful youth participation of youth and youth-related organizations in the development, implementation and evaluation of drug policies and programs.</p>
+  <div class="dpr-global bg-john-walsh-ssdp">
+    <div class="container">
+      <i class="fas fa-globe ssdp-front-page-icon"></i>
+      <h3 class="text-white">Global drug policy reform</h3>
+      <p class="text-white">We ensure active and meaningful youth participation of youth and youth-related organizations in the development, implementation and evaluation of drug policies and programs.</p>
+    </div>
   </div>
-  <div class="campus-change  ">
+  <div class="campus-change bg-john-walsh-ssdp">
+    <div class="container">
     <i class="fas fa-book ssdp-front-page-icon"></i>
     <h3 class="text-white">Campus Change</h3>
     <p class="text-white">We reform campus drug policies to replace detrimental punishment with supportive, life-saving responses to complex situations.</p>
+</div>
   </div>
-  <div class="harm-reduction">
+  <div class="harm-reduction bg-john-walsh-ssdp">
+  <div class="container">
     <i class="fas fa-redo-alt ssdp-front-page-icon"></i>
     <h3 class="text-white">Harm Reduction Action</h3>
     <p class="text-white">We expand harm reduction in our communities through campus action and partnerships with harm reduction service providers.</p>
+</div>
   </div>
-  <div class="just-say-know">
+  <div class="just-say-know bg-john-walsh-ssdp">
+    <div class="container">
     <i class="fas fa-bullhorn ssdp-front-page-icon"></i>
     <h3 class="text-white">Just Say Know</h3>
     <p class="text-white">We deliver evidence based peer-to-peer drug education that empowers young people to navigate the complex choices regarding drugs and drug use.</p>
+</div>
   </div>
   <div class="testimonials">
     <div id="myCarousel" class="carousel slide" data-ride="carousel" style="background-image: url('img/testimonial_background.jpg'); background-size: cover;">
@@ -86,7 +132,7 @@
       </ol>
       <!-- Wrapper for slides -->
 
-      <div class="carousel-inner">
+      <div class="carousel-inner p-5">
 
         <div class="item active  ">
           <p>“SSDP has given me the tools and opportunities to fight back and advocate for my clients on a grander scale. My SSDP family has inspired me toward a harm reduction approach to treating mental health and substance use disorders. Most significantly,
