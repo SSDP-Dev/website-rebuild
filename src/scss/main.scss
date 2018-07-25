@@ -110,25 +110,20 @@ h5 {
   border: 2px solid #f8f8f8;
   background: transparent;
   border-radius: 32px;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight:700;
+  letter-spacing: 1.03px;
   line-height: 13px;
   padding: 12px 30px;
   margin-bottom: 13px;
-}
+  text-transform: uppercase;
 
+}
 .ssdp-round-button:hover {
   background-color: #f8f8f8;
   color: #333;
 }
-
-.ssdp-round-button > a {
-  color: #fff;
-    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-    font-size: 13px;
-    font-weight:700;
-    letter-spacing: 1.03px;
-    text-transform: uppercase;
-}
-
 /** Icons on Home Page **/
 .ssdp-front-page-icon {
   color: #fff;
