@@ -34,20 +34,18 @@
     .for-students {
       grid-column: 9 / 13;
     }
-    .dpr-global {
-      grid-column: 3 / 7;
+    .dpr-global, .harm-reduction {
+      grid-column: 1 / 3;
     }
-    .campus-change {
-      grid-column: 7 / 11;
+    .campus-change, .just-say-know {
+      grid-column: 3 / 5;
     }
-    .harm-reduction {
-      grid-column: 3 / 7;
-    }
-    .just-say-know {
-      grid-column: 7 / 11;
-    }
+
     .half-text {
       grid-column: 1 / 7;
+      display: grid;
+      grid-template-columns: 50% 50%;
+      grid-template-rows: 50% 50%
     }
     .romain-img {
       grid-column: 7 / 13;
@@ -125,7 +123,7 @@
   <div class="romain-img">
     <img src="/img/romain-hero.jpg" style="width: 100%"/>
   </div>
-  <div id="carouselExampleIndicators" class="carousel slide full-text" data-ride="carousel" style="background-image: url('img/testimonial_background.jpg'); background-size: cover;">>
+  <div id="carouselExampleIndicators" class="carousel slide full-text p-5" data-ride="carousel" style="background-image: url('img/testimonial_background.jpg'); background-size: cover;">>
     <h2 class="text-orange-ssdp" style="text-align: center; margin-top: 0px; padding-top: 20px;">What Our Students Say</h2>
     <hr class="bg-teal-ssdp" width="10%" />
     <ol class="carousel-indicators">
@@ -139,7 +137,7 @@
       <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
     </ol>
-    <div class="carousel-inner p-5" role="listbox">
+    <div class="carousel-inner" role="listbox">
       <div class="carousel-item active">
         <p>“SSDP has given me the tools and opportunities to fight back and advocate for my clients on a grander scale. My SSDP family has inspired me toward a harm reduction approach to treating mental health and substance use disorders. Most significantly,
           SSDP has given me the chance to live out my dream of developing a science and harm reduction-based drug education curriculum.”</p>
@@ -198,15 +196,6 @@
         <p>Berea College</p>
       </div>
     </div>
-    <!-- Left and right controls -->
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
   </div>
 </div>
 {{ partial "footer.html" . }}
