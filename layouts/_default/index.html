@@ -13,12 +13,16 @@
   .for-students,
   .full-text,
   .harm-reduction,
+  .half-text,
   .just-say-know,
   .get-updates,
   .hero-img,
+  .romain-img,
   .testimonials {
     grid-column: 1 / -1;
   }
+
+
 
   @media all and (min-width: 43.75rem) {
     .find-your-chapter {
@@ -41,6 +45,12 @@
     }
     .just-say-know {
       grid-column: 7 / 11;
+    }
+    .half-text {
+      grid-column: 1 / 7;
+    }
+    .romain-img {
+      grid-column: 7 / 13;
     }
   }
 </style>
@@ -86,7 +96,7 @@
         Change your campus.<br /> Change your world.</h2>
     <hr />
   </div>
-  <div class="full-text grid bg-john-walsh-ssdp p5">
+  <div class="half-text grid bg-john-walsh-ssdp p5">
     <div class="dpr-global bg-john-walsh-ssdp">
       <div class="container">
         <h3 class="text-white">Global drug policy reform</h3>
@@ -111,6 +121,9 @@
         <p class="text-white"> <i class="fas fa-bullhorn ssdp-front-page-icon"></i> We deliver evidence based peer-to-peer drug education that empowers young people to navigate the complex choices regarding drugs and drug use.</p>
       </div>
     </div>
+  </div>
+  <div class="romain-img">
+    <img src="/img/romain-hero.jpg" style="width: 100%"/>
   </div>
   <div id="carouselExampleIndicators" class="carousel slide full-text" data-ride="carousel" style="background-image: url('img/testimonial_background.jpg'); background-size: cover;">>
     <h2 class="text-orange-ssdp" style="text-align: center; margin-top: 0px; padding-top: 20px;">What Our Students Say</h2>
