@@ -1,0 +1,124 @@
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, [col-start] 1fr);
+  }
+
+  .mission-sidebar {
+    padding: 1em;
+  }
+
+  .hero-img,
+  .mission-text,
+  .mission-sidebar {
+    grid-column: 1 / -1;
+  }
+
+
+  @media all and (min-width: 700px) {
+    .mission-text {
+      grid-column: 1 / 9;
+    }
+
+    .mission-sidebar {
+      grid-column: 9 / 13;
+    }
+  }
+</style>
+
+<div class="grid">
+  <div class="hero-img">
+    <img src="mission-hero.jpg" />
+  </div>
+
+  <div class="mission-text">
+    <hr />
+    <h1>Mission and Values</h1>
+    <p style="font-style: italic;">Students for Sensible Drug Policy (SSDP) is the only international network of students dedicated to ending the war on drugs. At its heart, SSDP is a grassroots organization, led by a student-run Board of Directors. We create change by bringing young
+      people together and creating safe spaces for students of all political and ideological stripes to have honest conversations about drugs and drug policy. Founded in 1998, SSDP is comprised of thousands of members at hundreds of campuses in countries
+      around the globe.</p>
+    <h1>Mission Statement</h1>
+    <hr />
+    <p>Students for Sensible Drug Policy is an international grassroots network of students who are concerned about the impact of drug misuse on our communities, but who also know that the “War on Drugs” is failing our generation and our society.</p>
+    <p>SSDP mobilizes and empowers young people to participate in the political process, pushing for sensible policies to achieve a safer and more just future. SSDP does this while fighting back against counterproductive policies – in particular, those that
+      directly harm students and youth.</p>
+    <h1>Key values</h1>
+    <hr />
+    <ul>
+      <li>Shared power and authority</li>
+      <li>Youth-controled agenda</li>
+      <li>Collaboration and partnership</li>
+      <li>Constituent-specific strategies</li>
+      <li>Learning</li>
+      <li>Diversity, inclusion, and anti-racism</li>
+    </ul>
+    <h1>Values Statement</h1>
+    <hr />
+    <p>SSDP neither condones nor condemns drug use. Instead, we respect the right of individuals to make decisions about their own health and well-being. We promote youth civic engagement as a critical tool in reforming drug policy. SSDP respects the diverse
+      experiences and identities of our constituents. We develop leaders who advocate for policy changes based on justice, liberty, compassion, and reason.</p>
+    <h1>SSDP's structure as a grassroots organization</h1>
+    <hr />
+    <p>SSDP is comprised of student chapters all across the world. Any student anywhere can start a chapter. While SSDP has a variety of national campaigns and actions that everyone can participate in, chapters are also encouraged to work on those issues
+      that have the most traction in their own communities. Annually, SSDP members convene for a national conference where students acquire essential activist knowledge and skills, and chapters elect students to serve on SSDP’s Board of Directors. The
+      Board – in turn – selects and oversees SSDP’s Executive Director, who is responsible for tending to both the day-to-day operations of the organization, as well as its long-term direction. An important duty of the Executive Director is to hire and
+      manage staff.</p>
+    <p>SSDP is comprised of student chapters all across the world. Any student anywhere can start a chapter. While SSDP has a variety of national campaigns and actions that everyone can participate in, chapters are also encouraged to work on those issues
+      that have the most traction in their own communities. Annually, SSDP members convene for a national conference where students acquire essential activist knowledge and skills, and chapters elect students to serve on SSDP’s Board of Directors. The
+      Board – in turn – selects and oversees SSDP’s Executive Director, who is responsible for tending to both the day-to-day operations of the organization, as well as its long-term direction. An important duty of the Executive Director is to hire and
+      manage staff.</p>
+    <p>Legally, SSDP consists of two separate, distinct entities – Students for Sensible Drug Policy Foundation and Students for Sensible Drug Policy Inc. The former – as a 501(c)(3) organization – engages in education and outreach. Donations to SSDP Foundation
+      are tax-deductible. SSDP Inc. – as a 501(c)(4) organization – engages in advocacy, or attempts to effect change to law and policy. Accordingly, donations to SSDP Inc. are not tax-deductible. Click here to read SSDP Foundation’s bylaws.</p>
+    <h1>Guiding Policies</h1>
+    <hr />
+    <ul>
+      <li>Code of ethics and whistleblower policy</li>
+      <li>Conduct violation complaint and restoration procedure</li>
+      <li>Donor rights and privacy</li>
+    </ul>
+  </div>
+
+  <div class="mission-sidebar">
+    <h3>Did you know?</h3>
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-bottom: 50px">
+  <!-- Indicators -->
+  <ol class="carousel-indicators" style="bottom: -50px; background-color: black;">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+    <blockquote>Almost 758,000 people were arrested in 2011 on marijuana charges, out of 1,531,251 total drug arrests that year.</blockquote>
+      <span>FEDERAL BUREAU OF INVESTIGATIONS</span>
+      </div>
+
+    <div class="item">
+      <blockquote>$31,286 per year is spent on every state prison inmate, coming out to $85.72 per day per individual as of July 2012.</blockquote>
+      <span>PEW CHARITABLE TRUSTS</span>
+    </div>
+
+    <div class="item">
+      <blockquote>94,600 people are incarcerated for drug charges, nearly half (48%) of inmates in federal prison.</blockquote>
+      <span>DRUGWARFACTS.ORG</span>
+    </div>
+  </div>
+
+</div>
+
+      <h3>Connect with us</h3>
+    <div style="float: left;">
+      <a target="_blank" href="https://www.youtube.com/user/SSDP" class="ssdp-header-soc-icon" title="YouTube" style="opacity: 0.9;">
+          <i class="fab fa-youtube"></i></a><a target="_blank" href="https://www.instagram.com/schoolsnotprisons/" class="ssdp-header-soc-icon" title="Instagram" style="opacity: 0.9;">
+        <i class="fab fa-instagram"></i></a><a target="_blank" href="https://twitter.com/ssdp" class="ssdp-header-soc-icon" title="Twitter" style="opacity: 0.9;">
+        <i class="fab fa-twitter"></i></a><a target="_blank" href="https://www.facebook.com/ssdp/" class="ssdp-header-soc-icon" title="Facebook" style="opacity: 0.9;">
+        <i class="fab fa-facebook-f"></i></a>
+    </div>
+    <h3 style="clear: left;">Contact</h3>
+    <p><i class="fas fa-map-marker-alt"></i> 1011 O Street NW #1 Washington, DC 20001</p>
+    <p><i class="fas fa-mobile-alt"></i> 202-393-5280</p>
+    <p><i class="fas fa-envelope"></i> Email Us</p>
+  </div>
+
+</div>
