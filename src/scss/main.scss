@@ -144,10 +144,6 @@ nav {
 
 /** Carousel Styles **/
 
-.carousel-item {
-}
-
-
 .carousel-item > p {
   color: #fff;
   font-size: 16px;
@@ -159,4 +155,16 @@ nav {
 .carousel-item > h3 {
   color: #fff;
   text-align: center;
+}
+
+/** Footer Styles **/
+.ssdp-footer-soc-icon {
+color: #17BEBB;
+line-height: 18px;
+font-size: 17px;
+padding: 0px 6px 0;
+margin: 5px 0 0;
+display: inline-block;
+float: right;
+opacity:0.9;
 }
