@@ -1,204 +1,250 @@
-{{ partial "head.html" . }}
-{{ partial "nav.html" . }}
+{{ partial "head.html" . }} {{ partial "nav.html" . }}
 
 <style>
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(12, [col-start] 1fr);
-  }
-
-  #responsiveTabsDemo {
-    grid-column: 3 / 11;
-  }
-
   /** Responsive Tabs CSS **/
+
   .r-tabs .r-tabs-nav {
     margin: 0;
     padding: 0;
-}
+  }
 
-.r-tabs .r-tabs-tab {
+  .r-tabs .r-tabs-tab {
     display: inline-block;
     margin: 0;
     list-style: none;
-}
+  }
 
-.r-tabs .r-tabs-panel {
+  .r-tabs .r-tabs-panel {
     padding: 15px;
     display: none;
-}
+  }
 
-.r-tabs .r-tabs-accordion-title {
+  .r-tabs .r-tabs-accordion-title {
     display: none;
-}
+  }
 
-.r-tabs .r-tabs-panel.r-tabs-state-active {
+  .r-tabs .r-tabs-panel.r-tabs-state-active {
     display: block;
-}
+  }
 
-/* Accordion responsive breakpoint */
-@media only screen and (max-width: 768px) {
+  /* Accordion responsive breakpoint */
+
+  @media only screen and (max-width: 768px) {
     .r-tabs .r-tabs-nav {
-        display: none;
+      display: none;
     }
 
     .r-tabs .r-tabs-accordion-title {
-        display: block;
+      display: block;
     }
-}
+  }
 
-/* Tabs container */
-.r-tabs {
-	position: relative;
+  /* Tabs container */
 
-	background-color: #00c5ad;
+  .r-tabs {
+    position: relative;
 
-	border-top: 1px solid #00c5ad;
-	border-right: 1px solid #00c5ad;
-	border-left: 1px solid #00c5ad;
-	border-bottom: 4px solid #00c5ad;
-	border-radius: 4px;
+    background-color: #00c5ad;
 
-}
+    border-top: 1px solid #00c5ad;
+    border-right: 1px solid #00c5ad;
+    border-left: 1px solid #00c5ad;
+    border-bottom: 4px solid #00c5ad;
+    border-radius: 4px;
 
-/* Tab element */
-.r-tabs .r-tabs-nav .r-tabs-tab {
-	position: relative;
-	background-color: #00c5ad;
-}
+  }
 
-/* Tab anchor */
-.r-tabs .r-tabs-nav .r-tabs-anchor {
-	display: inline-block;
-	padding: 10px 12px;
+  /* Tab element */
 
-	text-decoration: none;
-	text-shadow: 0 1px rgba(0, 0, 0, 0.4);
-	font-size: 14px;
-	font-weight: bold;
-	color: #fff;
-}
+  .r-tabs .r-tabs-nav .r-tabs-tab {
+    position: relative;
+    background-color: #00c5ad;
+  }
 
-/* Disabled tab */
-.r-tabs .r-tabs-nav .r-tabs-state-disabled {
-	opacity: 0.5;
-}
+  /* Tab anchor */
 
-/* Active state tab anchor */
-.r-tabs .r-tabs-nav .r-tabs-state-active .r-tabs-anchor {
-	color: #00c5ad;
-	text-shadow: none;
+  .r-tabs .r-tabs-nav .r-tabs-anchor {
+    display: inline-block;
+    padding: 10px 12px;
 
-	background-color: white;
+    text-decoration: none;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+  }
 
-	border-top-right-radius: 4px;
-	border-top-left-radius: 4px;
-}
+  /* Disabled tab */
 
-/* Tab panel */
-.r-tabs .r-tabs-panel {
-	background-color: white;
+  .r-tabs .r-tabs-nav .r-tabs-state-disabled {
+    opacity: 0.5;
+  }
 
-	border-bottom: 4px solid white;
+  /* Active state tab anchor */
 
-	border-bottom-right-radius: 4px;
-	border-bottom-left-radius: 4px;
+  .r-tabs .r-tabs-nav .r-tabs-state-active .r-tabs-anchor {
+    color: #00c5ad;
+    text-shadow: none;
 
-}
+    background-color: white;
 
-/* Accordion anchor */
-.r-tabs .r-tabs-accordion-title .r-tabs-anchor {
-	display: block;
-	padding: 10px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
 
-	background-color: #00c5ad;
-	color: #fff;
-	font-weight: bold;
-	text-decoration: none;
-	text-shadow: 0 1px rgba(0, 0, 0, 0.4);
-	font-size: 14px;
+  /* Tab panel */
 
-	border-top-right-radius: 4px;
-	border-top-left-radius: 4px;
-}
+  .r-tabs .r-tabs-panel {
+    background-color: white;
 
-/* Active accordion anchor */
-.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
-	background-color: #fff;
-	color: #00c5ad;
-	text-shadow: none;
-}
+    border-bottom: 4px solid white;
 
-/* Disabled accordion button */
-.r-tabs .r-tabs-accordion-title.r-tabs-state-disabled {
-	opacity: 0.5;
-}
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
 
-/* Buttons */
-button {
-	display:inline-block;
-	margin-top: 10px;
-	margin-right: 10px;
-	padding: 10px 20px;
-	line-height: 100%;
+  }
 
-	color: #fff;
-	font-size: 14px;
-	text-align: center;
-	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-	vertical-align: middle;
-	font-weight: bold;
+  /* Accordion anchor */
 
-	border: 0;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
-	background-color: #00c5ad;
-	box-shadow: 0px 3px 0px 0px #00ab94;
+  .r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+    display: block;
+    padding: 10px;
 
-	cursor: pointer;
-}
+    background-color: #00c5ad;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+    font-size: 14px;
 
-/* Info bar */
-.info {
-	display:inline-block;
-	margin-top: 10px;
-	margin-right: 10px;
-	padding: 10px 20px;
-	width: 300px;
-	line-height: 100%;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
 
-	font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-	font-size: 14px;
-	color: #00c5ad;
-	border: 2px solid #00ab94;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
-	background-color: #fff;
+  /* Active accordion anchor */
 
-	cursor: pointer;
-} 
+  .r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
+    background-color: #fff;
+    color: #00c5ad;
+    text-shadow: none;
+  }
+
+  /* Disabled accordion button */
+
+  .r-tabs .r-tabs-accordion-title.r-tabs-state-disabled {
+    opacity: 0.5;
+  }
+
+  /* Buttons */
+
+  button {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    line-height: 100%;
+
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+    vertical-align: middle;
+    font-weight: bold;
+
+    border: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #00c5ad;
+    box-shadow: 0px 3px 0px 0px #00ab94;
+
+    cursor: pointer;
+  }
+
+  /* Info bar */
+
+  .info {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    width: 300px;
+    line-height: 100%;
+
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 14px;
+    color: #00c5ad;
+    border: 2px solid #00ab94;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #fff;
+
+    cursor: pointer;
+  }
 </style>
 
-<div class="grid">
-  <div id="responsiveTabsDemo">
-      <ul>
-          <li><a href="#tab-1"> .... </a></li>
-          <li><a href="#tab-2"> .... </a></li>
-          <li><a href="#tab-3"> .... </a></li>
-      </ul>
+<div class="container">
+  <div id="responsiveTabsDemo" class="mt-5">
+    <ul>
+      <li><a href="#tab-1"> 2016-2017 </a></li>
+      <li><a href="#tab-2"> 2015-2016 </a></li>
+      <li><a href="#tab-3"> 2014-2015 </a></li>
+      <li><a href="#tab-4"> 2013-2014 </a></li>
+      <li><a href="#tab-5"> 2012-2013 </a></li>
+      <li><a href="#tab-6"> 2011-2012 </a></li>
 
-      <div id="tab-1"> Report1 </div>
-      <div id="tab-2"> Report2 </div>
-      <div id="tab-3"> Report 3 </div>
+    </ul>
+
+    <div id="tab-1">
+      <ul>
+        <li><a href=" ">2016-17 Annual Report</a></li>
+        <li><a href=" ">2016 IRS Form 990</a></li>
+        <li><a href=" ">2016 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-2">
+      <ul>
+        <li><a href=" ">2015-2016 Annual Report</a></li>
+        <li><a href=" ">2015 IRS Form 990</a></li>
+        <li><a href=" ">2015 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-3">
+      <ul>
+        <li><a href=" ">2014-2015 Annual Report</a></li>
+        <li><a href=" ">2014 IRS Form 990</a></li>
+        <li><a href=" ">2014 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-4">
+      <ul>
+        <li><a href=" ">2013-2014 Annual Report</a></li>
+        <li><a href=" ">2013 IRS Form 990</a></li>
+        <li><a href=" ">2013 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-5">
+      <ul>
+        <li><a href=" ">2012-2013 Annual Report</a></li>
+        <li><a href=" ">2012 IRS Form 990</a></li>
+      </ul>
+    </div>
+    <div id="tab-6">
+      <ul>
+        <li><a href=" ">2011-2012 Annual Report</a></li>
+        <li><a href=" ">2011 IRS Form 990</a></li>
+      </ul>
+    </div>
+
   </div>
-        </div>
+</div>
 
 {{partial "footer.html" . }}
 <script src="js/jquery.responsiveTabs.min.js"></script>
 
 <script>
-$('#responsiveTabsDemo').responsiveTabs({
+  $('#responsiveTabsDemo').responsiveTabs({
     startCollapsed: 'accordion'
-});</script>
+  });
+</script>
