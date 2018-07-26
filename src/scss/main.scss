@@ -72,11 +72,13 @@ h5 {
 }
 
 .ssdp-header-contact-item{
+  color: #136F8D;
   float: right;
   margin-right: 22px;
 }
 
 .ssdp-header-soc-icon {
+  color: #136F8D;
   line-height: 18px;
   font-size: 17px;
   padding: 0px 6px 0;
@@ -91,15 +93,13 @@ nav {
   width: 100%;
 }
 
-.navbar-brand {
+.navbar-brand > img {
   max-width: 100px;
 }
 
-.navbar-nav {
-  float: right;
-}
 
-.navbar-nav > li > a {
+.dropdown-item, .nav-link {
+  color: #136F8D !important;
   text-transform: uppercase;
 }
 
