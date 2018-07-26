@@ -55,12 +55,11 @@ h5 {
 
 /** Custom Nav Styles **/
 .ssdp-full-header {
-  border-bottom: 1px solid #eee;
   background: #fbfbfb;
   padding: 6px 0;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 700px) {
   .ssdp-full-header {
     display: none;
   }
@@ -87,8 +86,9 @@ h5 {
   opacity:0.9;
 }
 
-.nav {
+nav {
   margin: 30px auto;
+  width: 100%;
 }
 
 .navbar-brand {

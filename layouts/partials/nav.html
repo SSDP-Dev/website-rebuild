@@ -17,9 +17,10 @@
         <a target="_blank" href="https://www.facebook.com/ssdp/" class="ssdp-header-soc-icon" title="Facebook" style="opacity: 0.9;">
         <i class="fab fa-facebook-f"></i></a>
       </div>
+
     </div>
   </div>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container">
       <a class="navbar-brand" href="/">SSDP</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,7 +45,7 @@
               <a class="dropdown-item" href="#">Subscribe</a>
             </div>
           </li>
-          <a class="nav-link" href="#">Link</a> {{ if .Site.Menus.main }} {{ range sort .Site.Menus.main }}
+          <a class="nav-link" href="#">Donate</a> {{ if .Site.Menus.main }} {{ range sort .Site.Menus.main }}
           <li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }} {{ end }}
         </ul>
