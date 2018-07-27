@@ -48,7 +48,7 @@
           Our Work
         </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="/campaigns">Campaigns</a>
+              <a class="dropdown-item" href="/chapters">Chapters</a>
               <a class="dropdown-item" href="/justsayknow">Just Say Know Drug Education</a>
               <a class="dropdown-item" href="/gradebook">Campus Drug Policy Gradebook</a>
               <a class="dropdown-item" href="/dare">Diversity, Awareness, Reflection, and Education</a>
@@ -56,13 +56,16 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Chapters
+          Resources
         </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/movement-building">Movement Building</a>
+              <a class="dropdown-item" href="/justsayknow">Drug Education</a>
+              <a class="dropdown-item" href="/campaigns">Policy Change</a>
             </div>
           </li>
-          <li class="nav-item"><a class="nav-link" href="/resources">Resources</a></li>
           <li class="nav-item"><a class="nav-link" href="/subscribe">Subscribe</a></li>
+          <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
           <li class="nav-item"><a class="nav-link" href="/donate">Donate</a></li> {{ if .Site.Menus.main }} {{ range sort .Site.Menus.main }}
           <li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }} {{ end }}
