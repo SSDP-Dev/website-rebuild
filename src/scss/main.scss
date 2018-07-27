@@ -108,9 +108,36 @@ nav {
 }
 
 .dropdown-item, .nav-link {
-  color: #636467 !important;
+  color: #17BEBB !important;
   font-size: 11px;
   text-transform: uppercase;
+}
+
+/** Link animations **/
+
+a, a:visited {
+  text-decoration: none;
+  position: relative;
+}
+a:after, a:visited:after {
+  content: '';
+  height: 3px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  background: #17BEBB;
+  transition: 0.2s;
+}
+a:hover:after, a:visited:hover:after {
+  width: 100%;
+}
+a.block, a:visited.block {
+  display: block;
+  padding: 0.5em;
+}
+a.block:hover, a:visited.block:hover {
+  background: #636467;
 }
 
 /** Custom Button Styles **/
