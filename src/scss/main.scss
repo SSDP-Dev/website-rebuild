@@ -99,6 +99,13 @@ nav {
   max-width: 100px;
 }
 
+.nav-link:hover, .nav-link:focus, .nav-link:active {
+    color: #17BEBB!important;
+}
+//or
+.nav-item:hover, .nav-item:focus, .nav-item:active {
+    color: #17BEBB!important;
+}
 
 .dropdown-item, .nav-link {
   color: #636467 !important;
