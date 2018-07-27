@@ -132,3 +132,5 @@ list the possible legal penalties for alcohol and drug violations. As
 these statements are required to receive funding, the statements are not
  interpreted to be relevant to the relative stringency of campus drug
 and alcohol policies.
+
+<iframe src="https://docs.google.com/a/ssdp.org/document/d/1du_TZrpIU2G-Cqlfd4vcUO2EwBKdg_K4HUohSlr92mg/pub?embedded=true" width="100%" height="600px"></iframe>
