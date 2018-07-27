@@ -53,6 +53,11 @@ h5 {
   color: #003249;
 }
 
+/** Custom list styles **/
+li {
+    list-style-image: url('img/angle-double-right-solid.svg');
+}
+
 /** Custom Nav Styles **/
 .ssdp-full-header {
   background: #fbfbfb;
