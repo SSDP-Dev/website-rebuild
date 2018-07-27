@@ -26,7 +26,7 @@ html {
 }
 
 // Set all headings to Montserrat
-h1, h2, h3, h4, h5, h6, .nav-link {
+h1, h2, h3, h4, h5, h6, .nav-link, .dropdown-toggle {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
 }
@@ -107,7 +107,7 @@ nav {
     color: #17BEBB!important;
 }
 
-.dropdown-item, .nav-link {
+.dropdown-item, .nav-link, .dropdown-toggle {
   color: #17BEBB !important;
   font-size: 11px;
   text-transform: uppercase;
@@ -115,11 +115,11 @@ nav {
 
 /** Link animations **/
 
-a, a:visited {
+.nav-link, .nav-link:visited {
   text-decoration: none;
   position: relative;
 }
-a:after, a:visited:after {
+.nav-link:after, .nav-link:visited:after {
   content: '';
   height: 3px;
   position: absolute;
@@ -129,15 +129,24 @@ a:after, a:visited:after {
   background: #17BEBB;
   transition: 0.2s;
 }
-a:hover:after, a:visited:hover:after {
+.nav-link:hover:after, .nav-link:visited:hover:after {
   width: 100%;
 }
-a.block, a:visited.block {
+.nav-link.block, .nav-link:visited.block {
   display: block;
   padding: 0.5em;
 }
-a.block:hover, a:visited.block:hover {
+.nav-link.block:hover, .nav-link:visited.block:hover {
   background: #636467;
+}
+
+.dropdown-toggle::after {
+  background: none!important;
+  position: relative;
+}
+
+.dropdown-toggle {
+  padding: 8px;
 }
 
 /** Custom Button Styles **/
