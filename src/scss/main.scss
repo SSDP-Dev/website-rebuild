@@ -149,6 +149,13 @@ nav {
   padding: 8px;
 }
 
+
+  @media all and (max-width: 43.75rem) {
+    .dropdown-toggle {
+      padding: 0px;
+    }
+  }
+
 /** Custom Button Styles **/
 
 .ssdp-round-button {
