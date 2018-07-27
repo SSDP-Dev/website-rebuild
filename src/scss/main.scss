@@ -107,8 +107,24 @@ nav {
     color: #17BEBB!important;
 }
 
+.dropdown-item:hover, .dropdown-item:focus, .dropdown-item:active {
+    color: #17BEBB!important;
+}
+//or
+.dropdown-item:hover, .dropdown-item:focus, .dropdown-item:active {
+    color: #17BEBB!important;
+}
+
+.dropdown-toggle:hover, .dropdown-toggle:focus, .dropdown-toggle:active {
+    color: #17BEBB!important;
+}
+//or
+.dropdown-toggle:hover, .dropdown-toggle:focus, .dropdown-toggle:active {
+    color: #17BEBB!important;
+}
+
 .dropdown-item, .nav-link, .dropdown-toggle {
-  color: #17BEBB !important;
+  color: #636467 !important;
   font-size: 11px;
   text-transform: uppercase;
 }
