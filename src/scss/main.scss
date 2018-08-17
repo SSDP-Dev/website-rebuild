@@ -241,3 +241,23 @@ display: inline-block;
 float: right;
 opacity:0.9;
 }
+
+/** Staff page **/
+
+.staff-name {
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.staff-title {
+  color: #636467;
+  font-size: 12px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.staff-social {
+  text-align:center
+}
