@@ -63,10 +63,25 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }';
 
   // Send JSON to NationBuilder person endpoint
-  print_r($endpoint);
-  print_r($body);
-  $result = nationbuilderPost($endpoint, $body);
-  print_r($result);
+  // Retrieve response in $result as json_decoded array using TRUE arg
+
+  $result = json_decode(nationbuilderPost($endpoint, $body), TRUE);
+  $result_code = $result['code'];
+
+  // Check what the result code was
+  // If it wwas 'validation_failed' - we send them to error page
+  if ($result_code == 'validation_failed'){
+    header("Location: /signup-failure"); /* Redirect browser to signup-failed page */
+    exit();
+  }
+  elseif ($result['person']) {
+    header("Location: /signup-success"); /* Redirect browser to signup-failed page */
+    exit();
+  }
+  else {
+    header("Location: /signup-failure"); /* Redirect browser to signup-failed page */
+    exit();
+  }
 }
 
 function test_input($data) {
@@ -78,12 +93,9 @@ function test_input($data) {
 }
 
 function nationbuilderPost($endpoint, $body) {
-  echo("Made it into nbPost function");
   //create a new cURL resource
   $ch = curl_init($endpoint);
-  echo("Set up endpoint as" . $endpoint);
   $payload = $body;
-  echo("set up payload as" . $payload);
   //attach encoded JSON string to the POST fields
   curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
 
