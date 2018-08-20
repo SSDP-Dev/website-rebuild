@@ -73,6 +73,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if ($result_code == 'validation_failed'){
     echo "The request failed";
   }
+  elseif ($result['person']) {
+    echo "The request succeeded";
+  }
 }
 
 function test_input($data) {
