@@ -71,10 +71,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   // Check what the result code was
   // If it wwas 'validation_failed' - we send them to error page
   if ($result_code == 'validation_failed'){
-    echo "The request failed";
+    header("Location: /signup-failure"); /* Redirect browser to signup-failed page */
+    exit();
   }
   elseif ($result['person']) {
-    echo "The request succeeded";
+    header("Location: /signup-success"); /* Redirect browser to signup-failed page */
+    exit();
+  }
+  else {
+    header("Location: /signup-error"); /* Redirect browser to signup-failed page */
+    exit();
   }
 }
 
