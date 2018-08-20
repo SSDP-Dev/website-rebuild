@@ -79,7 +79,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     exit();
   }
   else {
-    header("Location: /signup-error"); /* Redirect browser to signup-failed page */
+    header("Location: /signup-failure"); /* Redirect browser to signup-failed page */
     exit();
   }
 }
