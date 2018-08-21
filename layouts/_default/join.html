@@ -16,7 +16,7 @@
   <p>Our Outreach staff is available to help with everything outlined below and with anything else involved in building and maintaining a chapter. If you have any questions about the chapter start-up process, please <a href="mailto:outreach@ssdp.org">email us</a>.</p>
   <h3>Submit a New Member Inquiry</h3>
   <ul>
-    <li> Fill out the form below to start the process.</li>
+    <li> Fill out the <a href="/join#join_form">form</a> below to start the process.</li>
     <li>Once we receive your chapter application, a member of our Outreach team will get in touch with you to help guide you through the steps below and connect you with our resources and other chapter leaders.</li>
   </ul>
   <h3>Learn about SSDP and our available resources</h3>
@@ -50,77 +50,71 @@
 
   <p>The student movement to end the war on drugs is expanding rapidly, and we’re happy to welcome you into that growing movement. Talk to you soon!</p>
   <p style="font-style:italic"> – SSDP’s International Staff</p>
-  <div id="content">
-  <div class="form-wrap">
+    <div id="join_form" class="form-wrap p-3">
       <div class="form" action="http://d890db3d.ngrok.io" method="post">
         <form id="become_an_ssdper_page_new_signup_form" class="ajaxForm signup_form" method="POST" action="/forms/signups" enctype="multipart/form-data"><input name="authenticity_token" value="riXPUYdodcbRodmUG0GAFdNV5YHGQn0C5Y2KCsuK9OE=" type="hidden"><input name="page_id" value="2196" type="hidden"><input name="return_to" value="https://ssdp.nationbuilder.com/become_an_ssdper" type="hidden">
-          <div
-            class="email_address_form" style="display:none;" aria-hidden="true">
-            <p><label for="email_address">Optional email code</label><br><input name="email_address" class="text" id="email_address" autocomplete="off" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;"
-                type="text"></p>
-      </div>
-      <div class="form-errors"></div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="form-group"><label for="signup_first_name">First Name</label><input class="text form-control" id="signup_first_name" name="signup[first_name]" type="text"></div>
-        </div>
-        <div class="col-md-6">
-          <div class="form-group"><label for="signup_last_name">Last Name</label><input class="text form-control" id="signup_last_name" name="signup[last_name]" type="text"></div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="form-group"><label for="signup_email">Email</label><input class="text form-control" id="signup_email" name="signup[email]" type="email"></div>
-        </div>
-        <div class="col-md-6">
-          <div class="form-group"><label for="signup_mobile_number">Mobile phone</label><input class="text form-control" id="signup_mobile_number" name="signup[mobile_number]" type="tel"></div>
-        </div>
-      </div>
-      <!-- New fields for Pronouns and Grad Year for restructure -->
-      <div class="row">
-        <div class="col-md-6">
-          <div class="form-group"><label for="signup_pronouns">Pronouns</label>
-            <input class="text form-control user-success" id="signup_pronouns" name="signup[pronouns]" placeholder="they/them/their" type="text">
+          <!-- Name -->
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group"><label for="signup_first_name">First Name</label><input class="text form-control" id="signup_first_name" name="signup[first_name]" type="text"></div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group"><label for="signup_last_name">Last Name</label><input class="text form-control" id="signup_last_name" name="signup[last_name]" type="text"></div>
+            </div>
           </div>
-        </div>
-        <div class="col-md-6">
-          <div class="form-group"><label for="signup_graduation_year">Graduation Year</label><input class="text form-control user-success" id="signup_graduation_year" name="signup_graduation_year" placeholder="Your Estimated Graduation Year" type="text"></div>
-        </div>
-      </div>
-      <!-- School and School State -->
-      <div class="row">
-        <div class="col-md-12">
-          <div class="form-group"><label for="signup_pronouns">School</label>
-            <input class="text form-control user-success" id="signup_pronouns" name="signup[school]" placeholder="School Name" type="text">
+          <!-- Email and mobile -->
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group"><label for="signup_email">Email</label><input class="text form-control" id="signup_email" name="signup[email]" type="email"></div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group"><label for="signup_mobile_number">Mobile phone</label><input class="text form-control" id="signup_mobile_number" name="signup[mobile_number]" type="tel"></div>
+            </div>
           </div>
-        </div>
+          <!-- Pronouns and Grad Year -->
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group"><label for="signup_pronouns">Pronouns</label>
+                <input class="text form-control user-success" id="signup_pronouns" name="signup[pronouns]" placeholder="they/them/their" type="text">
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group"><label for="signup_graduation_year">Graduation Year</label><input class="text form-control user-success" id="signup_graduation_year" name="signup_graduation_year" placeholder="Your Estimated Graduation Year" type="text"></div>
+            </div>
+          </div>
+          <!-- School and School State -->
+          <div class="row">
+            <div class="col-md-12">
+              <div class="form-group"><label for="signup_pronouns">School</label>
+                <input class="text form-control user-success" id="signup_pronouns" name="signup[school]" placeholder="School Name" type="text">
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="checkbox"><label for="signup_email_opt_in"><input name="signup[email_opt_in]" value="0" type="hidden"><input class="checkbox" checked="checked" id="signup_email_opt_in" name="signup[email_opt_in]" value="1" type="checkbox"> Send me email updates</label></div>
+            </div>
+            <div class="col-md-6">
+              <div class="checkbox"><label for="signup_mobile_opt_in"><input name="signup[mobile_opt_in]" value="0" type="hidden"><input class="checkbox" checked="checked" id="signup_mobile_opt_in" name="signup[mobile_opt_in]" value="1" type="checkbox"> Send me text message updates</label></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="form-group"><label for="signup_submitted_address">Mailing Address (Street, City, State, Postal code)</label><input class="text form-control" id="signup_submitted_address" name="signup[submitted_address]" type="text"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="checkbox"><label for="signup_activity_is_private"><input name="signup[activity_is_private]" value="0" type="hidden"><input class="checkbox" id="signup_activity_is_private" name="signup[activity_is_private]" value="1" type="checkbox"> Don't publish this on the website</label></div>
+            </div>
+          </div>
+          <input class="submit-button btn btn-primary" name="commit" value="Signup" type="submit">
+          <div class="form-submit"></div>
+        </form>
       </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="checkbox"><label for="signup_email_opt_in"><input name="signup[email_opt_in]" value="0" type="hidden"><input class="checkbox" checked="checked" id="signup_email_opt_in" name="signup[email_opt_in]" value="1" type="checkbox"> Send me email updates</label></div>
-        </div>
-        <div class="col-md-6">
-          <div class="checkbox"><label for="signup_mobile_opt_in"><input name="signup[mobile_opt_in]" value="0" type="hidden"><input class="checkbox" checked="checked" id="signup_mobile_opt_in" name="signup[mobile_opt_in]" value="1" type="checkbox"> Send me text message updates</label></div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div class="form-group"><label for="signup_submitted_address">Mailing Address (Street, City, State, Postal code)</label><input class="text form-control" id="signup_submitted_address" name="signup[submitted_address]" type="text"></div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div class="checkbox"><label for="signup_activity_is_private"><input name="signup[activity_is_private]" value="0" type="hidden"><input class="checkbox" id="signup_activity_is_private" name="signup[activity_is_private]" value="1" type="checkbox"> Don't publish this on the website</label></div>
-        </div>
-      </div>
-      <input class="submit-button btn btn-primary" name="commit" value="Signup" type="submit">
-      <div class="form-submit"></div>
-      </form>
+      <!-- /form -->
     </div>
-    <!-- /form -->
-  </div>
-  <!-- /form-wrap -->
-</div>
+    <!-- /form-wrap -->
 </div>
 
 {{ partial "footer.html" . }}
