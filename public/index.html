@@ -1,42 +1,328 @@
-
 <!DOCTYPE html>
 <html>
 
 <head>
-	<meta name="generator" content="Hugo 0.45" />
+	<meta name="generator" content="Hugo 0.47.1" />
+  <meta name="robots" content="noindex">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <meta charset="utf-8">
 
-  <base href="">
+  <base href="https://ssdp.netlify.com">
+
   <title> SSDP Rebuild </title>
 
-  <link rel="canonical" href="/">
+  <link rel="icon" type="image/x-icon" href="img/ssdp_favicon.png">
+
+  <link rel="canonical" href="https://ssdp.netlify.com/">
+
+  <link rel="stylesheet" href="css/main.css">
   
-  <link rel="stylesheet" href="/scss/main.scss" integrity="" media="screen">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
 
 </head>
 
 <body lang="en">
+ <header>
+  <div class="ssdp-full-header">
+    <div id="subheader" class="container">
+      <div class="section">
+        <div class="ssdp-header-contacts text-john-walsh-ssdp">
+          <a class="" href="mailto:ssdp@ssdp.org" target="" data-toggle="tooltip" data-placement="" title="">
+            <div class="ssdp-header-contact-item"><i class="fas fa-envelope"></i> ssdp@ssdp.org</div>
+          </a>
+          <div class="ssdp-header-contact-item"><i class="fas fa-mobile-alt"></i> 202-393-5280</div>
+        </div>
+        <a target="_blank" href="https://www.youtube.com/user/SSDP" class="ssdp-header-soc-icon" title="YouTube" style="opacity: 0.9;">
+          <i class="fab fa-youtube"></i></a>
+        <a target="_blank" href="https://www.instagram.com/schoolsnotprisons/" class="ssdp-header-soc-icon" title="Instagram" style="opacity: 0.9;">
+        <i class="fab fa-instagram"></i></a>
+        <a target="_blank" href="https://twitter.com/ssdp" class="ssdp-header-soc-icon" title="Twitter" style="opacity: 0.9;">
+        <i class="fab fa-twitter"></i></a>
+        <a target="_blank" href="https://www.facebook.com/ssdp/" class="ssdp-header-soc-icon" title="Facebook" style="opacity: 0.9;">
+        <i class="fab fa-facebook-f"></i></a>
+      </div>
+    </div>
+  </div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+      <img src="img/SSDP20-logo-transparent.png" />
+    </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/mission">Mission and Values</a>
+              <a class="dropdown-item" href="/history">History</a>
+              <a class="dropdown-item" href="/strategy">Strategy</a>
+              <a class="dropdown-item" href="/staff">Staff</a>
+              <a class="dropdown-item" href="/board">Board of Directors</a>
+              <a class="dropdown-item" href="/advisory-council">Advisory Council</a>
+              <a class="dropdown-item" href="/reports">Annual Reports and Financial Statements</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class=" dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Our Work
+        </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/chapters">Chapters</a>
+              <a class="dropdown-item" href="/justsayknow">Just Say Know Drug Education</a>
+              <a class="dropdown-item" href="/gradebook">Campus Drug Policy Gradebook</a>
+              <a class="dropdown-item" href="/dare">Diversity, Awareness, Reflection, and Education</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class=" dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Resources
+        </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/movement">Movement Building</a>
+              <a class="dropdown-item" href="/justsayknow">Drug Education</a>
+              <a class="dropdown-item" href="/campaigns">Policy Change</a>
+            </div>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="/join">Join</a></li>
+          <li class="nav-item"><a class="nav-link" href="/mailing-list">Subscribe</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://ssdp.org/blog">Blog</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://ssdp.nationbuilder.com/donate">Donate</a></li> 
+        </ul>
+      </div>
+    </div>
 
+  </nav>
+  <div class="bg-john-walsh-ssdp" style="height:35px"></div>
+</header>
 
-Something
+<style>
 
-<footer>
-  <div class="container">
-    
-    
-    <h6>
-      *SEE OUR NON-DISCRIMINATION POLICY
-    </h6>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, [col-start] 1fr);
+    grid-auto-flow: dense;
+  }
+
+  .campus-change,
+  .dpr-global,
+  .chapters-map,
+  .find-your-chapter,
+  .for-students,
+  .full-text,
+  .harm-reduction,
+  .half-text,
+  .just-say-know,
+  .get-updates,
+  .hero-img,
+  .romain-img,
+  .testimonials {
+    grid-column: 1 / -1;
+  }
+
+  @media all and (min-width: 43.75rem) {
+    .find-your-chapter {
+      grid-column: 1 / 5;
+    }
+    .get-updates {
+      grid-column: 5 / 9;
+    }
+    .for-students {
+      grid-column: 9 / 13;
+    }
+    .dpr-global, .harm-reduction {
+      grid-column: 1 / 2;
+    }
+    .campus-change, .just-say-know {
+      grid-column: 2 / 3;
+    }
+
+    .half-text {
+      grid-column: 1 / 7;
+      display: grid;
+      grid-template-columns: 50% 50%;
+      grid-template-rows: 20% 40% 40%;
+    }
+    .romain-img {
+      grid-column: 7 / 13;
+    }
+  }
+
+</style>
+<div class="grid">
+  <div class="hero-img">
+    <img class="img-responsive" src="/img/home-page-hero.jpg" alt=" " style="width:100%" />
+  </div>
+  <div class="full-text bg-john-walsh-ssdp p-3">
+    <div class="container">
+      <div class="text-white" style="font-size:24px;">We are replacing the disastrous war on drugs with policies rooted in evidence, compassion and human rights. Our 5,000 student members mobilize from 300 schools around the globe to make change from the campus to the UN because the war on drugs is
+        a war on us.
+      </div>
+      <a href=" ">  <button type="button" class="btn btn-default ssdp-round-button">TAKE ACTION <i class="fas fa-angle-double-right"></i>
+    </button></a>
+      <a href=" "><button type="button" class="btn btn-default ssdp-round-button">DONATE NOW <i class="fas fa-angle-double-right"></i></button></a>
+    </div>
+  </div>
+  <div class="find-your-chapter p-5" style="background: #bce051">
+    <h4 class="ssdp-front-page-header">Find Your Chapter</h4>
+    <p class="text-white">From Hawaii to Maine and from Alaska to Georgia, you will find a chapter nearby.&nbsp;From 300 campuses in 13 countries, SSDP members mobilize to end the drug war.</p>
+    <a href="https://ssdp.org/chapters/" target="_self"><button type="button" class="btn btn-default ssdp-round-button">Search <i class="fas fa-search"></i></button></a>
+  </div>
+  <div class="get-updates p-5" style="background: #07a8a2">
+    <h4 class="ssdp-front-page-header">Get Updates &amp; Alerts</h4>
+    <p class="text-white">Whether it’s for national news alerts, local action alerts, campaign activities or details on an event near you, sign up to stay informed and get involved in SSDP.</p>
+    <a href="http://ssdp.nationbuilder.com/mailing_list_signup" target="_self">  <button type="button" class="btn btn-default ssdp-round-button">Subscribe <i class="far fa-envelope"></i></button></a>
+  </div>
+  <div class="for-students p-5" style="background:#2a3636">
+    <h4 class="ssdp-front-page-header">Students</h4>
+    <p class="text-white">Since 1998, SSDP’s students have led a powerful grassroots movement to end the Drug War and begin a new era that sensibly and humanely tackles one of society’s most complex issues.</p>
+    <a href="https://ssdp.org/chapters/start/" target="_self">  <button type="button" class="btn btn-default ssdp-round-button">Get Involved <i class="fas fa-arrow-circle-right"></i></button></a>
   </div>
   
-</footer>
+  <div class="chapters-map pb-5" style="background-color: ##f7f7f7">
+    <div class="container">
+      <h2 class="p-5" style="text-align: center">Chapters Map</h2>
+      <hr />
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1eJ4HTTVUrMGa0HlB8Tjk-8Pgrfc" width="100%" height="400px" style="display: block; margin: 0 auto;"></iframe>
+    </div>
+  </div>
 
+  <div class="half-text bg-john-walsh-ssdp">
+    <div class="full-text bg-john-walsh-ssdp pt-5">
+      <h2 class="text-white" style="text-align: center">
+          Change your campus.<br /> Change your world.</h2>
+      <hr />
+    </div>
+    <div class="dpr-global bg-john-walsh-ssdp p-2">
+      <div class="container">
+        <h3 class="text-white">Global drug policy reform</h3>
+        <p class="text-white"> <i class="fas fa-globe ssdp-front-page-icon"></i> We ensure active and meaningful youth participation of youth and youth-related organizations in the development, implementation and evaluation of drug policies and programs.</p>
+      </div>
+    </div>
+    <div class="campus-change bg-john-walsh-ssdp p-2">
+      <div class="container">
+        <h3 class="text-white">Campus Change</h3>
+        <p class="text-white"> <i class="fas fa-book ssdp-front-page-icon"></i> We reform campus drug policies to replace detrimental punishment with supportive, life-saving responses to complex situations.</p>
+      </div>
+    </div>
+    <div class="harm-reduction bg-john-walsh-ssdp p-2">
+      <div class="container">
+        <h3 class="text-white">Harm Reduction Action</h3>
+        <p class="text-white"> <i class="fas fa-redo-alt ssdp-front-page-icon"></i> We expand harm reduction in our communities through campus action and partnerships with harm reduction service providers.</p>
+      </div>
+    </div>
+    <div class="just-say-know bg-john-walsh-ssdp p-2">
+      <div class="container">
+        <h3 class="text-white">Just Say Know</h3>
+        <p class="text-white"> <i class="fas fa-bullhorn ssdp-front-page-icon"></i> We deliver evidence based peer-to-peer drug education that empowers young people to navigate the complex choices regarding drugs and drug use.</p>
+      </div>
+    </div>
+  </div>
+  <div class="romain-img">
+    <img src="/img/romain-hero.jpg" style="width: 100%"/>
+  </div>
+  <div id="carouselIndicators" class="carousel slide full-text p-5" data-ride="carousel" style="background-image: url('img/testimonial_background.jpg'); background-size: cover;">>
+    <h2 class="text-orange-ssdp" style="text-align: center; margin-top: 0px; padding-top: 20px;">What Our Students Say</h2>
+    <hr class="bg-teal-ssdp" width="10%" />
+    <ol class="carousel-indicators">
+      <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselIndicators" data-slide-to="2"></li>
+      <li data-target="#carouselIndicators" data-slide-to="3"></li>
+      <li data-target="#carouselIndicators" data-slide-to="4"></li>
+      <li data-target="#carouselIndicators" data-slide-to="5"></li>
+      <li data-target="#carouselIndicators" data-slide-to="6"></li>
+      <li data-target="#carouselIndicators" data-slide-to="7"></li>
+      <li data-target="#carouselIndicators" data-slide-to="9"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+      <div class="container">
+      <div class="carousel-item active">
+        <p>“SSDP has given me the tools and opportunities to fight back and advocate for my clients on a grander scale. My SSDP family has inspired me toward a harm reduction approach to treating mental health and substance use disorders. Most significantly,
+          SSDP has given me the chance to live out my dream of developing a science and harm reduction-based drug education curriculum.”</p>
+        <h3>Vilmarie Narloch '09</h3>
+        <p>Roosevelt University</p>
+      </div>
+      <div class="carousel-item">
+        <p>“In 1998, I was just starting to wake up to the horrors of the war on drugs. A psychology undergrad at the University of Illinois, Chicago, I had just learned about the provision in the higher education act that prohibited people with drug offenses
+          from obtaining money for college. This seemed so unnecessary and outrageous, but I feared that coming out in favor of changing drug policies would stigmatize me. I didn’t know that others felt this way about these morally-driven policies. Then
+          I heard about a new organization, SSDP, and their first national conference. I attended, and it changed my life. I knew I was not alone and that my outrage was shared by other intelligent, motivated people. It was the start of a community that
+          became a movement and is now a force. SSDP is the breeding ground for agents of social change.”</p>
+        <h3>Amanda Reiman ’98 </h3>
+        <p>University of California, Berkeley</p>
+      </div>
+      <div class="carousel-item">
+        <p>“Upon leaving the service and concluding my short military career, I wanted to be part of an organization that was serious about tackling the failed war on drugs, and one that wasn’t afraid to get their boots dirty.”</p>
+        <h3>Eric Gudz</h3>
+        <p>University of California, Davis</p>
+      </div>
+      <div class="carousel-item">
+        <p>“As a college freshman, SSDP introduced me to the drug policy reform movement, where I found a purpose and my calling. Ten years ago, I put the ideals and principles of SSDP into action with a career in the legal cannabis industry. I stand alongside
+          other SSDP alum at the forefront of social entrepreneurship, and owe so much to SSDP for helping me and this immensely fulfilling path.”</p>
+        <h3>Sean Luse '00</h3>
+        <p>Berkeley Patients Group</p>
+      </div>
+      <div class="carousel-item">
+        <p>“Soy líder de EPSD en México porque quiero cambiar las políticas de mi país, y quiero que la situación de los jóvenes cambie. Los jóvenes en México hemos sido los más afectado por la guerra contra las drogas, la primera causa de muerte
+          en jóvenes es homicidio y se tiene registro que uno de cada cuatro muertos en el sexenio de Felipe Calderón era joven de entre 15 a 29 años. Tu apoyo nos hace seguir adelante con nuestro sueño de cambiar nuestro país.”</p>
+        <h3>Emma Guadalupe Rodriguez Romero</h3>
+        <p>Estudiantes por una Política Sensata de Drogas, México</p>
+      </div>
+      <div class="carousel-item">
+        <p>“It’s been nothing but a pure joy watching SSDP grow into such an influential and effective organization since we started the first chapter at RIT back in 1998. Students for Sensible Drug Policy has had an enormously positive impact on not only
+          my life but also on the thousands of alumni who have built it into what it is today, to say nothing of the millions of people who have benefited from the sensible drug policy changes brought about by SSDP’s work. I couldn’t be more proud.”
+        </p>
+        <h3>Shea Gunther '97</h3>
+        <p>Rochester Institute of Technology</p>
+      </div>
+      <div class="carousel-item">
+        <p>“’What about the children?’ is a question often asked during conversations about drug policy reform, but rarely answered by the ‘children’ themselves. My involvement with SSDP has allowed me to represent the youth voice in drug policy debates
+          at the state, national, and international levels, ensuring that the very policies meant to protect us do not end up harming us instead.” </p>
+        <h3>Sarah Merrigan '13</h3>
+        <p>University of Nebraska Omaha</p>
+      </div>
+      <div class="carousel-item">
+        <p>“I found out about SSDP just last year, and I helped set up the first chapter in Dublin. In this short time, we have hosted respected international speakers at the annual SSDP Ireland conference and ran a successful ‘Support Don’t Punish’ campaign
+          where we got the government minister for drug strategy to publicly support decriminalization of drugs. We are now preparing an invited document for submission to the Irish Parliament on decriminalization. SSDP in Ireland has really taken off
+          in the past year. I am so proud to be a part of this movement and am very excited for the future!”</p>
+        <h3>Dan Kirby '14</h3>
+        <p>Dublin City University</p>
+      </div>
+      <div class="carousel-item">
+        <p>“It’s imperative that African Americans build power in the realm of drug policy. African Americans are among the most at risk for mass incarceration because drug sentencing laws are designed oblivious to their impact on our communities or, worse,
+          with malicious intent. SSDP has given me precious connections and resources to challenge mass incarceration from many angles.”</p>
+        <h3>Quentin Savage '14</h3>
+        <p>Berea College</p>
+      </div>
+    </div>
+  </div>
+  </div>
 </div>
+<footer class="footer bg-navy-ssdp">
+      <div class="container p-5">
+        <span class="text-gray-ssdp">© 2018 Students for Sensible Drug Policy   |  1011 O Street NW #1 Washington, DC 20001   |  202-393-5280 | ssdp@ssdp.org</span>
+        <a target="_blank" href="https://www.youtube.com/user/SSDP" class="ssdp-footer-soc-icon" title="YouTube" style="opacity: 0.9;">
+          <i class="fab fa-youtube"></i></a>
+        <a target="_blank" href="https://www.instagram.com/schoolsnotprisons/" class="ssdp-footer-soc-icon" title="Instagram" style="opacity: 0.9;">
+        <i class="fab fa-instagram"></i></a>
+        <a target="_blank" href="https://twitter.com/ssdp" class="ssdp-footer-soc-icon" title="Twitter" style="opacity: 0.9;">
+        <i class="fab fa-twitter"></i></a>
+        <a target="_blank" href="https://www.facebook.com/ssdp/" class="ssdp-footer-soc-icon" title="Facebook" style="opacity: 0.9;">
+        <i class="fab fa-facebook-f"></i></a>
+      </div>
+    </footer>
+
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 
-<script src="js/bootstrap.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 </body>
 
 </html>

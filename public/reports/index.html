@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="robots" content="noindex">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta charset="utf-8">
+
+  <base href="https://ssdp.netlify.com">
+
+  <title> SSDP Rebuild </title>
+
+  <link rel="icon" type="image/x-icon" href="img/ssdp_favicon.png">
+
+  <link rel="canonical" href="https://ssdp.netlify.com/reports/">
+
+  <link rel="stylesheet" href="css/main.css">
+  
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+
+</head>
+
+<body lang="en">
+ <header>
+  <div class="ssdp-full-header">
+    <div id="subheader" class="container">
+      <div class="section">
+        <div class="ssdp-header-contacts text-john-walsh-ssdp">
+          <a class="" href="mailto:ssdp@ssdp.org" target="" data-toggle="tooltip" data-placement="" title="">
+            <div class="ssdp-header-contact-item"><i class="fas fa-envelope"></i> ssdp@ssdp.org</div>
+          </a>
+          <div class="ssdp-header-contact-item"><i class="fas fa-mobile-alt"></i> 202-393-5280</div>
+        </div>
+        <a target="_blank" href="https://www.youtube.com/user/SSDP" class="ssdp-header-soc-icon" title="YouTube" style="opacity: 0.9;">
+          <i class="fab fa-youtube"></i></a>
+        <a target="_blank" href="https://www.instagram.com/schoolsnotprisons/" class="ssdp-header-soc-icon" title="Instagram" style="opacity: 0.9;">
+        <i class="fab fa-instagram"></i></a>
+        <a target="_blank" href="https://twitter.com/ssdp" class="ssdp-header-soc-icon" title="Twitter" style="opacity: 0.9;">
+        <i class="fab fa-twitter"></i></a>
+        <a target="_blank" href="https://www.facebook.com/ssdp/" class="ssdp-header-soc-icon" title="Facebook" style="opacity: 0.9;">
+        <i class="fab fa-facebook-f"></i></a>
+      </div>
+    </div>
+  </div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+      <img src="img/SSDP20-logo-transparent.png" />
+    </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          About
+        </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/mission">Mission and Values</a>
+              <a class="dropdown-item" href="/history">History</a>
+              <a class="dropdown-item" href="/strategy">Strategy</a>
+              <a class="dropdown-item" href="/staff">Staff</a>
+              <a class="dropdown-item" href="/board">Board of Directors</a>
+              <a class="dropdown-item" href="/advisory-council">Advisory Council</a>
+              <a class="dropdown-item" href="/reports">Annual Reports and Financial Statements</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class=" dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Our Work
+        </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/chapters">Chapters</a>
+              <a class="dropdown-item" href="/justsayknow">Just Say Know Drug Education</a>
+              <a class="dropdown-item" href="/gradebook">Campus Drug Policy Gradebook</a>
+              <a class="dropdown-item" href="/dare">Diversity, Awareness, Reflection, and Education</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class=" dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Resources
+        </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/movement">Movement Building</a>
+              <a class="dropdown-item" href="/justsayknow">Drug Education</a>
+              <a class="dropdown-item" href="/campaigns">Policy Change</a>
+            </div>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="/join">Join</a></li>
+          <li class="nav-item"><a class="nav-link" href="/mailing-list">Subscribe</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://ssdp.org/blog">Blog</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://ssdp.nationbuilder.com/donate">Donate</a></li> 
+        </ul>
+      </div>
+    </div>
+
+  </nav>
+  <div class="bg-john-walsh-ssdp" style="height:35px"></div>
+</header>
+
+
+<style>
+   
+
+  .r-tabs .r-tabs-nav {
+    margin: 0;
+    padding: 0;
+  }
+
+  .r-tabs .r-tabs-tab {
+    display: inline-block;
+    margin: 0;
+    list-style: none;
+  }
+
+  .r-tabs .r-tabs-panel {
+    padding: 15px;
+    display: none;
+    height: 200px;
+  }
+
+  .r-tabs .r-tabs-accordion-title {
+    display: none;
+  }
+
+  .r-tabs .r-tabs-panel.r-tabs-state-active {
+    display: block;
+  }
+
+   
+
+  @media only screen and (max-width: 768px) {
+    .r-tabs .r-tabs-nav {
+      display: none;
+    }
+
+    .r-tabs .r-tabs-accordion-title {
+      display: block;
+    }
+  }
+
+   
+
+  .r-tabs {
+    position: relative;
+
+    background-color: #17BEBB;
+
+    border-top: 1px solid #17BEBB;
+    border-right: 1px solid #17BEBB;
+    border-left: 1px solid #17BEBB;
+    border-bottom: 4px solid #17BEBB;
+    border-radius: 4px;
+
+  }
+
+   
+
+  .r-tabs .r-tabs-nav .r-tabs-tab {
+    position: relative;
+    background-color: #17BEBB;
+  }
+
+   
+
+  .r-tabs .r-tabs-nav .r-tabs-anchor {
+    display: inline-block;
+    padding: 10px 12px;
+
+    text-decoration: none;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+  }
+
+   
+
+  .r-tabs .r-tabs-nav .r-tabs-state-disabled {
+    opacity: 0.5;
+  }
+
+   
+
+  .r-tabs .r-tabs-nav .r-tabs-state-active .r-tabs-anchor {
+    color: #17BEBB;
+    text-shadow: none;
+
+    background-color: white;
+
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+
+   
+
+  .r-tabs .r-tabs-panel {
+    background-color: white;
+
+    border-bottom: 4px solid white;
+
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+
+  }
+
+   
+
+  .r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+    display: block;
+    padding: 10px;
+
+    background-color: #17BEBB;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+
+   
+
+  .r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
+    background-color: #fff;
+    color: #17BEBB;
+    text-shadow: none;
+  }
+
+   
+
+  .r-tabs .r-tabs-accordion-title.r-tabs-state-disabled {
+    opacity: 0.5;
+  }
+
+   
+
+  button {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    line-height: 100%;
+
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+    vertical-align: middle;
+    font-weight: bold;
+
+    border: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #17BEBB;
+    box-shadow: 0px 3px 0px 0px #00ab94;
+
+    cursor: pointer;
+  }
+
+   
+
+  .info {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    width: 300px;
+    line-height: 100%;
+
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 14px;
+    color: #17BEBB;
+    border: 2px solid #00ab94;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #fff;
+
+    cursor: pointer;
+  }
+
+  .report-img {
+    float: left;
+    margin-right: 3rem;
+    max-width: 150px;
+  }
+
+  .navbar-toggler {
+    box-shadow: none;
+  }
+</style>
+
+<div class="container" style="height: 100vh">
+  <div id="responsiveTabsDemo" class="mt-5">
+    <ul>
+      <li><a href="#tab-1"> 2017-2018 </a></li>
+      <li><a href="#tab-2"> 2016-2017 </a></li>
+      <li><a href="#tab-3"> 2015-2016 </a></li>
+      <li><a href="#tab-4"> 2014-2015 </a></li>
+      <li><a href="#tab-5"> 2013-2014 </a></li>
+      <li><a href="#tab-6"> 2012-2013 </a></li>
+      <li><a href="#tab-7"> 2011-2012 </a></li>
+
+    </ul>
+    <div id="tab-1">
+      <ul>
+        <li><a href="https://ssdp.org/wp-content/uploads/2018/08/SSDP-FY17-Public-Disclosure-Copy-Form-990.pdf">2017 IRS Form 990</a></li>
+        <li><a href="https://ssdp.org/wp-content/uploads/2018/08/SSDP-17-FS-Final-1.pdf">2017 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-2">
+      <img class="report-img" src="img/2016-2017-annual-report-cover-e1510183086686.jpg" />
+      <ul>
+        <li><a href="https://drive.google.com/file/d/0B7fh6jX33lH5SW9CQU0tRkwtQWs/view?usp=sharing">2016-17 Annual Report</a></li>
+        <li><a href="https://drive.google.com/open?id=0B7fh6jX33lH5RWZ1MW1SZHRlSTA">2016 IRS Form 990</a></li>
+        <li><a href="https://drive.google.com/open?id=0Bw9DFXUmq190cEFuVFhmVlU2dXJDS0lOb1lpNUhFeTRCdWo4">2016 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-3">
+      <img class="report-img" src="img/annua_reports_15_16.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/SSDP-2016-annual-report.pdf">2015-2016 Annual Report</a></li>
+        <li><a href="https://ssdp.org/assets/SSDP-FY15-Public-Disclosure-Copy-Form-990.pdf">2015 IRS Form 990</a></li>
+        <li><a href="https://ssdp.org/assets/SSDP-15-FS-Final.pdf">2015 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-4">
+      <img class="report-img" src="img/2015annual.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/ssdp-annual-report-2015-FINAL.pdf">2014-2015 Annual Report</a></li>
+        <li><a href="http://ssdp.org/assets/SSDP-FY14-Public-Disclosure-Copy-Form-990.pdf">2014 IRS Form 990</a></li>
+        <li><a href="http://ssdp.org/assets/SSDP-FS-15-Final-R.pdf">2014 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-5">
+      <img class="report-img" src="img/2014annual.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/SSDP-Annual-Report-2014.pdf">2013-2014 Annual Report</a></li>
+        <li><a href="https://ssdp.org//assets/SSDP-FY13-Public-Disclosure-Copy-Form-990.pdf">2013 IRS Form 990</a></li>
+        <li><a href="https://ssdp.org/assets/SSDP-13-FS-Final.pdf">2013 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-6">
+      <img class="report-img" src="img/2013annual.jpeg" />
+      <ul>
+        <li><a href="https://ssdp.org/documents/Annual-Report-2013.pdf">2012-2013 Annual Report</a></li>
+        <li><a href="https://ssdp.org/assets/2012-SSDP-990-Public-Disclosure.pdf">2012 IRS Form 990</a></li>
+      </ul>
+    </div>
+    <div id="tab-7">
+      <img class="report-img" src="img/2012annual.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/2012/09/SSDP-Annual-Report-2012.pdf">2011-2012 Annual Report</a></li>
+        <li><a href="https://ssdp.org/assets/2011-990-Public-Disclosure.pdf">2011 IRS Form 990</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<footer class="footer bg-navy-ssdp">
+      <div class="container p-5">
+        <span class="text-gray-ssdp">© 2018 Students for Sensible Drug Policy   |  1011 O Street NW #1 Washington, DC 20001   |  202-393-5280 | ssdp@ssdp.org</span>
+        <a target="_blank" href="https://www.youtube.com/user/SSDP" class="ssdp-footer-soc-icon" title="YouTube" style="opacity: 0.9;">
+          <i class="fab fa-youtube"></i></a>
+        <a target="_blank" href="https://www.instagram.com/schoolsnotprisons/" class="ssdp-footer-soc-icon" title="Instagram" style="opacity: 0.9;">
+        <i class="fab fa-instagram"></i></a>
+        <a target="_blank" href="https://twitter.com/ssdp" class="ssdp-footer-soc-icon" title="Twitter" style="opacity: 0.9;">
+        <i class="fab fa-twitter"></i></a>
+        <a target="_blank" href="https://www.facebook.com/ssdp/" class="ssdp-footer-soc-icon" title="Facebook" style="opacity: 0.9;">
+        <i class="fab fa-facebook-f"></i></a>
+      </div>
+    </footer>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+<script src="/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+<script src="js/jquery.responsiveTabs.min.js"></script>
+
+<script>
+  $('#responsiveTabsDemo').responsiveTabs({
+    startCollapsed: 'accordion'
+  });
+</script>

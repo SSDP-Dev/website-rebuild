@@ -3,16 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://ssdp.netlify.com/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://ssdp.netlify.com/advisory-council/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/board/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/bylaws/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/campaigns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/chapter-faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/chapters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/dare/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/gradebook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/history/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/join-survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/join/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/justsayknow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/mailing-list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/mission/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/movement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/reports/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/signup-failure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/signup-success/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/staff/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/strategy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssdp.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://ssdp.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,3930 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>SSDP New Campus Map</name>
+		<description><![CDATA[Updated September 2016]]></description>
+		<Folder>
+			<name>SSDP Chapters</name>
+			<Placemark>
+				<name>Boston College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Boston, MA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Boston, MA</value>
+					</Data>
+				</ExtendedData>
+				<address>Boston College EST Boston, MA</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Massachusetts Lowell</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 1 University Ave, Lowell, MA 01852]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 University Ave, Lowell, MA 01852</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Massachusetts Lowell AMB 1 University Ave, Lowell, MA 01852</address>
+			</Placemark>
+			<Placemark>
+				<name>Worcester State University</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 486 Chandler St, Worcester, MA 01602]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>486 Chandler St, Worcester, MA 01602</value>
+					</Data>
+				</ExtendedData>
+				<address>Worcester State University AMB 486 Chandler St, Worcester, MA 01602</address>
+			</Placemark>
+			<Placemark>
+				<name>Harvard Law School</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 1585 Massachusetts Avenue Cambridge, MA 02138]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1585 Massachusetts Avenue Cambridge, MA 02138</value>
+					</Data>
+				</ExtendedData>
+				<address>Harvard Law School AMB 1585 Massachusetts Avenue Cambridge, MA 02138</address>
+			</Placemark>
+			<Placemark>
+				<name>Brandeis University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 415 South St, Waltham, MA 02453]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>415 South St, Waltham, MA 02453</value>
+					</Data>
+				</ExtendedData>
+				<address>Brandeis University INT 415 South St, Waltham, MA 02453</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Massachusetts Amherst</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Amherst, MA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Amherst, MA</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Massachusetts Amherst EST Amherst, MA</address>
+			</Placemark>
+			<Placemark>
+				<name>Tufts University</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 419 Boston Ave, Medford, MA 02155‎]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>419 Boston Ave, Medford, MA 02155‎</value>
+					</Data>
+				</ExtendedData>
+				<address>Tufts University AMB 419 Boston Ave, Medford, MA 02155‎</address>
+			</Placemark>
+			<Placemark>
+				<name>Endicott College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 376 Hale St, Beverly, MA 01915]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>376 Hale St, Beverly, MA 01915</value>
+					</Data>
+				</ExtendedData>
+				<address>Endicott College INT 376 Hale St, Beverly, MA 01915</address>
+			</Placemark>
+			<Placemark>
+				<name>Dean College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Franklin, MA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Franklin, MA</value>
+					</Data>
+				</ExtendedData>
+				<address>Dean College INT Franklin, MA</address>
+			</Placemark>
+			<Placemark>
+				<name>Massachusetts College of Liberal Arts</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 375 Church St, North Adams, MA 01247]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>375 Church St, North Adams, MA 01247</value>
+					</Data>
+				</ExtendedData>
+				<address>Massachusetts College of Liberal Arts EST 375 Church St, North Adams, MA 01247</address>
+			</Placemark>
+			<Placemark>
+				<name>Northeastern University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 360 Huntington Ave, Boston, MA 02115]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>360 Huntington Ave, Boston, MA 02115</value>
+					</Data>
+				</ExtendedData>
+				<address>Northeastern University EST 360 Huntington Ave, Boston, MA 02115</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Massachusetts Boston</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 100 Morrissey Boulevard, Boston, MA 02125]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>100 Morrissey Boulevard, Boston, MA 02125</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Massachusetts Boston EST 100 Morrissey Boulevard, Boston, MA 02125</address>
+			</Placemark>
+			<Placemark>
+				<name>Celebration High School</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Celebration High School INT</address>
+			</Placemark>
+			<Placemark>
+				<name>Broward College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Broward College INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Florida</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 100 Fletcher Drive Gainesville, FL 32611]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>100 Fletcher Drive Gainesville, FL 32611</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Florida AMB 100 Fletcher Drive Gainesville, FL 32611</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Miami</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1320 South Dixie Highway, Coral Gables, FL 33124]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1320 South Dixie Highway, Coral Gables, FL 33124</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Miami EST 1320 South Dixie Highway, Coral Gables, FL 33124</address>
+			</Placemark>
+			<Placemark>
+				<name>Eckerd College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4200 54th Ave S, St. Petersburg, FL 33711]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4200 54th Ave S, St. Petersburg, FL 33711</value>
+					</Data>
+				</ExtendedData>
+				<address>Eckerd College EST 4200 54th Ave S, St. Petersburg, FL 33711</address>
+			</Placemark>
+			<Placemark>
+				<name>New College of Florida</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 5800 Bay Shore Road, Sarasota, FL 34243]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>5800 Bay Shore Road, Sarasota, FL 34243</value>
+					</Data>
+				</ExtendedData>
+				<address>New College of Florida EST 5800 Bay Shore Road, Sarasota, FL 34243</address>
+			</Placemark>
+			<Placemark>
+				<name>Miami-Dade College</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 1780 W 49th St, Hialeah, FL 33012]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1780 W 49th St, Hialeah, FL 33012</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>Florida Gulf Coast University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 10501 FGCU Boulevard South, Fort Myers, FL 33965]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>10501 FGCU Boulevard South, Fort Myers, FL 33965</value>
+					</Data>
+				</ExtendedData>
+				<address>Florida Gulf Coast University EST 10501 FGCU Boulevard South, Fort Myers, FL 33965</address>
+			</Placemark>
+			<Placemark>
+				<name>Florida State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 282 Champions Way, Tallahassee, FL 32306]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>282 Champions Way, Tallahassee, FL 32306</value>
+					</Data>
+				</ExtendedData>
+				<address>Florida State University EST 282 Champions Way, Tallahassee, FL 32306</address>
+			</Placemark>
+			<Placemark>
+				<name>Bethune-Cookman University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 640 Dr Mary McLeod Bethune Blvd, Daytona Beach, FL 32114]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>640 Dr Mary McLeod Bethune Blvd, Daytona Beach, FL 32114</value>
+					</Data>
+				</ExtendedData>
+				<address>Bethune-Cookman University INT 640 Dr Mary McLeod Bethune Blvd, Daytona Beach, FL 32114</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Central Florida</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4000 Central Florida Blvd, Orlando, FL 32816]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4000 Central Florida Blvd, Orlando, FL 32816</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Central Florida EST 4000 Central Florida Blvd, Orlando, FL 32816</address>
+			</Placemark>
+			<Placemark>
+				<name>Barry University</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 11300 Northeast 2nd Avenue, Miami, FL 33161]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>11300 Northeast 2nd Avenue, Miami, FL 33161</value>
+					</Data>
+				</ExtendedData>
+				<address>Barry University AMB 11300 Northeast 2nd Avenue, Miami, FL 33161</address>
+			</Placemark>
+			<Placemark>
+				<name>Florida International University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 11200 PC230, University Park, FL 33199]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>11200 PC230, University Park, FL 33199</value>
+					</Data>
+				</ExtendedData>
+				<address>Florida International University EST 11200 PC230, University Park, FL 33199</address>
+			</Placemark>
+			<Placemark>
+				<name>University of South Florida</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4202 E. Fowler Avenue, SVC 1036. Tampa, FL 33620-6900]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4202 E. Fowler Avenue, SVC 1036. Tampa, FL 33620-6900</value>
+					</Data>
+				</ExtendedData>
+				<address>University of South Florida EST 4202 E. Fowler Avenue, SVC 1036. Tampa, FL 33620-6900</address>
+			</Placemark>
+			<Placemark>
+				<name>Florida Atlantic University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 777 Glades Rd, Boca Raton, FL 33431]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>777 Glades Rd, Boca Raton, FL 33431</value>
+					</Data>
+				</ExtendedData>
+				<address>Florida Atlantic University INT 777 Glades Rd, Boca Raton, FL 33431</address>
+			</Placemark>
+			<Placemark>
+				<name>Lewis and Clark Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Portland, Oregon]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Portland, Oregon</value>
+					</Data>
+				</ExtendedData>
+				<address>Lewis and Clark Law School EST Portland, Oregon</address>
+			</Placemark>
+			<Placemark>
+				<name>Lane Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Eugene, Oregon]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Eugene, Oregon</value>
+					</Data>
+				</ExtendedData>
+				<address>Lane Community College INT Eugene, Oregon</address>
+			</Placemark>
+			<Placemark>
+				<name>Seattle University School of Law</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Seattle University School of Law AMB</address>
+			</Placemark>
+			<Placemark>
+				<name>Reed College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Portland, Oregon]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Portland, Oregon</value>
+					</Data>
+				</ExtendedData>
+				<address>Reed College EST Portland, Oregon</address>
+			</Placemark>
+			<Placemark>
+				<name>Portland Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1262 se 49th Ave., Portland 97215]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1262 se 49th Ave., Portland 97215</value>
+					</Data>
+				</ExtendedData>
+				<address>Portland Community College INT 1262 se 49th Ave., Portland 97215</address>
+			</Placemark>
+			<Placemark>
+				<name>Portland State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Portland, Oregon]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Portland, Oregon</value>
+					</Data>
+				</ExtendedData>
+				<address>Portland State University EST Portland, Oregon</address>
+			</Placemark>
+			<Placemark>
+				<name>Willamette University College of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Salem, Oregon]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Salem, Oregon</value>
+					</Data>
+				</ExtendedData>
+				<address>Willamette University College of Law EST Salem, Oregon</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Oregon</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Eugene, Oregon]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Eugene, Oregon</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Oregon EST Eugene, Oregon</address>
+			</Placemark>
+			<Placemark>
+				<name>Western Washington University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2012 Donovan Avenue,, Apt B., Bellingham, WA, 98225]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2012 Donovan Avenue,, Apt B., Bellingham, WA, 98225</value>
+					</Data>
+				</ExtendedData>
+				<address>Western Washington University EST 2012 Donovan Avenue,, Apt B., Bellingham, WA, 98225</address>
+			</Placemark>
+			<Placemark>
+				<name>Oregon State University </name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Corvallis, OR ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Corvallis, OR </value>
+					</Data>
+				</ExtendedData>
+				<address>Oregon State University  EST Corvallis, OR</address>
+			</Placemark>
+			<Placemark>
+				<name>Lewis and Clark College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Portland, Oregon]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Portland, Oregon</value>
+					</Data>
+				</ExtendedData>
+				<address>Lewis and Clark College EST Portland, Oregon</address>
+			</Placemark>
+			<Placemark>
+				<name>Carnegie Mellon University, Heinz College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Pittsburgh, PA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Pittsburgh, PA</value>
+					</Data>
+				</ExtendedData>
+				<address>Carnegie Mellon University, Heinz College INT Pittsburgh, PA</address>
+			</Placemark>
+			<Placemark>
+				<name>Muhlenberg College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2400 W Chew St, Allentown, PA 18104]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2400 W Chew St, Allentown, PA 18104</value>
+					</Data>
+				</ExtendedData>
+				<address>Muhlenberg College EST 2400 W Chew St, Allentown, PA 18104</address>
+			</Placemark>
+			<Placemark>
+				<name>Wesleyan University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 45 Wyllys Ave, Middletown, CT 06459]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>45 Wyllys Ave, Middletown, CT 06459</value>
+					</Data>
+				</ExtendedData>
+				<address>Wesleyan University EST 45 Wyllys Ave, Middletown, CT 06459</address>
+			</Placemark>
+			<Placemark>
+				<name>College of William and Mary</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 200 Stadium Dr, Williamsburg, VA 23185]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>200 Stadium Dr, Williamsburg, VA 23185</value>
+					</Data>
+				</ExtendedData>
+				<address>College of William and Mary INT 200 Stadium Dr, Williamsburg, VA 23185</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Otago</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 362 Leith St, North Dunedin, Dunedin 9016, New Zealand]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>362 Leith St, North Dunedin, Dunedin 9016, New Zealand</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Otago EST 362 Leith St, North Dunedin, Dunedin 9016, New Zealand</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Delaware</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 210 South College Avenue Newark, DE 19716]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>210 South College Avenue Newark, DE 19716</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Delaware EST 210 South College Avenue Newark, DE 19716</address>
+			</Placemark>
+			<Placemark>
+				<name>West Chester University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 700 S High St, West Chester, PA 19382]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>700 S High St, West Chester, PA 19382</value>
+					</Data>
+				</ExtendedData>
+				<address>West Chester University EST 700 S High St, West Chester, PA 19382</address>
+			</Placemark>
+			<Placemark>
+				<name>West Virginia University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: One Waterfront Place Morgantown, WV 26506-6009]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>One Waterfront Place Morgantown, WV 26506-6009</value>
+					</Data>
+				</ExtendedData>
+				<address>West Virginia University EST One Waterfront Place Morgantown, WV 26506-6009</address>
+			</Placemark>
+			<Placemark>
+				<name>Quinnipiac University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 275 Mount Carmel Avenue, Hamden, CT 06518]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>275 Mount Carmel Avenue, Hamden, CT 06518</value>
+					</Data>
+				</ExtendedData>
+				<address>Quinnipiac University EST 275 Mount Carmel Avenue, Hamden, CT 06518</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Pittsburgh at Greensburg</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Greensburg, PA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Greensburg, PA</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Pittsburgh at Greensburg INT Greensburg, PA</address>
+			</Placemark>
+			<Placemark>
+				<name>Macquarie University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Sydney, Australia]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Sydney, Australia</value>
+					</Data>
+				</ExtendedData>
+				<address>Macquarie University INT Sydney, Australia</address>
+			</Placemark>
+			<Placemark>
+				<name>Rutgers University - Camden</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Camden, New Jersey]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Camden, New Jersey</value>
+					</Data>
+				</ExtendedData>
+				<address>Rutgers University - Camden EST Camden, New Jersey</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Maryland Baltimore County</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1000 Hilltop Cir, Baltimore, MD 21250]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1000 Hilltop Cir, Baltimore, MD 21250</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Maryland Baltimore County INT 1000 Hilltop Cir, Baltimore, MD 21250</address>
+			</Placemark>
+			<Placemark>
+				<name>Rutgers University - New Brunswick</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Rutgers, The State University of New Jersey. 57 US Highway 1. New Brunswick, NJ 08901]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Rutgers, The State University of New Jersey. 57 US Highway 1. New Brunswick, NJ 08901</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of Professional Studies Accra</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Accra, Ghana]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Accra, Ghana</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Professional Studies Accra EST Accra, Ghana</address>
+			</Placemark>
+			<Placemark>
+				<name>St. John's Central College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Cork, Ireland]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Cork, Ireland</value>
+					</Data>
+				</ExtendedData>
+				<address>St. John's Central College INT Cork, Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Pennsylvania</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1 College Hall, Philadelphia, PA 19104]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 College Hall, Philadelphia, PA 19104</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Pennsylvania EST 1 College Hall, Philadelphia, PA 19104</address>
+			</Placemark>
+			<Placemark>
+				<name>George Mason University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 4400 University Dr, Fairfax, VA 22030]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4400 University Dr, Fairfax, VA 22030</value>
+					</Data>
+				</ExtendedData>
+				<address>George Mason University INT 4400 University Dr, Fairfax, VA 22030</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Limerick</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Limerick, Ireland]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Limerick, Ireland</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Limerick EST Limerick, Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>Victoria University of Wellington</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Level 2, Easterfield Building, Kelburn Parade, Gate 4, Kelburn campus Wellington 6012, New Zealand]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Level 2, Easterfield Building, Kelburn Parade, Gate 4, Kelburn campus Wellington 6012, New Zealand</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of Auckland</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Auckland 1010, New Zealand]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Auckland 1010, New Zealand</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Auckland EST Auckland 1010, New Zealand</address>
+			</Placemark>
+			<Placemark>
+				<name>Jindal Global Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Sonipat, India]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Sonipat, India</value>
+					</Data>
+				</ExtendedData>
+				<address>Jindal Global Law School EST Sonipat, India</address>
+			</Placemark>
+			<Placemark>
+				<name>Paris Institute of Political Studies</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 27 Rue Saint-Guillaume, 75007 Paris, France]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>27 Rue Saint-Guillaume, 75007 Paris, France</value>
+					</Data>
+				</ExtendedData>
+				<address>Paris Institute of Political Studies AMB 27 Rue Saint-Guillaume, 75007 Paris, France</address>
+			</Placemark>
+			<Placemark>
+				<name>Brown University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Brown University, Providence, Rhode Island 02912]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Brown University, Providence, Rhode Island 02912</value>
+					</Data>
+				</ExtendedData>
+				<address>Brown University EST Brown University, Providence, Rhode Island 02912</address>
+			</Placemark>
+			<Placemark>
+				<name>McLean High School</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: McLean, VA]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>McLean, VA</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>American University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4400 Massachusetts Ave NW, Washington, DC 20016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4400 Massachusetts Ave NW, Washington, DC 20016</value>
+					</Data>
+				</ExtendedData>
+				<address>American University EST 4400 Massachusetts Ave NW, Washington, DC 20016</address>
+			</Placemark>
+			<Placemark>
+				<name>EPSD Costa Rica</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Ciudad universitaria Rodrigo Facio Brenes, Costa Rica]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Ciudad universitaria Rodrigo Facio Brenes, Costa Rica</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of Karachi</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: Main University Road,Karachi 75270,Sindh, Pakistan]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Main University Road,Karachi 75270,Sindh, Pakistan</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Karachi AMB Main University Road,Karachi 75270,Sindh, Pakistan</address>
+			</Placemark>
+			<Placemark>
+				<name>Virginia Commonwealth University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 821 W Franklin St, Richmond, VA 23284]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>821 W Franklin St, Richmond, VA 23284</value>
+					</Data>
+				</ExtendedData>
+				<address>Virginia Commonwealth University EST 821 W Franklin St, Richmond, VA 23284</address>
+			</Placemark>
+			<Placemark>
+				<name>SSDP Belgrade</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Belgrade, Serbia]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Belgrade, Serbia</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>NYU Shanghai</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Shanghai, China]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Shanghai, China</value>
+					</Data>
+				</ExtendedData>
+				<address>NYU Shanghai EST Shanghai, China</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Maryland</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Mitchell Building, College Park, MD 20742 USA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Mitchell Building, College Park, MD 20742 USA</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Maryland EST Mitchell Building, College Park, MD 20742 USA</address>
+			</Placemark>
+			<Placemark>
+				<name>Saint Mary's College of Maryland</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 18952 E Fishers Rd, St Marys City, MD 20686]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>18952 E Fishers Rd, St Marys City, MD 20686</value>
+					</Data>
+				</ExtendedData>
+				<address>Saint Mary's College of Maryland EST 18952 E Fishers Rd, St Marys City, MD 20686</address>
+			</Placemark>
+			<Placemark>
+				<name>Rowan University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 201 Mullica Hill Rd, Glassboro, NJ 08028]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>201 Mullica Hill Rd, Glassboro, NJ 08028</value>
+					</Data>
+				</ExtendedData>
+				<address>Rowan University EST 201 Mullica Hill Rd, Glassboro, NJ 08028</address>
+			</Placemark>
+			<Placemark>
+				<name>Virginia Tech</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 925 Prices Fork Road Blacksburg, VA 24061]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>925 Prices Fork Road Blacksburg, VA 24061</value>
+					</Data>
+				</ExtendedData>
+				<address>Virginia Tech EST 925 Prices Fork Road Blacksburg, VA 24061</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Virginia</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 291 McCormick Rd. Charlottesville, VA 22903]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>291 McCormick Rd. Charlottesville, VA 22903</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Virginia EST 291 McCormick Rd. Charlottesville, VA 22903</address>
+			</Placemark>
+			<Placemark>
+				<name>University of the West Indies</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Mona, Kingston, Jamaica]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Mona, Kingston, Jamaica</value>
+					</Data>
+				</ExtendedData>
+				<address>University of the West Indies EST Mona, Kingston, Jamaica</address>
+			</Placemark>
+			<Placemark>
+				<name>EPSD Mexico</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Circuito Mario de La Cueva s/n, Coyoacán, Cd Universitaria, 04510 Ciudad de México, D.F., Mexico]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Circuito Mario de La Cueva s/n, Coyoacán, Cd Universitaria, 04510 Ciudad de México, D.F., Mexico</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University at Buffalo</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 116 Capen Hall, Buffalo, NY 14260]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>116 Capen Hall, Buffalo, NY 14260</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>Brooklyn Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 250 Joralemon St, Brooklyn, NY 11201]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>250 Joralemon St, Brooklyn, NY 11201</value>
+					</Data>
+				</ExtendedData>
+				<address>Brooklyn Law School EST 250 Joralemon St, Brooklyn, NY 11201</address>
+			</Placemark>
+			<Placemark>
+				<name>SUNY Binghamton</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4400 Vestal Pkwy E, Binghamton, NY 13902]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4400 Vestal Pkwy E, Binghamton, NY 13902</value>
+					</Data>
+				</ExtendedData>
+				<address>SUNY Binghamton EST 4400 Vestal Pkwy E, Binghamton, NY 13902</address>
+			</Placemark>
+			<Placemark>
+				<name>Howard University School of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2900 Van Ness St NW, Washington, DC 20008]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2900 Van Ness St NW, Washington, DC 20008</value>
+					</Data>
+				</ExtendedData>
+				<address>Howard University School of Law EST 2900 Van Ness St NW, Washington, DC 20008</address>
+			</Placemark>
+			<Placemark>
+				<name>Howard University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Washington, DC]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Washington, DC</value>
+					</Data>
+				</ExtendedData>
+				<address>Howard University INT Washington, DC</address>
+			</Placemark>
+			<Placemark>
+				<name>National University of Ireland Galway</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: University Rd, Galway, Ireland]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>University Rd, Galway, Ireland</value>
+					</Data>
+				</ExtendedData>
+				<address>National University of Ireland Galway EST University Rd, Galway, Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>Dar Es Salaam Institute of Technology</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: Dar es Salaam, Tanzania]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Dar es Salaam, Tanzania</value>
+					</Data>
+				</ExtendedData>
+				<address>Dar Es Salaam Institute of Technology AMB Dar es Salaam, Tanzania</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Connecticut</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: University of Connecticut, Storrs, Connecticut 06269]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>University of Connecticut, Storrs, Connecticut 06269</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Connecticut EST University of Connecticut, Storrs, Connecticut 06269</address>
+			</Placemark>
+			<Placemark>
+				<name>The George Washington University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2121 I St NW, Washington, DC 20052]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2121 I St NW, Washington, DC 20052</value>
+					</Data>
+				</ExtendedData>
+				<address>The George Washington University EST 2121 I St NW, Washington, DC 20052</address>
+			</Placemark>
+			<Placemark>
+				<name>CUNY Hunter College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: New York City, New York]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>New York City, New York</value>
+					</Data>
+				</ExtendedData>
+				<address>CUNY Hunter College EST New York City, New York</address>
+			</Placemark>
+			<Placemark>
+				<name>New York University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 70 Washington Square South, New York, NY 10012]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>70 Washington Square South, New York, NY 10012</value>
+					</Data>
+				</ExtendedData>
+				<address>New York University EST 70 Washington Square South, New York, NY 10012</address>
+			</Placemark>
+			<Placemark>
+				<name>University College Dublin</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Dublin, Ireland]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Dublin, Ireland</value>
+					</Data>
+				</ExtendedData>
+				<address>University College Dublin INT Dublin, Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>Universidad Nacional Autónoma de Honduras</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Blvd. Suyapa Ciudad Universitaria, Tegucigalpa, Honduras]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Blvd. Suyapa Ciudad Universitaria, Tegucigalpa, Honduras</value>
+					</Data>
+				</ExtendedData>
+				<address>Universidad Nacional Autónoma de Honduras EST Blvd. Suyapa Ciudad Universitaria, Tegucigalpa, Honduras</address>
+			</Placemark>
+			<Placemark>
+				<name>Ho Polytechnic</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: Ho, Ghana]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Ho, Ghana</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>SSDP Nigeria</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Alabata Road, Abeokuta, Ogun, Nigeria]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Alabata Road, Abeokuta, Ogun, Nigeria</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>Columbia University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: New York City, New York]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>New York City, New York</value>
+					</Data>
+				</ExtendedData>
+				<address>Columbia University EST New York City, New York</address>
+			</Placemark>
+			<Placemark>
+				<name>Syracuse University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Syracuse, New York]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Syracuse, New York</value>
+					</Data>
+				</ExtendedData>
+				<address>Syracuse University INT Syracuse, New York</address>
+			</Placemark>
+			<Placemark>
+				<name>Dublin City University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Glasnevin, Dublin 9, Ireland]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Glasnevin, Dublin 9, Ireland</value>
+					</Data>
+				</ExtendedData>
+				<address>Dublin City University EST Glasnevin, Dublin 9, Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>CUNY Baruch College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 55 Lexington Ave, New York, NY 10010]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>55 Lexington Ave, New York, NY 10010</value>
+					</Data>
+				</ExtendedData>
+				<address>CUNY Baruch College EST 55 Lexington Ave, New York, NY 10010</address>
+			</Placemark>
+			<Placemark>
+				<name>Deakin University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Princes Hwy, Warrnambool VIC 3280, Australia]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Princes Hwy, Warrnambool VIC 3280, Australia</value>
+					</Data>
+				</ExtendedData>
+				<address>Deakin University EST Princes Hwy, Warrnambool VIC 3280, Australia</address>
+			</Placemark>
+			<Placemark>
+				<name>SUNY Albany Graduate School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Albany, New York]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Albany, New York</value>
+					</Data>
+				</ExtendedData>
+				<address>SUNY Albany Graduate School EST Albany, New York</address>
+			</Placemark>
+			<Placemark>
+				<name>Sarah Lawrence College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1 Mead Way, Yonkers, NY 10708]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 Mead Way, Yonkers, NY 10708</value>
+					</Data>
+				</ExtendedData>
+				<address>Sarah Lawrence College EST 1 Mead Way, Yonkers, NY 10708</address>
+			</Placemark>
+			<Placemark>
+				<name>Ithaca College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Ithaca, NY]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Ithaca, NY</value>
+					</Data>
+				</ExtendedData>
+				<address>Ithaca College EST Ithaca, NY</address>
+			</Placemark>
+			<Placemark>
+				<name>SUNY Purchase</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 735 Anderson Hill Rd, Purchase, NY 10577]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>735 Anderson Hill Rd, Purchase, NY 10577</value>
+					</Data>
+				</ExtendedData>
+				<address>SUNY Purchase EST 735 Anderson Hill Rd, Purchase, NY 10577</address>
+			</Placemark>
+			<Placemark>
+				<name>Vassar College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 124 Raymond Ave, Poughkeepsie, NY 12604]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>124 Raymond Ave, Poughkeepsie, NY 12604</value>
+					</Data>
+				</ExtendedData>
+				<address>Vassar College EST 124 Raymond Ave, Poughkeepsie, NY 12604</address>
+			</Placemark>
+			<Placemark>
+				<name>SUNY Albany</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1400 Washington Ave, Albany, NY 12222]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1400 Washington Ave, Albany, NY 12222</value>
+					</Data>
+				</ExtendedData>
+				<address>SUNY Albany EST 1400 Washington Ave, Albany, NY 12222</address>
+			</Placemark>
+			<Placemark>
+				<name>Cornell University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Ithaca, NY]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Ithaca, NY</value>
+					</Data>
+				</ExtendedData>
+				<address>Cornell University INT Ithaca, NY</address>
+			</Placemark>
+			<Placemark>
+				<name>CUNY School of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2 Court Square, Long Island City, NY 11101]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2 Court Square, Long Island City, NY 11101</value>
+					</Data>
+				</ExtendedData>
+				<address>CUNY School of Law EST 2 Court Square, Long Island City, NY 11101</address>
+			</Placemark>
+			<Placemark>
+				<name>Melbourne University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Melbourne, Australia]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Melbourne, Australia</value>
+					</Data>
+				</ExtendedData>
+				<address>Melbourne University EST Melbourne, Australia</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Copenhagen</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Copenhagen, Denmark]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Copenhagen, Denmark</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Copenhagen EST Copenhagen, Denmark</address>
+			</Placemark>
+			<Placemark>
+				<name>Rensselaer Polytechnic Institute</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 110 8th St, Troy, NY 12180]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>110 8th St, Troy, NY 12180</value>
+					</Data>
+				</ExtendedData>
+				<address>Rensselaer Polytechnic Institute EST 110 8th St, Troy, NY 12180</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Rhode Island</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 45 Upper College Rd, Kingston, RI 02881]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>45 Upper College Rd, Kingston, RI 02881</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Rhode Island EST 45 Upper College Rd, Kingston, RI 02881</address>
+			</Placemark>
+			<Placemark>
+				<name>Dickinson College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 28 N College St. Carlisle, PA 17013]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>28 N College St. Carlisle, PA 17013</value>
+					</Data>
+				</ExtendedData>
+				<address>Dickinson College EST 28 N College St. Carlisle, PA 17013</address>
+			</Placemark>
+			<Placemark>
+				<name>Yale University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 149 Elm Street New Haven, CT 06511]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>149 Elm Street New Haven, CT 06511</value>
+					</Data>
+				</ExtendedData>
+				<address>Yale University EST 149 Elm Street New Haven, CT 06511</address>
+			</Placemark>
+			<Placemark>
+				<name>Cork Institute of Technology</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Rossa Ave, Co. Cork, Ireland]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Rossa Ave, Co. Cork, Ireland</value>
+					</Data>
+				</ExtendedData>
+				<address>Cork Institute of Technology EST Rossa Ave, Co. Cork, Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>SUNY New Paltz</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1 Hawk Dr, New Paltz, NY 12561]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 Hawk Dr, New Paltz, NY 12561</value>
+					</Data>
+				</ExtendedData>
+				<address>SUNY New Paltz EST 1 Hawk Dr, New Paltz, NY 12561</address>
+			</Placemark>
+			<Placemark>
+				<name>University College Cork</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Coláiste Na Hollscoile, Bóthar an Choláiste, Corcaigh, Ireland]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Coláiste Na Hollscoile, Bóthar an Choláiste, Corcaigh, Ireland</value>
+					</Data>
+				</ExtendedData>
+				<address>University College Cork EST Coláiste Na Hollscoile, Bóthar an Choláiste, Corcaigh, Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>Whittier Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 3333 Harbor Blvd, Costa Mesa, CA 92626]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>3333 Harbor Blvd, Costa Mesa, CA 92626</value>
+					</Data>
+				</ExtendedData>
+				<address>Whittier Law School EST 3333 Harbor Blvd, Costa Mesa, CA 92626</address>
+			</Placemark>
+			<Placemark>
+				<name>Golden Gate University School of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: San Francisco, CA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>San Francisco, CA</value>
+					</Data>
+				</ExtendedData>
+				<address>Golden Gate University School of Law EST San Francisco, CA</address>
+			</Placemark>
+			<Placemark>
+				<name>Calabasas High School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Calabasas, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Calabasas, California</value>
+					</Data>
+				</ExtendedData>
+				<address>Calabasas High School EST Calabasas, California</address>
+			</Placemark>
+			<Placemark>
+				<name>Pasadena City College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Pasadena City College INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Berkeley Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 215 Boalt Hall, Berkeley, CA 94720]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>215 Boalt Hall, Berkeley, CA 94720</value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Berkeley Law EST 215 Boalt Hall, Berkeley, CA 94720</address>
+			</Placemark>
+			<Placemark>
+				<name>University of San Diego Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: San Diego, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>San Diego, California</value>
+					</Data>
+				</ExtendedData>
+				<address>University of San Diego Law School EST San Diego, California</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Redlands</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>University of Redlands INT</address>
+			</Placemark>
+			<Placemark>
+				<name>California State University East Bay</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>California State University East Bay INT</address>
+			</Placemark>
+			<Placemark>
+				<name>Mendocino College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Mendocino College INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Santa Cruz </name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1156 High St, Santa Cruz, CA 95064]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1156 High St, Santa Cruz, CA 95064</value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Santa Cruz  EST 1156 High St, Santa Cruz, CA 95064</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Davis</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1 Shields Ave, Davis, CA 95616]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 Shields Ave, Davis, CA 95616</value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Davis EST 1 Shields Ave, Davis, CA 95616</address>
+			</Placemark>
+			<Placemark>
+				<name>Chapman University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1 University Dr, Orange, CA 92866]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 University Dr, Orange, CA 92866</value>
+					</Data>
+				</ExtendedData>
+				<address>Chapman University EST 1 University Dr, Orange, CA 92866</address>
+			</Placemark>
+			<Placemark>
+				<name>San Jose State University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 380 S 9th street, Box # 715, San Jose, California, 95112]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>380 S 9th street, Box # 715, San Jose, California, 95112</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of California Santa Barbara</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 6563 Trigo Road, Apt 301, Goleta, CA, 93117]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>6563 Trigo Road, Apt 301, Goleta, CA, 93117</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of California Hastings Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: San Francisco, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>San Francisco, California</value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Hastings Law School EST San Francisco, California</address>
+			</Placemark>
+			<Placemark>
+				<name>California State University Long Beach</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1250 Bellflower Blvd, Long Beach, CA 90840]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1250 Bellflower Blvd, Long Beach, CA 90840</value>
+					</Data>
+				</ExtendedData>
+				<address>California State University Long Beach EST 1250 Bellflower Blvd, Long Beach, CA 90840</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Irvine School of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 401 E Peltason Dr, Irvine, CA 92612]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>401 E Peltason Dr, Irvine, CA 92612</value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Irvine School of Law EST 401 E Peltason Dr, Irvine, CA 92612</address>
+			</Placemark>
+			<Placemark>
+				<name>Santa Barbara City College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Santa Barbara City College EST</address>
+			</Placemark>
+			<Placemark>
+				<name>Cypress Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Riverside, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Riverside, California</value>
+					</Data>
+				</ExtendedData>
+				<address>Cypress Community College INT Riverside, California</address>
+			</Placemark>
+			<Placemark>
+				<name>California State Polytechnic University Pomona</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Pomona, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Pomona, California</value>
+					</Data>
+				</ExtendedData>
+				<address>California State Polytechnic University Pomona EST Pomona, California</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Los Angeles</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Los Angeles, CA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Los Angeles, CA</value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Los Angeles EST Los Angeles, CA</address>
+			</Placemark>
+			<Placemark>
+				<name>Sonoma State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Rohnert Park, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Rohnert Park, California</value>
+					</Data>
+				</ExtendedData>
+				<address>Sonoma State University EST Rohnert Park, California</address>
+			</Placemark>
+			<Placemark>
+				<name>Antelope Valley College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Lancaster, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Lancaster, California</value>
+					</Data>
+				</ExtendedData>
+				<address>Antelope Valley College EST Lancaster, California</address>
+			</Placemark>
+			<Placemark>
+				<name>Berkeley City College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Berkeley, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Berkeley, California</value>
+					</Data>
+				</ExtendedData>
+				<address>Berkeley City College EST Berkeley, California</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Irvine</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Irvine, California]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Irvine, California</value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Irvine EST Irvine, California</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Southern California</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Los Angeles, CA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Los Angeles, CA</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Southern California INT Los Angeles, CA</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Berkeley Haas School of Business</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>University of California Berkeley Haas School of Business INT</address>
+			</Placemark>
+			<Placemark>
+				<name>Mt. San Jacinto College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1442 Windrider Street, San Jacinto, 92582]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1442 Windrider Street, San Jacinto, 92582</value>
+					</Data>
+				</ExtendedData>
+				<address>Mt. San Jacinto College INT 1442 Windrider Street, San Jacinto, 92582</address>
+			</Placemark>
+			<Placemark>
+				<name>Napa Valley College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Napa Valley College INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of California Berkeley</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2605 haste st apt 305, Berkeley, CA, 94704]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2605 haste st apt 305, Berkeley, CA, 94704</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of South Alabama</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 4000 Dauphin Street, Mobile, AL 36608]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4000 Dauphin Street, Mobile, AL 36608</value>
+					</Data>
+				</ExtendedData>
+				<address>University of South Alabama INT 4000 Dauphin Street, Mobile, AL 36608</address>
+			</Placemark>
+			<Placemark>
+				<name>Vanderbilt University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2201 West End Ave, Nashville, TN 37235]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2201 West End Ave, Nashville, TN 37235</value>
+					</Data>
+				</ExtendedData>
+				<address>Vanderbilt University EST 2201 West End Ave, Nashville, TN 37235</address>
+			</Placemark>
+			<Placemark>
+				<name>Southern Methodist University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 6425 Boaz Lane, Dallas, TX 75205]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>6425 Boaz Lane, Dallas, TX 75205</value>
+					</Data>
+				</ExtendedData>
+				<address>Southern Methodist University INT 6425 Boaz Lane, Dallas, TX 75205</address>
+			</Placemark>
+			<Placemark>
+				<name>Middle Tennessee State University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1301 E Main St, Murfreesboro, TN 37132]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1301 E Main St, Murfreesboro, TN 37132</value>
+					</Data>
+				</ExtendedData>
+				<address>Middle Tennessee State University INT 1301 E Main St, Murfreesboro, TN 37132</address>
+			</Placemark>
+			<Placemark>
+				<name>North Carolina State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2 W Broughton Dr Raleigh, NC]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2 W Broughton Dr Raleigh, NC</value>
+					</Data>
+				</ExtendedData>
+				<address>North Carolina State University EST 2 W Broughton Dr Raleigh, NC</address>
+			</Placemark>
+			<Placemark>
+				<name>University of North Carolina Chapel Hill</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 174 Country Club Road, Chapel Hill, NC 27599]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>174 Country Club Road, Chapel Hill, NC 27599</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of North Carolina Asheville</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1 University Heights, Asheville, NC 28804]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 University Heights, Asheville, NC 28804</value>
+					</Data>
+				</ExtendedData>
+				<address>University of North Carolina Asheville INT 1 University Heights, Asheville, NC 28804</address>
+			</Placemark>
+			<Placemark>
+				<name>Huntingdon College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1500 E Fairview Ave, Montgomery, AL 36106]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1500 E Fairview Ave, Montgomery, AL 36106</value>
+					</Data>
+				</ExtendedData>
+				<address>Huntingdon College INT 1500 E Fairview Ave, Montgomery, AL 36106</address>
+			</Placemark>
+			<Placemark>
+				<name>Arizona State University Polytechnic</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 7001 E Williams Field Rd, Mesa, AZ 85212]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>7001 E Williams Field Rd, Mesa, AZ 85212</value>
+					</Data>
+				</ExtendedData>
+				<address>Arizona State University Polytechnic EST 7001 E Williams Field Rd, Mesa, AZ 85212</address>
+			</Placemark>
+			<Placemark>
+				<name>Chandler Gilbert Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 2626 East Pecos Road Chandler, AZ 85226]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2626 East Pecos Road Chandler, AZ 85226</value>
+					</Data>
+				</ExtendedData>
+				<address>Chandler Gilbert Community College INT 2626 East Pecos Road Chandler, AZ 85226</address>
+			</Placemark>
+			<Placemark>
+				<name>Arizona State University Downtown</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Arizona State University Downtown INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of New Mexico School of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1117 Stanford NE MSC11 6080 . 1 University of New Mexico, Albuquerque, NM 87106]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1117 Stanford NE MSC11 6080 . 1 University of New Mexico, Albuquerque, NM 87106</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>Tulane University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 6823 St Charles Ave, New Orleans, LA 70118]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>6823 St Charles Ave, New Orleans, LA 70118</value>
+					</Data>
+				</ExtendedData>
+				<address>Tulane University EST 6823 St Charles Ave, New Orleans, LA 70118</address>
+			</Placemark>
+			<Placemark>
+				<name>New Mexico State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1780 E University Ave, Las Cruces, NM 88003]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1780 E University Ave, Las Cruces, NM 88003</value>
+					</Data>
+				</ExtendedData>
+				<address>New Mexico State University EST 1780 E University Ave, Las Cruces, NM 88003</address>
+			</Placemark>
+			<Placemark>
+				<name>Louisiana State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 310 LSU Student Union 70803]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>310 LSU Student Union 70803</value>
+					</Data>
+				</ExtendedData>
+				<address>Louisiana State University EST 310 LSU Student Union 70803</address>
+			</Placemark>
+			<Placemark>
+				<name>University of New Mexico</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: University of New Mexico Albuquerque, NM 87131]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>University of New Mexico Albuquerque, NM 87131</value>
+					</Data>
+				</ExtendedData>
+				<address>University of New Mexico EST University of New Mexico Albuquerque, NM 87131</address>
+			</Placemark>
+			<Placemark>
+				<name>Santa Fe University of Art and Design</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1600 Saint Michaels Drive, Santa Fe, NM 87505]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1600 Saint Michaels Drive, Santa Fe, NM 87505</value>
+					</Data>
+				</ExtendedData>
+				<address>Santa Fe University of Art and Design INT 1600 Saint Michaels Drive, Santa Fe, NM 87505</address>
+			</Placemark>
+			<Placemark>
+				<name>East Carolina University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1141 Elizabeth Ave Charlotte, NC 28204]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1141 Elizabeth Ave Charlotte, NC 28204</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>Arizona State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1151 South Forest Ave, Tempe, AZ 85281]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1151 South Forest Ave, Tempe, AZ 85281</value>
+					</Data>
+				</ExtendedData>
+				<address>Arizona State University EST 1151 South Forest Ave, Tempe, AZ 85281</address>
+			</Placemark>
+			<Placemark>
+				<name>Kennesaw State University </name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1000 Chastain Rd, Kennesaw, GA 30144]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1000 Chastain Rd, Kennesaw, GA 30144</value>
+					</Data>
+				</ExtendedData>
+				<address>Kennesaw State University  INT 1000 Chastain Rd, Kennesaw, GA 30144</address>
+			</Placemark>
+			<Placemark>
+				<name>Salem College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 601 South Church Street, Winston-Salem, NC 27101]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>601 South Church Street, Winston-Salem, NC 27101</value>
+					</Data>
+				</ExtendedData>
+				<address>Salem College EST 601 South Church Street, Winston-Salem, NC 27101</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Oklahoma</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>University of Oklahoma INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of South Carolina</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Columbia, SC 29208]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Columbia, SC 29208</value>
+					</Data>
+				</ExtendedData>
+				<address>University of South Carolina INT Columbia, SC 29208</address>
+			</Placemark>
+			<Placemark>
+				<name>Tennessee Technological University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1 William L Jones Dr, Cookeville, TN 38505]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 William L Jones Dr, Cookeville, TN 38505</value>
+					</Data>
+				</ExtendedData>
+				<address>Tennessee Technological University INT 1 William L Jones Dr, Cookeville, TN 38505</address>
+			</Placemark>
+			<Placemark>
+				<name>Texas Tech University</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 2500 Broadway, Lubbock, TX 79409]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2500 Broadway, Lubbock, TX 79409</value>
+					</Data>
+				</ExtendedData>
+				<address>Texas Tech University AMB 2500 Broadway, Lubbock, TX 79409</address>
+			</Placemark>
+			<Placemark>
+				<name>Sam Houston State University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1806 Avenue J, Huntsville, TX 77340]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1806 Avenue J, Huntsville, TX 77340</value>
+					</Data>
+				</ExtendedData>
+				<address>Sam Houston State University INT 1806 Avenue J, Huntsville, TX 77340</address>
+			</Placemark>
+			<Placemark>
+				<name>Guilford College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 5800 W Friendly Ave, Greensboro, NC 27410]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>5800 W Friendly Ave, Greensboro, NC 27410</value>
+					</Data>
+				</ExtendedData>
+				<address>Guilford College EST 5800 W Friendly Ave, Greensboro, NC 27410</address>
+			</Placemark>
+			<Placemark>
+				<name>University of North Carolina Charlotte</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 9201 University City Boulevard 282234]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>9201 University City Boulevard 282234</value>
+					</Data>
+				</ExtendedData>
+				<address>University of North Carolina Charlotte EST 9201 University City Boulevard 282234</address>
+			</Placemark>
+			<Placemark>
+				<name>Appalachian State Univerity</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 287 Rivers St, Boone, NC 28608]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>287 Rivers St, Boone, NC 28608</value>
+					</Data>
+				</ExtendedData>
+				<address>Appalachian State Univerity INT 287 Rivers St, Boone, NC 28608</address>
+			</Placemark>
+			<Placemark>
+				<name>Clemson University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Clemson University clemson, SC 29631]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Clemson University clemson, SC 29631</value>
+					</Data>
+				</ExtendedData>
+				<address>Clemson University INT Clemson University clemson, SC 29631</address>
+			</Placemark>
+			<Placemark>
+				<name>Emory University School of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 307 N University Blvd #130, Mobile, AL 36608]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>307 N University Blvd #130, Mobile, AL 36608</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of Tennessee Knoxville</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 320 Student Services Building Knoxville, TN 37996-0230]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>320 Student Services Building Knoxville, TN 37996-0230</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Tennessee Knoxville EST 320 Student Services Building Knoxville, TN 37996-0230</address>
+			</Placemark>
+			<Placemark>
+				<name>College of Charleston</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 66 George St, Charleston, SC 29424]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>66 George St, Charleston, SC 29424</value>
+					</Data>
+				</ExtendedData>
+				<address>College of Charleston EST 66 George St, Charleston, SC 29424</address>
+			</Placemark>
+			<Placemark>
+				<name>Georgia Institute of Technology</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 631 Cherry Street Northwest, Atlanta, GA 30313]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>631 Cherry Street Northwest, Atlanta, GA 30313</value>
+					</Data>
+				</ExtendedData>
+				<address>Georgia Institute of Technology INT 631 Cherry Street Northwest, Atlanta, GA 30313</address>
+			</Placemark>
+			<Placemark>
+				<name>University of North Georgia Dahlonega</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 82 College Cir, Dahlonega, GA 30597]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>82 College Cir, Dahlonega, GA 30597</value>
+					</Data>
+				</ExtendedData>
+				<address>University of North Georgia Dahlonega EST 82 College Cir, Dahlonega, GA 30597</address>
+			</Placemark>
+			<Placemark>
+				<name>University of West Georgia</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1601 Maple St, Carrollton, GA 30118]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1601 Maple St, Carrollton, GA 30118</value>
+					</Data>
+				</ExtendedData>
+				<address>University of West Georgia INT 1601 Maple St, Carrollton, GA 30118</address>
+			</Placemark>
+			<Placemark>
+				<name>University of North Georgia Gainesville</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 82 College Circle, Dahlonega, GA 30597]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>82 College Circle, Dahlonega, GA 30597</value>
+					</Data>
+				</ExtendedData>
+				<address>University of North Georgia Gainesville EST 82 College Circle, Dahlonega, GA 30597</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Texas San Antonio</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1 UTSA Circle, San Antonio, TX 78249]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 UTSA Circle, San Antonio, TX 78249</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Texas San Antonio INT 1 UTSA Circle, San Antonio, TX 78249</address>
+			</Placemark>
+			<Placemark>
+				<name>University of North Texas</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1155 Union Cir, Denton, TX 76203]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1155 Union Cir, Denton, TX 76203</value>
+					</Data>
+				</ExtendedData>
+				<address>University of North Texas INT 1155 Union Cir, Denton, TX 76203</address>
+			</Placemark>
+			<Placemark>
+				<name>Baylor University</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 1311 S 5th St, Waco, TX 76706]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1311 S 5th St, Waco, TX 76706</value>
+					</Data>
+				</ExtendedData>
+				<address>Baylor University AMB 1311 S 5th St, Waco, TX 76706</address>
+			</Placemark>
+			<Placemark>
+				<name>Texas State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 601 University Dr, San Marcos, TX 78666]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>601 University Dr, San Marcos, TX 78666</value>
+					</Data>
+				</ExtendedData>
+				<address>Texas State University EST 601 University Dr, San Marcos, TX 78666</address>
+			</Placemark>
+			<Placemark>
+				<name>Rice University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 6100 Main St, Houston, TX 77005]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>6100 Main St, Houston, TX 77005</value>
+					</Data>
+				</ExtendedData>
+				<address>Rice University EST 6100 Main St, Houston, TX 77005</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Texas Austin</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: The University of Texas at Austin Austin, TX 78712 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>The University of Texas at Austin Austin, TX 78712 </value>
+					</Data>
+				</ExtendedData>
+				<address>University of Texas Austin EST The University of Texas at Austin Austin, TX 78712</address>
+			</Placemark>
+			<Placemark>
+				<name>Austin Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 3001 S Congress Ave, Austin, TX 78704]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>3001 S Congress Ave, Austin, TX 78704</value>
+					</Data>
+				</ExtendedData>
+				<address>Austin Community College INT 3001 S Congress Ave, Austin, TX 78704</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Houston</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 4800 Calhoun Rd, Houston, TX 77004]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4800 Calhoun Rd, Houston, TX 77004</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Houston INT 4800 Calhoun Rd, Houston, TX 77004</address>
+			</Placemark>
+			<Placemark>
+				<name>Texas A&amp;M University School of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 401 Joe Routt Blvd, College Station, TX 77843]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>401 Joe Routt Blvd, College Station, TX 77843</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>Texas A&amp;M University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 77843, Administration Building, 400 Bizzell St, College Station, TX 77840]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>77843, Administration Building, 400 Bizzell St, College Station, TX 77840</value>
+					</Data>
+				</ExtendedData>
+				<address>Texas A&amp;M University INT 77843, Administration Building, 400 Bizzell St, College Station, TX 77840</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Texas of the Permian Basin</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4901 E University Blvd, Odessa, TX 79762]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4901 E University Blvd, Odessa, TX 79762</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Texas of the Permian Basin EST 4901 E University Blvd, Odessa, TX 79762</address>
+			</Placemark>
+			<Placemark>
+				<name>Auburn University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1550 E Glenn Ave., Suite 1210 Auburn, AL 36849]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1550 E Glenn Ave., Suite 1210 Auburn, AL 36849</value>
+					</Data>
+				</ExtendedData>
+				<address>Auburn University INT 1550 E Glenn Ave., Suite 1210 Auburn, AL 36849</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Alabama</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Box 870132 Tuscaloosa, AL 35487-0132]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Box 870132 Tuscaloosa, AL 35487-0132</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Alabama EST Box 870132 Tuscaloosa, AL 35487-0132</address>
+			</Placemark>
+			<Placemark>
+				<name>Pearl River Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Poplarville, MO]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Poplarville, MO</value>
+					</Data>
+				</ExtendedData>
+				<address>Pearl River Community College INT Poplarville, MO</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Texas at Dallas</name>
+				<description><![CDATA[STATUS: SW<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>SW</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>University of Texas at Dallas SW</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Arizona</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1200 East University Boulevard, Tucson, AZ 85721]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1200 East University Boulevard, Tucson, AZ 85721</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Arizona EST 1200 East University Boulevard, Tucson, AZ 85721</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Georgia</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 210 South Jackson Street, Athens, GA 30602]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>210 South Jackson Street, Athens, GA 30602</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Georgia EST 210 South Jackson Street, Athens, GA 30602</address>
+			</Placemark>
+			<Placemark>
+				<name>Volcano Vista High School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 8100 Rainbow Road NW, Albuquerque, NM 87114]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>8100 Rainbow Road NW, Albuquerque, NM 87114</value>
+					</Data>
+				</ExtendedData>
+				<address>Volcano Vista High School EST 8100 Rainbow Road NW, Albuquerque, NM 87114</address>
+			</Placemark>
+			<Placemark>
+				<name>Bradley University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 1501 W Bradley Ave, Peoria, IL 61625]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1501 W Bradley Ave, Peoria, IL 61625</value>
+					</Data>
+				</ExtendedData>
+				<address>Bradley University INT 1501 W Bradley Ave, Peoria, IL 61625</address>
+			</Placemark>
+			<Placemark>
+				<name>Roosevelt University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 430 South Michigan Avenue Chicago, IL 60605]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>430 South Michigan Avenue Chicago, IL 60605</value>
+					</Data>
+				</ExtendedData>
+				<address>Roosevelt University EST 430 South Michigan Avenue Chicago, IL 60605</address>
+			</Placemark>
+			<Placemark>
+				<name>Beloit College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 700 College St, Beloit, WI 53511]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>700 College St, Beloit, WI 53511</value>
+					</Data>
+				</ExtendedData>
+				<address>Beloit College EST 700 College St, Beloit, WI 53511</address>
+			</Placemark>
+			<Placemark>
+				<name>Washington University in Saint Louis</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 1 Brookings Dr, St. Louis, MO 63130]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 Brookings Dr, St. Louis, MO 63130</value>
+					</Data>
+				</ExtendedData>
+				<address>Washington University in Saint Louis AMB 1 Brookings Dr, St. Louis, MO 63130</address>
+			</Placemark>
+			<Placemark>
+				<name>Eastern Michigan University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 900 Oakwood St Ypsilanti, MI 48197]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>900 Oakwood St Ypsilanti, MI 48197</value>
+					</Data>
+				</ExtendedData>
+				<address>Eastern Michigan University INT 900 Oakwood St Ypsilanti, MI 48197</address>
+			</Placemark>
+			<Placemark>
+				<name>Grand Valley State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1 Campus Drive, Allendale, MI 49401]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 Campus Drive, Allendale, MI 49401</value>
+					</Data>
+				</ExtendedData>
+				<address>Grand Valley State University EST 1 Campus Drive, Allendale, MI 49401</address>
+			</Placemark>
+			<Placemark>
+				<name>Illinois State University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 100 N University St, Normal, IL 61761]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>100 N University St, Normal, IL 61761</value>
+					</Data>
+				</ExtendedData>
+				<address>Illinois State University INT 100 N University St, Normal, IL 61761</address>
+			</Placemark>
+			<Placemark>
+				<name>Indiana University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 107 S Indiana Ave, Bloomington, IN 47405]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>107 S Indiana Ave, Bloomington, IN 47405</value>
+					</Data>
+				</ExtendedData>
+				<address>Indiana University EST 107 S Indiana Ave, Bloomington, IN 47405</address>
+			</Placemark>
+			<Placemark>
+				<name>Manchester University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 604 East College Avenue, North Manchester, IN 46962]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>604 East College Avenue, North Manchester, IN 46962</value>
+					</Data>
+				</ExtendedData>
+				<address>Manchester University EST 604 East College Avenue, North Manchester, IN 46962</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Montana</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 32 Campus Dr, Missoula, MT 59812]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>32 Campus Dr, Missoula, MT 59812</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Montana INT 32 Campus Dr, Missoula, MT 59812</address>
+			</Placemark>
+			<Placemark>
+				<name>South Dakota School of Mines and Technology</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 501 E St Joseph St, Rapid City, SD 57701]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>501 E St Joseph St, Rapid City, SD 57701</value>
+					</Data>
+				</ExtendedData>
+				<address>South Dakota School of Mines and Technology EST 501 E St Joseph St, Rapid City, SD 57701</address>
+			</Placemark>
+			<Placemark>
+				<name>Chippewa Valley Technical College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Eau Claire, Wisconsin]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Eau Claire, Wisconsin</value>
+					</Data>
+				</ExtendedData>
+				<address>Chippewa Valley Technical College INT Eau Claire, Wisconsin</address>
+			</Placemark>
+			<Placemark>
+				<name>Indiana University Purdue University Columbus</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 4601 Central Avenue, Columbus, IN 47203]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4601 Central Avenue, Columbus, IN 47203</value>
+					</Data>
+				</ExtendedData>
+				<address>Indiana University Purdue University Columbus INT 4601 Central Avenue, Columbus, IN 47203</address>
+			</Placemark>
+			<Placemark>
+				<name>Bowling Green State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Bowling Green, OH 43403]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Bowling Green, OH 43403</value>
+					</Data>
+				</ExtendedData>
+				<address>Bowling Green State University EST Bowling Green, OH 43403</address>
+			</Placemark>
+			<Placemark>
+				<name>Southern Illinois University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Carbondale, IL]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Carbondale, IL</value>
+					</Data>
+				</ExtendedData>
+				<address>Southern Illinois University INT Carbondale, IL</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Missouri</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 03 Hulston Hall, Columbia, 65211]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>03 Hulston Hall, Columbia, 65211</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Missouri EST 03 Hulston Hall, Columbia, 65211</address>
+			</Placemark>
+			<Placemark>
+				<name>Colorado School of Mines</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1500 Illinois St, Golden, CO 80401]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1500 Illinois St, Golden, CO 80401</value>
+					</Data>
+				</ExtendedData>
+				<address>Colorado School of Mines EST 1500 Illinois St, Golden, CO 80401</address>
+			</Placemark>
+			<Placemark>
+				<name>Colorado State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Fort Collins, CO 80523]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Fort Collins, CO 80523</value>
+					</Data>
+				</ExtendedData>
+				<address>Colorado State University EST Fort Collins, CO 80523</address>
+			</Placemark>
+			<Placemark>
+				<name>Cornell College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 600 First Street SW, Mt Vernon, IA 52314]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>600 First Street SW, Mt Vernon, IA 52314</value>
+					</Data>
+				</ExtendedData>
+				<address>Cornell College EST 600 First Street SW, Mt Vernon, IA 52314</address>
+			</Placemark>
+			<Placemark>
+				<name>Frances W Parker High School</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 330 W Webster Ave, Chicago, IL 60614]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>330 W Webster Ave, Chicago, IL 60614</value>
+					</Data>
+				</ExtendedData>
+				<address>Frances W Parker High School AMB 330 W Webster Ave, Chicago, IL 60614</address>
+			</Placemark>
+			<Placemark>
+				<name>Indiana State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 200 N 7th St, Terre Haute, IN 47809]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>200 N 7th St, Terre Haute, IN 47809</value>
+					</Data>
+				</ExtendedData>
+				<address>Indiana State University EST 200 N 7th St, Terre Haute, IN 47809</address>
+			</Placemark>
+			<Placemark>
+				<name>South Dakota State University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>South Dakota State University INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of South Dakota</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 414 E Clark St, Vermillion, SD 57069]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>414 E Clark St, Vermillion, SD 57069</value>
+					</Data>
+				</ExtendedData>
+				<address>University of South Dakota EST 414 E Clark St, Vermillion, SD 57069</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Wisconsin Green Bay</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2420 Nicolet Dr, Green Bay, WI ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2420 Nicolet Dr, Green Bay, WI </value>
+					</Data>
+				</ExtendedData>
+				<address>University of Wisconsin Green Bay EST 2420 Nicolet Dr, Green Bay, WI</address>
+			</Placemark>
+			<Placemark>
+				<name>Naropa University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2130 Arapahoe Ave, Boulder, CO 80302]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2130 Arapahoe Ave, Boulder, CO 80302</value>
+					</Data>
+				</ExtendedData>
+				<address>Naropa University EST 2130 Arapahoe Ave, Boulder, CO 80302</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Colorado Denver</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1201 Larimer St, Denver, CO 80204]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1201 Larimer St, Denver, CO 80204</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Colorado Denver EST 1201 Larimer St, Denver, CO 80204</address>
+			</Placemark>
+			<Placemark>
+				<name>DePaul University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Chicago, IL 60614]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Chicago, IL 60614</value>
+					</Data>
+				</ExtendedData>
+				<address>DePaul University EST Chicago, IL 60614</address>
+			</Placemark>
+			<Placemark>
+				<name>Berea College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 101 Chestnut Street, Berea, KY 40403]]></description>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>101 Chestnut Street, Berea, KY 40403</value>
+					</Data>
+				</ExtendedData>
+			</Placemark>
+			<Placemark>
+				<name>University of Colorado Boulder</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 914 Broadway Boulder, CO 80309]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>914 Broadway Boulder, CO 80309</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Colorado Boulder EST 914 Broadway Boulder, CO 80309</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Chicago</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1101 East 58th Street, Chicago, IL 60637]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1101 East 58th Street, Chicago, IL 60637</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Chicago EST 1101 East 58th Street, Chicago, IL 60637</address>
+			</Placemark>
+			<Placemark>
+				<name>Wayne State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 42 West Warren Avenue, Detroit, MI 48202]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>42 West Warren Avenue, Detroit, MI 48202</value>
+					</Data>
+				</ExtendedData>
+				<address>Wayne State University EST 42 West Warren Avenue, Detroit, MI 48202</address>
+			</Placemark>
+			<Placemark>
+				<name>Northeastern Illinois University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 5500 N St. Louis Ave, Chicago IL]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>5500 N St. Louis Ave, Chicago IL</value>
+					</Data>
+				</ExtendedData>
+				<address>Northeastern Illinois University INT 5500 N St. Louis Ave, Chicago IL</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Denver Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2255 E Evans Ave, Denver, CO 80210]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2255 E Evans Ave, Denver, CO 80210</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Denver Law School EST 2255 E Evans Ave, Denver, CO 80210</address>
+			</Placemark>
+			<Placemark>
+				<name>Northern Kentucky University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 100 Nunn Dr, Highland Heights, KY 41099]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>100 Nunn Dr, Highland Heights, KY 41099</value>
+					</Data>
+				</ExtendedData>
+				<address>Northern Kentucky University EST 100 Nunn Dr, Highland Heights, KY 41099</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Saint Thomas</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: St. Paul, MN 55105]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>St. Paul, MN 55105</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Saint Thomas INT St. Paul, MN 55105</address>
+			</Placemark>
+			<Placemark>
+				<name>Metropolitan State University of Denver</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Denver, CO]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Denver, CO</value>
+					</Data>
+				</ExtendedData>
+				<address>Metropolitan State University of Denver INT Denver, CO</address>
+			</Placemark>
+			<Placemark>
+				<name>Mankato State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Mankato, MN 56001]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Mankato, MN 56001</value>
+					</Data>
+				</ExtendedData>
+				<address>Mankato State University EST Mankato, MN 56001</address>
+			</Placemark>
+			<Placemark>
+				<name>Hamline University </name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1536 Hewitt Ave, St Paul, MN 55104]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1536 Hewitt Ave, St Paul, MN 55104</value>
+					</Data>
+				</ExtendedData>
+				<address>Hamline University  EST 1536 Hewitt Ave, St Paul, MN 55104</address>
+			</Placemark>
+			<Placemark>
+				<name>Southeast Missouri State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1 University Plaza Cape Girardeau, MO 63701]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1 University Plaza Cape Girardeau, MO 63701</value>
+					</Data>
+				</ExtendedData>
+				<address>Southeast Missouri State University EST 1 University Plaza Cape Girardeau, MO 63701</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Dayton</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 300 College Park, Dayton OH, 45469]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>300 College Park, Dayton OH, 45469</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Dayton INT 300 College Park, Dayton OH, 45469</address>
+			</Placemark>
+			<Placemark>
+				<name>Tiffin University</name>
+				<description><![CDATA[STATUS: AMB<br>Campus Address: 155 Miami St, Tiffin, OH 44883]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>AMB</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>155 Miami St, Tiffin, OH 44883</value>
+					</Data>
+				</ExtendedData>
+				<address>Tiffin University AMB 155 Miami St, Tiffin, OH 44883</address>
+			</Placemark>
+			<Placemark>
+				<name>Colorado Mountain College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 802 Grand Ave, Glenwood Springs, CO 81601]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>802 Grand Ave, Glenwood Springs, CO 81601</value>
+					</Data>
+				</ExtendedData>
+				<address>Colorado Mountain College INT 802 Grand Ave, Glenwood Springs, CO 81601</address>
+			</Placemark>
+			<Placemark>
+				<name>Colorado College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Colorado Springs, CO]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Colorado Springs, CO</value>
+					</Data>
+				</ExtendedData>
+				<address>Colorado College EST Colorado Springs, CO</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Nebraska College of Law</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1875 N 42nd St, Lincoln, NE 68503]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1875 N 42nd St, Lincoln, NE 68503</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Nebraska College of Law EST 1875 N 42nd St, Lincoln, NE 68503</address>
+			</Placemark>
+			<Placemark>
+				<name>Butler University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 4600 Sunset Avenue, Indianapolis, IN 46208]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4600 Sunset Avenue, Indianapolis, IN 46208</value>
+					</Data>
+				</ExtendedData>
+				<address>Butler University INT 4600 Sunset Avenue, Indianapolis, IN 46208</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Nebraska Omaha</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 6001 Dodge St, Omaha, NE 68182]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>6001 Dodge St, Omaha, NE 68182</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Nebraska Omaha EST 6001 Dodge St, Omaha, NE 68182</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Michigan</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 500 South State Street, Ann Arbor, MI 48109]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>500 South State Street, Ann Arbor, MI 48109</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Michigan EST 500 South State Street, Ann Arbor, MI 48109</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Toledo</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2801 W Bancroft St, Toledo, OH 43606]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2801 W Bancroft St, Toledo, OH 43606</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Toledo EST 2801 W Bancroft St, Toledo, OH 43606</address>
+			</Placemark>
+			<Placemark>
+				<name>Michigan State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 220 Trowbridge Rd, East Lansing, MI 48824]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>220 Trowbridge Rd, East Lansing, MI 48824</value>
+					</Data>
+				</ExtendedData>
+				<address>Michigan State University EST 220 Trowbridge Rd, East Lansing, MI 48824</address>
+			</Placemark>
+			<Placemark>
+				<name>Webster University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 470 E Lockwood Avenue, Webster Groves, MO 63119]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>470 E Lockwood Avenue, Webster Groves, MO 63119</value>
+					</Data>
+				</ExtendedData>
+				<address>Webster University INT 470 E Lockwood Avenue, Webster Groves, MO 63119</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Denver School of Social Work</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Denver, CO]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Denver, CO</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Denver School of Social Work INT Denver, CO</address>
+			</Placemark>
+			<Placemark>
+				<name>Rocky Mountain College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1511 Poly Dr, Billings, MT 59102]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1511 Poly Dr, Billings, MT 59102</value>
+					</Data>
+				</ExtendedData>
+				<address>Rocky Mountain College EST 1511 Poly Dr, Billings, MT 59102</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Akron</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 302 E Buchtel Ave, Akron, OH 44325]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>302 E Buchtel Ave, Akron, OH 44325</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Akron EST 302 E Buchtel Ave, Akron, OH 44325</address>
+			</Placemark>
+			<Placemark>
+				<name>Boise State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1910 University Dr, Boise, ID 83725]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1910 University Dr, Boise, ID 83725</value>
+					</Data>
+				</ExtendedData>
+				<address>Boise State University EST 1910 University Dr, Boise, ID 83725</address>
+			</Placemark>
+			<Placemark>
+				<name>Kent State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 800 East Summit Street, Kent, OH 44240]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>800 East Summit Street, Kent, OH 44240</value>
+					</Data>
+				</ExtendedData>
+				<address>Kent State University EST 800 East Summit Street, Kent, OH 44240</address>
+			</Placemark>
+			<Placemark>
+				<name>Ivy Tech Community College of Indiana</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Crawfordsville, Indiana]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Crawfordsville, Indiana</value>
+					</Data>
+				</ExtendedData>
+				<address>Ivy Tech Community College of Indiana INT Crawfordsville, Indiana</address>
+			</Placemark>
+			<Placemark>
+				<name>Harper Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Harper Community College INT</address>
+			</Placemark>
+			<Placemark>
+				<name>Johnson County Community College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 12345 College Blvd, Overland Park, KS 66210]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>12345 College Blvd, Overland Park, KS 66210</value>
+					</Data>
+				</ExtendedData>
+				<address>Johnson County Community College EST 12345 College Blvd, Overland Park, KS 66210</address>
+			</Placemark>
+			<Placemark>
+				<name>Illinois Wesleyan University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1312 Park Street, Bloomington, IL 61701]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1312 Park Street, Bloomington, IL 61701</value>
+					</Data>
+				</ExtendedData>
+				<address>Illinois Wesleyan University EST 1312 Park Street, Bloomington, IL 61701</address>
+			</Placemark>
+			<Placemark>
+				<name>Saint Charles Community College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4601 Mid Rivers Mall Dr, Cottleville, MO 63376]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4601 Mid Rivers Mall Dr, Cottleville, MO 63376</value>
+					</Data>
+				</ExtendedData>
+				<address>Saint Charles Community College EST 4601 Mid Rivers Mall Dr, Cottleville, MO 63376</address>
+			</Placemark>
+			<Placemark>
+				<name>Ohio State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: The Ohio State University Columbus, OH 43210]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>The Ohio State University Columbus, OH 43210</value>
+					</Data>
+				</ExtendedData>
+				<address>Ohio State University EST The Ohio State University Columbus, OH 43210</address>
+			</Placemark>
+			<Placemark>
+				<name>Northwestern University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 633 Clark Street, Evanston, IL 60208]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>633 Clark Street, Evanston, IL 60208</value>
+					</Data>
+				</ExtendedData>
+				<address>Northwestern University EST 633 Clark Street, Evanston, IL 60208</address>
+			</Placemark>
+			<Placemark>
+				<name>Loyola University Chicago</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1050 West Sheridan Road, Chicago, IL 60660]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1050 West Sheridan Road, Chicago, IL 60660</value>
+					</Data>
+				</ExtendedData>
+				<address>Loyola University Chicago EST 1050 West Sheridan Road, Chicago, IL 60660</address>
+			</Placemark>
+			<Placemark>
+				<name>Ferris State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Big Rapids, MI 49307]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Big Rapids, MI 49307</value>
+					</Data>
+				</ExtendedData>
+				<address>Ferris State University EST Big Rapids, MI 49307</address>
+			</Placemark>
+			<Placemark>
+				<name>Westminster College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Westminster College INT</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Kentucky</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Lexington, KY 40506]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Lexington, KY 40506</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Kentucky EST Lexington, KY 40506</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Wisconsin Madison</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>University of Wisconsin Madison INT</address>
+			</Placemark>
+			<Placemark>
+				<name>Northeast Ohio Medical University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 4209 St. Rt. 44, Rootstown, OH 44272]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4209 St. Rt. 44, Rootstown, OH 44272</value>
+					</Data>
+				</ExtendedData>
+				<address>Northeast Ohio Medical University EST 4209 St. Rt. 44, Rootstown, OH 44272</address>
+			</Placemark>
+			<Placemark>
+				<name>Ohio University </name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Ohio University Athens, OH 45701]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Ohio University Athens, OH 45701</value>
+					</Data>
+				</ExtendedData>
+				<address>Ohio University  EST Ohio University Athens, OH 45701</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Michigan Law School</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 625 South State Street, Ann Arbor, MI 48109]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>625 South State Street, Ann Arbor, MI 48109</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Michigan Law School EST 625 South State Street, Ann Arbor, MI 48109</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Cincinnati</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 2600 Clifton Avenue, Cincinnati, OH 45220]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>2600 Clifton Avenue, Cincinnati, OH 45220</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Cincinnati EST 2600 Clifton Avenue, Cincinnati, OH 45220</address>
+			</Placemark>
+			<Placemark>
+				<name>Case Western Reserve University</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 10900 Euclid Ave, Cleveland, OH 44106]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>10900 Euclid Ave, Cleveland, OH 44106</value>
+					</Data>
+				</ExtendedData>
+				<address>Case Western Reserve University INT 10900 Euclid Ave, Cleveland, OH 44106</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Minnesota Twin Cities</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Minneapolis, MN 55455]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Minneapolis, MN 55455</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Minnesota Twin Cities EST Minneapolis, MN 55455</address>
+			</Placemark>
+			<Placemark>
+				<name>University of North Dakota</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: Grand Forks, ND]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Grand Forks, ND</value>
+					</Data>
+				</ExtendedData>
+				<address>University of North Dakota INT Grand Forks, ND</address>
+			</Placemark>
+			<Placemark>
+				<name>Missouri State University</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 901 South National Avenue, Springfield, MO 65897]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>901 South National Avenue, Springfield, MO 65897</value>
+					</Data>
+				</ExtendedData>
+				<address>Missouri State University EST 901 South National Avenue, Springfield, MO 65897</address>
+			</Placemark>
+			<Placemark>
+				<name>Salt Lake Community College</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 4600 Redwood Rd, Salt Lake City, UT 84123]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>4600 Redwood Rd, Salt Lake City, UT 84123</value>
+					</Data>
+				</ExtendedData>
+				<address>Salt Lake Community College INT 4600 Redwood Rd, Salt Lake City, UT 84123</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Kansas</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1450 Jayhawk Blvd Lawrence, KS 66045]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1450 Jayhawk Blvd Lawrence, KS 66045</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Kansas EST 1450 Jayhawk Blvd Lawrence, KS 66045</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Nevada Las Vegas</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: Las Vegas, NV]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>Las Vegas, NV</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Nevada Las Vegas EST Las Vegas, NV</address>
+			</Placemark>
+			<Placemark>
+				<name>Kalamazoo College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1200 Academy Street, Kalamazoo, MI 49006]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1200 Academy Street, Kalamazoo, MI 49006</value>
+					</Data>
+				</ExtendedData>
+				<address>Kalamazoo College EST 1200 Academy Street, Kalamazoo, MI 49006</address>
+			</Placemark>
+			<Placemark>
+				<name>Nevada State College</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1021 E Paradise Hills Dr, Henderson, NV 89002]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1021 E Paradise Hills Dr, Henderson, NV 89002</value>
+					</Data>
+				</ExtendedData>
+				<address>Nevada State College EST 1021 E Paradise Hills Dr, Henderson, NV 89002</address>
+			</Placemark>
+			<Placemark>
+				<name>College of Southern Nevada</name>
+				<description><![CDATA[STATUS: INT<br>Campus Address: 700 College Dr, Henderson, NV 89002]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>INT</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>700 College Dr, Henderson, NV 89002</value>
+					</Data>
+				</ExtendedData>
+				<address>College of Southern Nevada INT 700 College Dr, Henderson, NV 89002</address>
+			</Placemark>
+			<Placemark>
+				<name>University of Nevada Reno</name>
+				<description><![CDATA[STATUS: EST<br>Campus Address: 1664 N Virginia St, Reno, NV 89503]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='STATUS'>
+						<value>EST</value>
+					</Data>
+					<Data name='Campus Address'>
+						<value>1664 N Virginia St, Reno, NV 89503</value>
+					</Data>
+				</ExtendedData>
+				<address>University of Nevada Reno EST 1664 N Virginia St, Reno, NV 89503</address>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
