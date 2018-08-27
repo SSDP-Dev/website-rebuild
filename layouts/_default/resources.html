@@ -6,15 +6,53 @@
     grid-auto-flow: dense;
   }
 
+  /* Grid Layout */
+  .resources-img-container,
+  .resources-ssdp-materials,
+  .resources-drug-war-library,
+  .resources-citizen-resources,
+  .resources-organizing-guides,
+  .resources-training-materials,
+  .resources-leadership-training {
+    grid-column: 1 / -1;
+  }
+
   @media all and (min-width: 43.75rem) {}
+
+  /* Hero Image */
+  .resources-img-container {
+    position: relative;
+  }
+  .resources-img-container h1,
+  .resources-img-container span,
+  .resources-img-container hr {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .resources-img-container h1 {
+    top: 10%;
+  }
+  .resources-img-container hr {
+    top: 25%;
+    width: 50%;
+  }
+  .resources-img-container span {
+    top: 50%;
+    text-transform: uppercase;
+    font-weight:bold;
+  }
 </style>
 
 <div class="grid">
   <div class="resources-img-container">
     <img src="/img/resources_img.jpg" width="100%" />
     <h1>SSDP Resources</h1>
-    <hr>
-    <h2>Get the word out, take action, and let us help with SSDP's resources.</h2>
+    <hr class="bg-john-walsh-ssdp" height=3px>
+    <span class="text-john-walsh-ssdp">Get the word out, take action, and let us help with SSDP's resources.</span>
   </div>
   <div class="resources-ssdp-materials">
     <img src="/img/materials.jpg" width="100%" />
