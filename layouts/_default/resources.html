@@ -1,0 +1,45 @@
+{{ partial "head.html" . }} {{ partial "nav.html" . }}
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, [col-start] 1fr);
+    grid-auto-flow: dense;
+  }
+
+  @media all and (min-width: 43.75rem) {}
+</style>
+
+<div class="grid">
+  <div class="resources-img-container">
+    <img src="/img/resources_img.jpg" width="100%" />
+    <h1>SSDP Resources</h1>
+    <hr>
+    <h2>Get the word out, take action, and let us help with SSDP's resources.</h2>
+  </div>
+  <div class="resources-ssdp-materials">
+    <img src="/img/materials.jpg" width="100%" />
+    <h3>SSDP materials</h3>
+  </div>
+  <div class="resources-drug-war-library">
+    <img src="/img/library.png" width="100%" />
+    <h3>Drug War Library</h3>
+  </div>
+  <div class="resources-citizen-resources">
+    <img src="/img/citizen.jpg" width="100%" />
+    <h3>Citizen Resources</h3>
+  </div>
+  <div class="resources-organizing-guides">
+    <img src="/img/organizing.png" width="100%" />
+    <h3>Organizing Guides</h3>
+  </div>
+  <div class="resources-training-materials">
+    <img src="/img/training.png" width="100%" />
+    <h3>Training materials and publications</h3>
+  </div>
+  <div class="resources-leadership-training">
+    <img src="/img/leadership.png" width="100%" />
+    <h3>Leadership Training</h3>
+  </div>
+</div>
+
+{{partial "footer.html" . }}
