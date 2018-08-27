@@ -1,2 +1,54 @@
 {{ partial "head.html" . }} {{ partial "nav.html" . }}
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, [col-start] 1fr);
+    grid-auto-flow: dense;
+  }
+
+  .materials-logos-and-photos,
+  .materials-sample-chapter-materials,
+  .materials-stickers-and-bugs,
+  .materials-handouts,
+  .materials-flyers-and-posters {
+    grid-column: 3 / 11;
+  }
+</style>
+
+<div class="grid">
+  <h1 style="grid-column: 1/-1; text-align: center;">SSDP Materials</h1>
+</div>
+
+<div class="materials-logos-and-photos">
+  <div class="boc_list_item  ">
+    <span class="li_icon normal " style=""><i class="icon icon-angle-double-right" style=""></i></span>
+    <div class="boc_list_item_text normal"><a href="https://drive.google.com/drive/folders/0B7fh6jX33lH5YlRYM05tMzc2RFU?usp=sharing">SSDP logos</a> and <a href="https://photos.google.com/share/AF1QipMDjQaXl5_kPXgCruoWBAosHn7hH0bTsRztkSHvG_H6DfNHjMjQrLWBC0vPfXgMkw?key=YUhvSHlsUzc0WEFZTDk0SGRQRjZfS0dYT3ZDWkNB">stock photos</a>
+      <iframe src="https://drive.google.com/embeddedfolderview?id=0B7fh6jX33lH5YlRYM05tMzc2RFU#grid" width="100%" height="250px" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="materials-sample-chapter-materials">
+  <div class="boc_list_item_text normal">Sample Chapter Materials
+    <iframe src="https://drive.google.com/embeddedfolderview?id=0B7fh6jX33lH5WGwzZkdveTRoYnc#grid" width="100%" height="250px" frameborder="0"></iframe>
+  </div>
+</div>
+
+<div class="materials-stickers-and-bugs">
+  <div class="boc_list_item_text normal">Stickers and bugs
+    <iframe src="https://drive.google.com/embeddedfolderview?id=0B7fh6jX33lH5Q0RlRE1jQzRjS00#grid" width="100%" height="250px" frameborder="0"></iframe>
+  </div>
+</div>
+
+<div class="materials-handouts">
+  <div class="boc_list_item_text normal">Handouts and educational materials (drug war info, SSDP brochures, stickers, and other printable materials)
+    <iframe src="https://drive.google.com/embeddedfolderview?id=0B7fh6jX33lH5Y095aE04MURyOEk#grid" width="100%" height="250px" frameborder="0"></iframe>
+  </div>
+</div>
+
+<div class="materials-flyers-and-posters">
+  <div class="boc_list_item_text normal">Flyers&nbsp;and Posters
+    <iframe src="https://drive.google.com/embeddedfolderview?id=1LCn8QkP1NveAWljvDmdTZPHPtQGfrbs7#grid" width="100%" height="250px" frameborder="0"></iframe>
+  </div>
+</div>
 {{partial "footer.html" . }}
