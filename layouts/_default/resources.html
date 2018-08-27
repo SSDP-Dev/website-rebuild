@@ -7,12 +7,11 @@
   }
 
   /* Grid Layout */
+
   .resources-img-container,
   .resources-ssdp-materials,
   .resources-drug-war-library,
-  .resources-citizen-resources,
   .resources-organizing-guides,
-  .resources-training-materials,
   .resources-leadership-training {
     grid-column: 1 / -1;
   }
@@ -20,9 +19,11 @@
   @media all and (min-width: 43.75rem) {}
 
   /* Hero Image */
+
   .resources-img-container {
     position: relative;
   }
+
   .resources-img-container h1,
   .resources-img-container span,
   .resources-img-container hr {
@@ -34,15 +35,19 @@
   }
 
   .resources-img-container h1 {
-    top: 10%;
-  }
-  .resources-img-container hr {
     top: 25%;
-    width: 50%;
   }
+
   .resources-img-container span {
-    top: 50%;
-    font-style:italic;
+    top: 45%;
+    font-style: italic;
+    font-size: 21px;
+  }
+  @media all and (max-width: 378px)
+  {
+    .resources-img-container h1 {
+      top: 0%;
+    }
   }
 </style>
 
@@ -53,28 +58,20 @@
     <span class="text-white">Get the word out, take action, and let us help with SSDP's resources.</span>
   </div>
   <div class="resources-ssdp-materials">
-    <img src="/img/materials.jpg" width="100%" />
-    <h3>SSDP materials</h3>
+    <a href="/materials"><img src="/img/materials.jpg" width="100%" /></a>
+    <a href="/materials"><h2>SSDP Materials</h2></a>
   </div>
   <div class="resources-drug-war-library">
-    <img src="/img/library.png" width="100%" />
-    <h3>Drug War Library</h3>
-  </div>
-  <div class="resources-citizen-resources">
-    <img src="/img/citizen.jpg" width="100%" />
-    <h3>Citizen Resources</h3>
+    <a href="/library"><img src="/img/library.png" width="100%" /></a>
+    <a href="/library"><h2>Drug War Library</h2></a>
   </div>
   <div class="resources-organizing-guides">
-    <img src="/img/organizing.png" width="100%" />
-    <h3>Organizing Guides</h3>
-  </div>
-  <div class="resources-training-materials">
-    <img src="/img/training.png" width="100%" />
-    <h3>Training materials and publications</h3>
+    <a href="/organizing"><img src="/img/organizing.png" width="100%" /></a>
+    <a href="/organizing"><h2>Organizing Guides</h2></a>
   </div>
   <div class="resources-leadership-training">
-    <img src="/img/leadership.png" width="100%" />
-    <h3>Leadership Training</h3>
+    <a href="/leadership-training"><img src="/img/leadership.png" width="100%" /></a>
+    <a href="/leadership-training"><h2>Leadership Training</h2></a>
   </div>
 </div>
 
