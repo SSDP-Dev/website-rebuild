@@ -80,7 +80,7 @@
 
   #msform .action-button {
     width: 100px;
-    background: #ee0979;
+    background: #17BEBB;
     font-weight: bold;
     color: white;
     border: 0 none;
@@ -92,12 +92,12 @@
 
   #msform .action-button:hover,
   #msform .action-button:focus {
-    box-shadow: 0 0 0 2px white, 0 0 0 3px #ee0979;
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #17BEBB;
   }
 
   #msform .action-button-previous {
     width: 100px;
-    background: #C5C5F1;
+    background: #636467;
     font-weight: bold;
     color: white;
     border: 0 none;
@@ -109,7 +109,7 @@
 
   #msform .action-button-previous:hover,
   #msform .action-button-previous:focus {
-    box-shadow: 0 0 0 2px white, 0 0 0 3px #C5C5F1;
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #636467;
   }
 
   /*headings*/
@@ -117,7 +117,7 @@
   .fs-title {
     font-size: 18px;
     text-transform: uppercase;
-    color: #2C3E50;
+    color: #636467;
     margin-bottom: 10px;
     letter-spacing: 2px;
     font-weight: bold;
@@ -126,7 +126,7 @@
   .fs-subtitle {
     font-weight: normal;
     font-size: 13px;
-    color: #666;
+    color: #636467;
     margin-bottom: 20px;
   }
 
@@ -192,34 +192,11 @@
     background: #ee0979;
     color: white;
   }
-
-
-  /* Not relevant to this form */
-
-  .dme_link {
-    margin-top: 30px;
-    text-align: center;
-  }
-
-  .dme_link a {
-    background: #FFF;
-    font-weight: bold;
-    color: #ee0979;
-    border: 0 none;
-    border-radius: 25px;
-    cursor: pointer;
-    padding: 5px 25px;
-    font-size: 12px;
-  }
-
-  .dme_link a:hover,
-  .dme_link a:focus {
-    background: #C5C5F1;
-    text-decoration: none;
+  input[type=radio] {
+    width: 10% !important;
   }
 </style>
 <div class="container">
-
   <!-- MultiStep Form -->
   <div class="row">
     <div class="col">
@@ -232,7 +209,6 @@
           <div class="radio"><label for="survey-choice-2004" class="radio"><input name="survey_question_response[survey_question_possible_response_id]" class="survey_question_response_survey_question_possible_response_id" id="survey-choice-2004" value="2004" type="radio"> I want to build a community of like-minded activists</label></div>
           <div class="radio"><label for="survey-choice-2005" class="radio"><input name="survey_question_response[survey_question_possible_response_id]" class="survey_question_response_survey_question_possible_response_id" id="survey-choice-2005" value="2005" type="radio"> I can't decide, I want to do it all!</label></div>
           <div class="radio"><label for="survey-choice-2006" class="radio"><input name="survey_question_response[survey_question_possible_response_id]" class="survey_question_response_survey_question_possible_response_id" id="survey-choice-2006" value="2006" type="radio"> I don’t know what I’m most excited about, can you help me figure that out?</label></div>
-
           <input type="button" name="next" class="next action-button" value="Next" />
         </fieldset>
         <fieldset>
