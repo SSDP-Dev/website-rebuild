@@ -6,6 +6,10 @@
     grid-auto-flow: dense;
   }
 
+  h2 {
+    text-align: center;
+  }
+
   /* Grid Layout */
 
   .resources-img-container,
@@ -16,7 +20,26 @@
     grid-column: 1 / -1;
   }
 
-  @media all and (min-width: 43.75rem) {}
+  @media all and (min-width: 43.75rem) {
+    .resources-ssdp-materials {
+      grid-column: 1 / 4;
+    }
+
+    .resources-ssdp-materials img {
+    }
+
+    .resources-drug-war-library {
+      grid-column: 4 / 7;
+    }
+
+    .resources-organizing-guides {
+      grid-column: 7/10;
+    }
+
+    .resources-leadership-training {
+      grid-column: 10 / 13;
+    }
+  }
 
   /* Hero Image */
 
@@ -59,19 +82,19 @@
   </div>
   <div class="resources-ssdp-materials">
     <a href="/materials"><img src="/img/materials.jpg" width="100%" /></a>
-    <a href="/materials"><h2>SSDP Materials</h2></a>
+    <a href="/materials"><h2 class="p-1">SSDP Materials</h2></a>
   </div>
   <div class="resources-drug-war-library">
     <a href="/library"><img src="/img/library.png" width="100%" /></a>
-    <a href="/library"><h2>Drug War Library</h2></a>
+    <a href="/library"><h2 class="p-1">Drug War Library</h2></a>
   </div>
   <div class="resources-organizing-guides">
     <a href="/organizing"><img src="/img/organizing.png" width="100%" /></a>
-    <a href="/organizing"><h2>Organizing Guides</h2></a>
+    <a href="/organizing"><h2 class="p-1">Organizing Guides</h2></a>
   </div>
   <div class="resources-leadership-training">
     <a href="/leadership-training"><img src="/img/leadership.png" width="100%" /></a>
-    <a href="/leadership-training"><h2>Leadership Training</h2></a>
+    <a href="/leadership-training"><h2 class="p-1">Leadership Training</h2></a>
   </div>
 </div>
 
