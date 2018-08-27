@@ -1,24 +1,274 @@
 {{ partial "head.html" . }}
 {{ partial "nav.html" . }}
 
+
 <style>
-.grid {
-  display: grid;
-  grid-template-columns: repeat(12, [col-start] 1fr);
-  grid-auto-flow: dense;
-}
+  /** Responsive Tabs CSS **/
 
-.full-text {
-  grid-column: 1 / -1;
-}
+  .r-tabs .r-tabs-nav {
+    margin: 0;
+    padding: 0;
+  }
 
-  @media all and (min-width: 700px) {
+  .r-tabs .r-tabs-tab {
+    display: inline-block;
+    margin: 0;
+    list-style: none;
+  }
+
+  .r-tabs .r-tabs-panel {
+    padding: 15px;
+    display: none;
+    height: 200px;
+  }
+
+  .r-tabs .r-tabs-accordion-title {
+    display: none;
+  }
+
+  .r-tabs .r-tabs-panel.r-tabs-state-active {
+    display: block;
+  }
+
+  /* Accordion responsive breakpoint */
+
+  @media only screen and (max-width: 768px) {
+    .r-tabs .r-tabs-nav {
+      display: none;
+    }
+
+    .r-tabs .r-tabs-accordion-title {
+      display: block;
+    }
+  }
+
+  /* Tabs container */
+
+  .r-tabs {
+    position: relative;
+
+    background-color: #17BEBB;
+
+    border-top: 1px solid #17BEBB;
+    border-right: 1px solid #17BEBB;
+    border-left: 1px solid #17BEBB;
+    border-bottom: 4px solid #17BEBB;
+    border-radius: 4px;
+
+  }
+
+  /* Tab element */
+
+  .r-tabs .r-tabs-nav .r-tabs-tab {
+    position: relative;
+    background-color: #17BEBB;
+  }
+
+  /* Tab anchor */
+
+  .r-tabs .r-tabs-nav .r-tabs-anchor {
+    display: inline-block;
+    padding: 10px 12px;
+
+    text-decoration: none;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+  }
+
+  /* Disabled tab */
+
+  .r-tabs .r-tabs-nav .r-tabs-state-disabled {
+    opacity: 0.5;
+  }
+
+  /* Active state tab anchor */
+
+  .r-tabs .r-tabs-nav .r-tabs-state-active .r-tabs-anchor {
+    color: #17BEBB;
+    text-shadow: none;
+
+    background-color: white;
+
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+
+  /* Tab panel */
+
+  .r-tabs .r-tabs-panel {
+    background-color: white;
+
+    border-bottom: 4px solid white;
+
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+
+  }
+
+  /* Accordion anchor */
+
+  .r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+    display: block;
+    padding: 10px;
+
+    background-color: #17BEBB;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+
+  /* Active accordion anchor */
+
+  .r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
+    background-color: #fff;
+    color: #17BEBB;
+    text-shadow: none;
+  }
+
+  /* Disabled accordion button */
+
+  .r-tabs .r-tabs-accordion-title.r-tabs-state-disabled {
+    opacity: 0.5;
+  }
+
+  /* Buttons */
+
+  button {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    line-height: 100%;
+
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+    vertical-align: middle;
+    font-weight: bold;
+
+    border: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #17BEBB;
+    box-shadow: 0px 3px 0px 0px #00ab94;
+
+    cursor: pointer;
+  }
+
+  /* Info bar */
+
+  .info {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    width: 300px;
+    line-height: 100%;
+
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 14px;
+    color: #17BEBB;
+    border: 2px solid #00ab94;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #fff;
+
+    cursor: pointer;
+  }
+
+  .report-img {
+    float: left;
+    margin-right: 3rem;
+    max-width: 150px;
+  }
+
+  .navbar-toggler {
+    box-shadow: none;
   }
 </style>
-<div class="grid">
-  <div class="full-text">
-    <p>The campaigns page will also be a little more complex to implement, but we have a good template for it, just nothing here yet</p>
+
+<div class="container" style="height: 100vh">
+  <div id="responsiveTabsDemo" class="mt-5">
+    <ul>
+      <li><a href="#tab-1"> Campus Change </a></li>
+      <li><a href="#tab-2"> Call 911 Good Samaritan Policies </a></li>
+      <li><a href="#tab-3"> 2015-2016 </a></li>
+      <li><a href="#tab-4"> 2014-2015 </a></li>
+      <li><a href="#tab-5"> 2013-2014 </a></li>
+      <li><a href="#tab-6"> 2012-2013 </a></li>
+      <li><a href="#tab-7"> 2011-2012 </a></li>
+
+    </ul>
+    <div id="tab-1">
+      <ul>
+        <li><a href="https://ssdp.org/wp-content/uploads/2018/08/SSDP-FY17-Public-Disclosure-Copy-Form-990.pdf">2017 IRS Form 990</a></li>
+        <li><a href="https://ssdp.org/wp-content/uploads/2018/08/SSDP-17-FS-Final-1.pdf">2017 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-2">
+      <img class="report-img" src="img/2016-2017-annual-report-cover-e1510183086686.jpg" />
+      <ul>
+        <li><a href="https://drive.google.com/file/d/0B7fh6jX33lH5SW9CQU0tRkwtQWs/view?usp=sharing">2016-17 Annual Report</a></li>
+        <li><a href="https://drive.google.com/open?id=0B7fh6jX33lH5RWZ1MW1SZHRlSTA">2016 IRS Form 990</a></li>
+        <li><a href="https://drive.google.com/open?id=0Bw9DFXUmq190cEFuVFhmVlU2dXJDS0lOb1lpNUhFeTRCdWo4">2016 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-3">
+      <img class="report-img" src="img/annua_reports_15_16.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/SSDP-2016-annual-report.pdf">2015-2016 Annual Report</a></li>
+        <li><a href="https://ssdp.org/assets/SSDP-FY15-Public-Disclosure-Copy-Form-990.pdf">2015 IRS Form 990</a></li>
+        <li><a href="https://ssdp.org/assets/SSDP-15-FS-Final.pdf">2015 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-4">
+      <img class="report-img" src="img/2015annual.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/ssdp-annual-report-2015-FINAL.pdf">2014-2015 Annual Report</a></li>
+        <li><a href="http://ssdp.org/assets/SSDP-FY14-Public-Disclosure-Copy-Form-990.pdf">2014 IRS Form 990</a></li>
+        <li><a href="http://ssdp.org/assets/SSDP-FS-15-Final-R.pdf">2014 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-5">
+      <img class="report-img" src="img/2014annual.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/SSDP-Annual-Report-2014.pdf">2013-2014 Annual Report</a></li>
+        <li><a href="https://ssdp.org//assets/SSDP-FY13-Public-Disclosure-Copy-Form-990.pdf">2013 IRS Form 990</a></li>
+        <li><a href="https://ssdp.org/assets/SSDP-13-FS-Final.pdf">2013 Audited Financial Statements</a></li>
+      </ul>
+    </div>
+    <div id="tab-6">
+      <img class="report-img" src="img/2013annual.jpeg" />
+      <ul>
+        <li><a href="https://ssdp.org/documents/Annual-Report-2013.pdf">2012-2013 Annual Report</a></li>
+        <li><a href="https://ssdp.org/assets/2012-SSDP-990-Public-Disclosure.pdf">2012 IRS Form 990</a></li>
+      </ul>
+    </div>
+    <div id="tab-7">
+      <img class="report-img" src="img/2012annual.png" />
+      <ul>
+        <li><a href="https://ssdp.org/assets/2012/09/SSDP-Annual-Report-2012.pdf">2011-2012 Annual Report</a></li>
+        <li><a href="https://ssdp.org/assets/2011-990-Public-Disclosure.pdf">2011 IRS Form 990</a></li>
+      </ul>
+    </div>
   </div>
 </div>
 
-{{ partial "footer.html" . }}
+{{partial "footer.html" . }}
+<script src="js/jquery.responsiveTabs.min.js"></script>
+
+<script>
+  $('#responsiveTabsDemo').responsiveTabs({
+    startCollapsed: 'accordion'
+  });
+</script>
