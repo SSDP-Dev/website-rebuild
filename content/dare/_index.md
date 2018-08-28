@@ -2,7 +2,7 @@
 type="default"
 layout="base"
 +++
-### **SSDP’s Diversity Awareness Reflection and Education (DARE) Project**
+# Diversity Awareness Reflection and Education (DARE) Project
 
 SSDP DARE, formerly known as ORD (Outreach Recruitment Diversity) Committee is a collaborative committee comprised of Board members, students, alumni, and community members dedicated to broadening Students for Sensible Drug Policy’s (SSDP) base and increasing engagement with presently underrepresented perspectives. Since its founding in March 2011, DARE has taken on the challenges of strengthening diversity in all its forms within SSDP. DARE’s 2018-2019 [objectives](https://ssdp.org/strategy/):
 
