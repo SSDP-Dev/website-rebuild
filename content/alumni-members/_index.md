@@ -353,7 +353,123 @@ This list includes all current members of the [SSDP Alumni Association](http://s
 
 ## Pacific Region
 
-**Irina Alexander ’07** _University of Maryland_ (Oakland, CA) **Ismail Ali ’13** _University of California Berkeley School of Law_ (El Cerrito, CA) **Matt Atwood ’99** _Loyola University Chicago_ (Oakland, CA) **Marc Brandl ’98** _American University_ (San Diego, CA) **Alex Brizicky ’08** _The Art Institute of Boston_ (Oakland, CA) **Sam Chapman ’09** _University of Oregon_ (Portland, OR) **Jeffrey Chen ’16** _University of California Los Angeles_ (Los Angeles, CA) **Sarah Clark ’01** _Ohio State University_ (Oakland, CA) **Mitchell Colbert ’10** _San Jose State University_ (Oakland, CA) **Stacia Cosner ’05** _University of Maryland_ (Oakland, CA) **Troy Dayton ’99** _American University_ (Oakland, CA) **Jimi Devine ’05** _Franklin Pierce University_ (Oakland, CA) **Sarah Duff ’01** _University of Missouri-Columbia_ (Portland, OR) **Alec Foster ’10** _New York University_ (San Francisco, CA) **Daniel Freire ’14** _University of Southern California_ (Los Angeles, CA) **Marisa Garcia ’00** _California State University Fullerton_ (Whittier, CA) **Eric Gudz ’14** _University of California Davis_ (Davis, CA) **Katrina Haffner ’13** _Western Washington University_ (Bellingham, WA) **Richard Hartnell ’16** University of California Santa Cruz (Oakland, CA) **Kandice Hawes ’10** _California State University Fullerton_ (Lake Forest, CA) **Randy Hencken ’05** _San Diego State University_ (Oakland, CA) **Eric Hogensen ’99** _University of Wisconsin-Madison_ (Pasadena, CA) **Ty Hranac ’17** _Occidental College_ (Seattle, WA) **Anthony Johnson ’01** _University of Missouri-Columbia_ (Portland, OR) **Cypress Nick Kappeyne ’08** _Reed College_ (Eugene, OR) **Justin Kander ’09** _University of Maryland_ (Bodega Bay, CA) **Alex Kreit ’98** _Hampshire College_ (San Diego, CA) **Nick Lau ’10** _University of California-Merced_ (San Francisco, CA) **Alex L. ’08** _College of William and Mary_ (Davis, CA) **Sean Luse ’00** _Ohio State University_ (Oakland, CA) **Rishi Malhotra ’08** _University of California Berkeley_ (San Francisco, CA) **Lauren Mendelsohn ’09** _University of California Irvine School of Law & University of Maryland_ (Long Beach, CA) **Ben Mossbarger ’06** _Brown University_ (San Francisco, CA) **Leyla Palacios ’13** _University of Texas at El Paso_ (Oakland, CA) **A. Kathryn Parker ’06** _North Carolina State University_ (Oakland, CA) **Matt Peevler ’10** _University of California Berkeley_ (Clayton, CA) **Chris Pezza ’03** _Front Range Community College_ (San Francisco, CA) **Victor Pinho ’02** _University of Maryland_ (Castro Valley, CA) **Audrey Reedy ’17** _Chapman University_ (Orange, CA) **Amanda Reiman ’98** _University of California Berkeley_ (Oakland, CA) **Gabe Rosales ’15** _University of California Irvine_ (Dana Point, CA) **Kellen Russionello ’10** _George Washington University Law School_ (San Diego, CA) **Mario Sanchez ’15** _California State University Long Beach_ (Huntington Beach, CA) **Zoe Schreiber ’10** _Mills College_ (Oakland, CA) **Danielle Schumacher ’01** _University of Illinois Urbana-Champaign_ (El Cerrito, CA) **Bradley Steinman ’11** _Lewis and Clark Law School_ (Portland, OR) **Veronica Stetter ’10** _San Diego State University_ (San Diego, CA) **Hannah Stitt ’12** _UC Hastings College of the Law_ (San Francisco, CA) **Katie Stone ’09** _University of California Davis_ (Davis, CA) **Jesse Stout ’02** _UC Hastings College of the Law_ (San Francisco, CA) **Trevor Stutz ’03** _Brown University_ (Los Angeles, CA) **Elise Szabo ’14** _Kent State University_ (Emeryville, CA) **Lalitha Thirunagari ’15** _University of California Berkeley_ (San Jose, CA) **Scarlett Tovar ’14** _University of California Davis_ (Los Angeles, CA) **Amanda Van Hoesen ’06** _University of Maryland_ (Castro Valley, CA) **Crystal Varkalis ’10** _University of Maryland_ (Huntington Beach, CA) **Allison Wilens ’11** _Tufts University_ (Santa Cruz, CA) **Charles Witwer ’17** _Occidental College_ (Los Angeles, CA) **Oliver Zerrudo ’15** _University of California Berkeley_ (San Francisco, CA)
+**Irina Alexander ’07** _University of Maryland_ (Oakland, CA)
+
+**Ismail Ali ’13** _University of California Berkeley School of Law_ (El Cerrito, CA)
+
+**Matt Atwood ’99** _Loyola University Chicago_ (Oakland, CA)
+
+**Marc Brandl ’98** _American University_ (San Diego, CA)
+
+**Alex Brizicky ’08** _The Art Institute of Boston_ (Oakland, CA)
+
+**Sam Chapman ’09** _University of Oregon_ (Portland, OR)
+
+**Jeffrey Chen ’16** _University of California Los Angeles_ (Los Angeles, CA)
+
+**Sarah Clark ’01** _Ohio State University_ (Oakland, CA)
+
+**Mitchell Colbert ’10** _San Jose State University_ (Oakland, CA)
+
+**Stacia Cosner ’05** _University of Maryland_ (Oakland, CA)
+
+**Troy Dayton ’99** _American University_ (Oakland, CA)
+
+**Jimi Devine ’05** _Franklin Pierce University_ (Oakland, CA)
+
+**Sarah Duff ’01** _University of Missouri-Columbia_ (Portland, OR)
+
+**Alec Foster ’10** _New York University_ (San Francisco, CA)
+
+**Daniel Freire ’14** _University of Southern California_ (Los Angeles, CA)
+
+**Marisa Garcia ’00** _California State University Fullerton_ (Whittier, CA)
+
+**Eric Gudz ’14** _University of California Davis_ (Davis, CA)
+
+**Katrina Haffner ’13** _Western Washington University_ (Bellingham, WA)
+
+**Richard Hartnell ’16** University of California Santa Cruz (Oakland, CA)
+
+**Kandice Hawes ’10** _California State University Fullerton_ (Lake Forest, CA)
+
+**Randy Hencken ’05** _San Diego State University_ (Oakland, CA)
+
+**Eric Hogensen ’99** _University of Wisconsin-Madison_ (Pasadena, CA)
+
+**Ty Hranac ’17** _Occidental College_ (Seattle, WA)
+
+**Anthony Johnson ’01** _University of Missouri-Columbia_ (Portland, OR)
+
+**Cypress Nick Kappeyne ’08** _Reed College_ (Eugene, OR)
+
+**Justin Kander ’09** _University of Maryland_ (Bodega Bay, CA)
+
+**Alex Kreit ’98** _Hampshire College_ (San Diego, CA)
+
+**Nick Lau ’10** _University of California-Merced_ (San Francisco, CA)
+
+**Alex L. ’08** _College of William and Mary_ (Davis, CA)
+
+**Sean Luse ’00** _Ohio State University_ (Oakland, CA)
+
+**Rishi Malhotra ’08** _University of California Berkeley_ (San Francisco, CA)
+
+**Lauren Mendelsohn ’09** _University of California Irvine School of Law & University of Maryland_ (Long Beach, CA)
+
+**Ben Mossbarger ’06** _Brown University_ (San Francisco, CA)
+
+**Leyla Palacios ’13** _University of Texas at El Paso_ (Oakland, CA)
+
+**A. Kathryn Parker ’06** _North Carolina State University_ (Oakland, CA)
+
+**Matt Peevler ’10** _University of California Berkeley_ (Clayton, CA)
+
+**Chris Pezza ’03** _Front Range Community College_ (San Francisco, CA)
+
+**Victor Pinho ’02** _University of Maryland_ (Castro Valley, CA)
+
+**Audrey Reedy ’17** _Chapman University_ (Orange, CA)
+
+**Amanda Reiman ’98** _University of California Berkeley_ (Oakland, CA)
+
+**Gabe Rosales ’15** _University of California Irvine_ (Dana Point, CA)
+
+**Kellen Russionello ’10** _George Washington University Law School_ (San Diego, CA)
+
+**Mario Sanchez ’15** _California State University Long Beach_ (Huntington Beach, CA)
+
+**Zoe Schreiber ’10** _Mills College_ (Oakland, CA)
+
+**Danielle Schumacher ’01** _University of Illinois Urbana-Champaign_ (El Cerrito, CA)
+
+**Bradley Steinman ’11** _Lewis and Clark Law School_ (Portland, OR)
+
+**Veronica Stetter ’10** _San Diego State University_ (San Diego, CA)
+
+**Hannah Stitt ’12** _UC Hastings College of the Law_ (San Francisco, CA)
+
+**Katie Stone ’09** _University of California Davis_ (Davis, CA)
+
+**Jesse Stout ’02** _UC Hastings College of the Law_ (San Francisco, CA)
+
+**Trevor Stutz ’03** _Brown University_ (Los Angeles, CA)
+
+**Elise Szabo ’14** _Kent State University_ (Emeryville, CA)
+
+**Lalitha Thirunagari ’15** _University of California Berkeley_ (San Jose, CA)
+
+**Scarlett Tovar ’14** _University of California Davis_ (Los Angeles, CA)
+
+**Amanda Van Hoesen ’06** _University of Maryland_ (Castro Valley, CA)
+
+**Crystal Varkalis ’10** _University of Maryland_ (Huntington Beach, CA)
+
+**Allison Wilens ’11** _Tufts University_ (Santa Cruz, CA)
+
+**Charles Witwer ’17** _Occidental College_ (Los Angeles, CA)
+
+**Oliver Zerrudo ’15** _University of California Berkeley_ (San Francisco, CA)
 
 ## Southeast Region
 
