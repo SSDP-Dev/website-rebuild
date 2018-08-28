@@ -15,7 +15,7 @@ fwrite($handle, $reset_time . ": " . $git_reset_output. "\n");
 
 // We'll need to run gulp here as well, but for now we're getting errors
 // It's not mission-critical, since people won't likely be editing scss
-chdir('/home/dh_ij9i3a');
+chdir('/home/dh_ij9i3a/hugo_build_files');
 $hugo_time = $date->getTimestamp();
 $hugo_output = shell_exec("/home/dh_ij9i3a/hugo 2>&1");
 fwrite($handle, $hugo_time . ": " . $hugo_output. "\n");
