@@ -89,19 +89,267 @@ This list includes all current members of the [SSDP Alumni Association](http://s
 
 **Nick Rosenberg ’11** _University of Maryland_ (Edmonston, MD)
 
-**Clark Ruper ’05** _University of Michigan_ (Washington, DC) **Hirbod Sajjadi ’14** _ University of Maryland_ (Mclean, VA) **Khalil Smith ’15** _University of Akron_ (Silver Spring, MD) **Edward Spriggs ’07** _University of Maryland_ (Brookeville, MD) **Eric Sterling ’98** _HONORARY_ (Silver Spring, MD) **Sawyer Wilkins ’14** _Virginia Commonwealth University_ (Richmond, VA) **Aurora Wetherill ’13** _Dickinson College_ (Newtown Square, PA) **Jackson Zyontz ’14** _Dickinson College_ (Middleburg, PA)
+**Clark Ruper ’05** _University of Michigan_ (Washington, DC)
+
+**Hirbod Sajjadi ’14** _ University of Maryland_ (Mclean, VA)
+
+**Khalil Smith ’15** _University of Akron_ (Silver Spring, MD)
+
+**Edward Spriggs ’07** _University of Maryland_ (Brookeville, MD)
+
+**Eric Sterling ’98** _HONORARY_ (Silver Spring, MD)
+
+**Sawyer Wilkins ’14** _Virginia Commonwealth University_ (Richmond, VA)
+
+**Aurora Wetherill ’13** _Dickinson College_ (Newtown Square, PA)
+
+**Jackson Zyontz ’14** _Dickinson College_ (Middleburg, PA)
 
 ## Mountain Region
 
-**Paul Accola ’14** _University of Colorado Colorado Springs_ (Colorado Springs, CO) **Polina Ash ’10** _University of Colorado Colorado Springs_ (Montreal, Quebec) **Diane Byrne ’12** _University of Colorado Colorado Springs_ (Denver, CO) **Kevin Cheney ’12** _University of Colorado School of Law_ (Broomfield, CO) **Meral Cooper ’11** _University of Colorado Colorado Springs_ (Colorado Springs, CO) **John Decker ’05** _University of Maryland_ (Denver, CO) **Brett Engle ’10** _University of Colorado Denver_ (Arvada, CO) **Joey Gallagher ’13** _University of Iowa_ (Denver, CO) **Jonathan Gaskill ’15** _University of Rhode Island_ (Colorado Springs, CO) **Graham Gerritsen ’12** _University of Texas_ (Boulder, CO) **Brooke Gilbert ’09** _Virginia Commonwealth University_ (Denver, CO) **Brian Gilbert ’09** _Virginia Commonwealth University_ (Denver, CO) **Nicola Giudice ’08** _University of Massachusetts Boston_ (Denver, CO) **Kat Humphries ’10** _College of Charleston_ (Denver, CO) **Adam Hurter ’99** _Wesleyan University_ (Boulder, CO) **Clayton Ickes ’15** _University of Colorado Boulder_ (Boulder, CO) **Kara Janowsky ’09** _University of Colorado at Boulder_ (Boulder, CO) **Joshua Kappel ’05** _Truman State University_ (Denver, CO) **Kristin Karas ’15** _East Carolina University_ (Denver, CO) **Jessica Knight ’09** _University of Cincinnati_ (Sparks, NV) **Matt Kotin ’14** _University of Colorado Boulder_ (Westminster, CO) **Andrew Livingston ’09** _Colgate University_ (Denver, CO) **Madalyn McElwain ’12**  <span data-sheets-value="[null,2,&quot;University of Denver Sturm College of Law&quot;]" data-sheets-userformat="[null,null,33665,[null,0],null,null,null,null,null,null,2,0,0,null,null,null,null,null,1]">_University of Denver Sturm College of Law_ (Denver, CO)</span> **Luis Montoya ’16** Florida International University (Denver, CO) **Christian Opitz ’09** _Black Hills State University_ (Loveland, CO) **Ismael Perez ’16** _University of Central Florida_ (Denver, CO) **Emmett Reistroffer ’09** _HONORARY_ (Englewood, CO) **Thom Silverstein ’05** _College of William and Mary_ (Washington, DC) **Mark Slaugh ’08** _University of Colorado Colorado Springs_ (Colorado Springs, CO) **Lauren Snow ’13** _University of Denver Sturm College of Law_ (Denver, CO) **Drew Stromberg ’09** _West Virginia University_ (Denver, CO) **Chris Wallis ’07** _Kent State University_ (Denver, CO) **Jake Warnke ’15** _Colorado School of Mines_ (Golden, CO) **Tyler J. Williams ’11** _University of Colorado Boulder_ (Denver, CO) **Tyler Williams ’11** _University of Connecticut_ (Denver, CO) **Genevieve Wiley ’10** _West Chester University_ (Allentown, PA) **Rachelle Yeung ’11** _University of Colorado School of Law_ (Denver, CO)
+**Paul Accola ’14** _University of Colorado Colorado Springs_ (Colorado Springs, CO)
+
+**Polina Ash ’10** _University of Colorado Colorado Springs_ (Montreal, Quebec)
+
+**Diane Byrne ’12** _University of Colorado Colorado Springs_ (Denver, CO)
+
+**Kevin Cheney ’12** _University of Colorado School of Law_ (Broomfield, CO)
+
+**Meral Cooper ’11** _University of Colorado Colorado Springs_ (Colorado Springs, CO)
+
+**John Decker ’05** _University of Maryland_ (Denver, CO)
+
+**Brett Engle ’10** _University of Colorado Denver_ (Arvada, CO)
+
+**Joey Gallagher ’13** _University of Iowa_ (Denver, CO)
+
+**Jonathan Gaskill ’15** _University of Rhode Island_ (Colorado Springs, CO)
+
+**Graham Gerritsen ’12** _University of Texas_ (Boulder, CO)
+
+**Brooke Gilbert ’09** _Virginia Commonwealth University_ (Denver, CO)
+
+**Brian Gilbert ’09** _Virginia Commonwealth University_ (Denver, CO)
+
+**Nicola Giudice ’08** _University of Massachusetts Boston_ (Denver, CO)
+
+**Kat Humphries ’10** _College of Charleston_ (Denver, CO)
+
+**Adam Hurter ’99** _Wesleyan University_ (Boulder, CO)
+
+**Clayton Ickes ’15** _University of Colorado Boulder_ (Boulder, CO)
+
+**Kara Janowsky ’09** _University of Colorado at Boulder_ (Boulder, CO)
+
+**Joshua Kappel ’05** _Truman State University_ (Denver, CO)
+
+**Kristin Karas ’15** _East Carolina University_ (Denver, CO)
+
+**Jessica Knight ’09** _University of Cincinnati_ (Sparks, NV)
+
+**Matt Kotin ’14** _University of Colorado Boulder_ (Westminster, CO)
+
+**Andrew Livingston ’09** _Colgate University_ (Denver, CO)
+
+**Madalyn McElwain ’12**  <span data-sheets-value="[null,2,&quot;University of Denver Sturm College of Law&quot;]" data-sheets-userformat="[null,null,33665,[null,0],null,null,null,null,null,null,2,0,0,null,null,null,null,null,1]">_University of Denver Sturm College of Law_ (Denver, CO)</span>
+
+**Luis Montoya ’16** Florida International University (Denver, CO)
+
+**Christian Opitz ’09** _Black Hills State University_ (Loveland, CO)
+
+**Ismael Perez ’16** _University of Central Florida_ (Denver, CO)
+
+**Emmett Reistroffer ’09** _HONORARY_ (Englewood, CO)
+
+**Thom Silverstein ’05** _College of William and Mary_ (Washington, DC)
+
+**Mark Slaugh ’08** _University of Colorado Colorado Springs_ (Colorado Springs, CO)
+
+**Lauren Snow ’13** _University of Denver Sturm College of Law_ (Denver, CO)
+
+**Drew Stromberg ’09** _West Virginia University_ (Denver, CO)
+
+**Chris Wallis ’07** _Kent State University_ (Denver, CO)
+
+**Jake Warnke ’15** _Colorado School of Mines_ (Golden, CO)
+
+**Tyler J. Williams ’11** _University of Colorado Boulder_ (Denver, CO)
+
+**Tyler Williams ’11** _University of Connecticut_ (Denver, CO)
+
+**Genevieve Wiley ’10** _West Chester University_ (Allentown, PA)
+
+**Rachelle Yeung ’11** _University of Colorado School of Law_ (Denver, CO)
 
 ## Midwest Region
 
-**Akemi Almeida ’16** _DePaul University_ (Carpentersville, IL) **Anonymous ’14** (Ashland, WI) **Randon Davis ’16** _Kent State University_ (Kent, OH) **Vilmarie Fraguada Narloch, PsyD ’09** _Roosevelt University_ (Chicago, IL) **Ryan Haeseley ’01** _Earlham College_ (Amelia, OH) **Alexandria Haimbaugh ’12** _University of Michigan_ (Ann Arbor, MI) **Erik Haslinger ’08** _Northern Illinois University_ (Chicago, IL) **Amy Hildebrand ’14** _DePaul University_ (Chicago, IL) **Brian Kardell ’13** _University of Michigan_ (East Lansing, MI) **Adam Koltun ’06** (Chicago, IL) **Daniel Hurwitz ’12** _Northwestern University_ (Evanston, IL) **George Pappas ’01** _University of Iowa_ (Lombard, IL) **Alison Park Grimmer ’06** _Roosevelt University_ (Chicago, IL) **Rory McPeak ’15** _Loyola University Chicago_ (Chicago, IL) **Samantha Melius ’15** _Kent State University_ (Kent, OH) **David Mora ’14** _Howard University School of Law_ (Detroit, MI) **Jeremy Orbach ’10** _Northern Illinois University_ (Skokie, IL) **Sahana Rajan ’10** _University of Michigan_ (Geneva, IL) **Spencer Rudnick ’14** _Cornell College_ (Ann Arbor, MI) **Sven Rundman ’16** _University of Tennessee Knoxville_ (Kent, OH) **Devin Samuels ’10** _University of Connecticut_ (Detroit, MI) **Rex Tai ’12** _Northwestern University_ (Evanston, IL) **Murphy Van Sparrentak ’10** _University of Michigan_ (Ann Arbor, MI) **Stuart VandenBrink ’09** _University of Michigan_ (Ann Arbor, MI) **Nicholas Zettell ’09** _University of Michigan_ (Hamtramck, MI) **Luke Zona ’14** _Bowling Green State University_ (Toledo, OH)
+**Akemi Almeida ’16** _DePaul University_ (Carpentersville, IL)
+
+**Anonymous ’14** (Ashland, WI)
+
+**Randon Davis ’16** _Kent State University_ (Kent, OH)
+
+**Vilmarie Fraguada Narloch, PsyD ’09** _Roosevelt University_ (Chicago, IL)
+
+**Ryan Haeseley ’01** _Earlham College_ (Amelia, OH)
+
+**Alexandria Haimbaugh ’12** _University of Michigan_ (Ann Arbor, MI)
+
+**Erik Haslinger ’08** _Northern Illinois University_ (Chicago, IL)
+
+**Amy Hildebrand ’14** _DePaul University_ (Chicago, IL)
+
+**Brian Kardell ’13** _University of Michigan_ (East Lansing, MI)
+
+**Adam Koltun ’06** (Chicago, IL)
+
+**Daniel Hurwitz ’12** _Northwestern University_ (Evanston, IL)
+
+**George Pappas ’01** _University of Iowa_ (Lombard, IL)
+
+**Alison Park Grimmer ’06** _Roosevelt University_ (Chicago, IL)
+
+**Rory McPeak ’15** _Loyola University Chicago_ (Chicago, IL)
+
+**Samantha Melius ’15** _Kent State University_ (Kent, OH)
+
+**David Mora ’14** _Howard University School of Law_ (Detroit, MI)
+
+**Jeremy Orbach ’10** _Northern Illinois University_ (Skokie, IL)
+
+**Sahana Rajan ’10** _University of Michigan_ (Geneva, IL)
+
+**Spencer Rudnick ’14** _Cornell College_ (Ann Arbor, MI)
+
+**Sven Rundman ’16** _University of Tennessee Knoxville_ (Kent, OH)
+
+**Devin Samuels ’10** _University of Connecticut_ (Detroit, MI)
+
+**Rex Tai ’12** _Northwestern University_ (Evanston, IL)
+
+**Murphy Van Sparrentak ’10** _University of Michigan_ (Ann Arbor, MI)
+
+**Stuart VandenBrink ’09** _University of Michigan_ (Ann Arbor, MI)
+
+**Nicholas Zettell ’09** _University of Michigan_ (Hamtramck, MI)
+
+**Luke Zona ’14** _Bowling Green State University_ (Toledo, OH)
 
 ## Northeast Region
 
-**Christopher Albach ’08** _SUNY New Paltz_ (Greenlawn, NY) **Jessica Altuch ’16** _University of Rhode Island_ (Port Washington, NY) **Thomas Angell ’00** _University of Rhode Island_ (New York, NY) **Sara Arnold ’11** _HONORARY_ (Clinton, MA) **Emma Bijou ’14** _Binghamton University_ (Pawling, NY) **Sabrina Bode ’13** _SUNY New Paltz_ (New York, NY) **Gregory Bruno ’12** _SUNY New Paltz_ (New Paltz, NY) **Eric Casey ’10** _University of Rhode Island_ (Malborough, MA) **Ryan Cassidy ’09** _Northeastern University_ (Boston, MA) **Haley Cedarholm ’14** _University of Rhode Island_ (Narragansett, RI) **Jess Cochrane ’12** _Northeastern University School of Law_ (Boston, MA) **Emily Cotter ’11** _University of Rhode Island_ (South Kingston, RI) **Brian Coughlin ’10** _Boston University_ (Brighton, MA) **Joe Dahlstrom ’10** _New York University_ (Ridgewood, NY) **Jag Davies ’01** _New College of Florida_ (New York, NY) **Shannon Davis ’15** _University of Rhode Island_ (Narragansett, RI) **Nicole Doherty ’18** _University of Massachusetts Boston_ (Brookline, MA) **Hilary Dulin ’08** _Northeastern University_ (Allston, MA) **Kelly Ebbert ’15** _University of Rhode Island_ (Kingston, RI) **Kat Fedorchak ’17** _Occidental College_ (Hamden, CT) **Gennady Forrest ’09** _Northeastern University_ (Pawtucket, RI) **Kevin Franciotti ’06** _Northeastern University_ (New York, NY) **Evan Fulton ’11** _University of Connecticut_ (Willimantic, CT) **James Given ’12** _University of Rhode Island_ (Carolina, RI) **Dan Goldman ’99** _University of Wisconsin Madison_ (New York, NY) **Shea Gunther ’97** _Rochester Institute of Technology_ (Portland, ME) **Robert Hofmann ’16** _SUNY New Paltz_ (Providence, RI) **Stephanie Izquieta ’13** _Binghamton University_ (East Elmhurst, NY) **Jennifer Janichek-Krane ’03** _Roosevelt University_ (Boston, MA) **Daniel Katz ’13** _University of Connecticut_ (Rocky Hill, CT) **Nick (Ransom) Kennedy ’11** _University of Connecticut_ (Storrs, CT) **Kris Krane ’98** _American University_ (Boston, MA) **Sam Land ’15** _SUNY Purchase_ (New York, NY) **Alexander Lekhtman ’15** _New York University_ (New York, NY) **Brandon Levey ’09** _University of Maryland_ (Cambridge, MA) **Dan M. ’07** _Kalamazoo College_ (Boston, MA) **Oriana Mayorga ’13** _Fordham University_ (New York, NY) **Dan MacCombie ’04** _Brown University_ (Brooklyn, NY) **Kayla MacEachern ’15** _University of Rhode Island_ (Narragansett, RI) **Nick Murray ’10** _University of New Hampshire_ (Portland, ME) **Evan Nison ’09** _Ithaca College_ (East Brunswick, NJ) **Kevin Oliveira ’10** _University of Connecticut_ (Manchester, CT) **Ericka Persson ’12** _New York University_ (New York, NY) **Lauren Parasconda ’14** _SUNY Albany_ (Staten Island, NY) **Cedar R**<span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Robideaux&quot;}" data-sheets-userformat="{&quot;2&quot;:4225,&quot;3&quot;:[null,0],&quot;10&quot;:2,&quot;15&quot;:&quot;arial,sans,sans-serif&quot;}">**obideaux ’14** _Massachusetts College of Liberal Arts_ (Amherst, MA)</span> **Amy Romanello ’16** _Northeastern University_ (Boston, MA) **Andi Roets ’14** _University of Connecticut_ (Ellington, CT) **Avi Scher ’09** _Rutgers University_ (New York, NY) **Shaleen Title ’02** _University of Illinois at Urbana-Champaign_ (Revere, MA) **Sam Tracy ’09** _University of Connecticut_ (Boston, MA) **Lauren Traitz ’10** _Tufts University_ (Somerville, MA) **Emma Tuttleman-Kriegler ’13** _Tulane University_ (Brooklyn, NY) **Valerie Vande Panne ’99** _Honorary_ (Cambridge, MA) **Karen Walker ’15** _Binghamton University_ (Goshen, NY) **Rachel Wissner ’11 **_SUNY New Paltz_ (New Paltz, NY) **Yi Wu ’08** _Boston University_ (New York, NY) **Brendan Zarkower ’14** _Binghamton University_ (New York, NY)
+**Christopher Albach ’08** _SUNY New Paltz_ (Greenlawn, NY)
+
+**Jessica Altuch ’16** _University of Rhode Island_ (Port Washington, NY)
+
+**Thomas Angell ’00** _University of Rhode Island_ (New York, NY)
+
+**Sara Arnold ’11** _HONORARY_ (Clinton, MA)
+
+**Emma Bijou ’14** _Binghamton University_ (Pawling, NY)
+
+**Sabrina Bode ’13** _SUNY New Paltz_ (New York, NY)
+
+**Gregory Bruno ’12** _SUNY New Paltz_ (New Paltz, NY)
+
+**Eric Casey ’10** _University of Rhode Island_ (Malborough, MA)
+
+**Ryan Cassidy ’09** _Northeastern University_ (Boston, MA)
+
+**Haley Cedarholm ’14** _University of Rhode Island_ (Narragansett, RI)
+
+**Jess Cochrane ’12** _Northeastern University School of Law_ (Boston, MA)
+
+**Emily Cotter ’11** _University of Rhode Island_ (South Kingston, RI)
+
+**Brian Coughlin ’10** _Boston University_ (Brighton, MA)
+
+**Joe Dahlstrom ’10** _New York University_ (Ridgewood, NY)
+
+**Jag Davies ’01** _New College of Florida_ (New York, NY)
+
+**Shannon Davis ’15** _University of Rhode Island_ (Narragansett, RI)
+
+**Nicole Doherty ’18** _University of Massachusetts Boston_ (Brookline, MA)
+
+**Hilary Dulin ’08** _Northeastern University_ (Allston, MA)
+
+**Kelly Ebbert ’15** _University of Rhode Island_ (Kingston, RI)
+
+**Kat Fedorchak ’17** _Occidental College_ (Hamden, CT)
+
+**Gennady Forrest ’09** _Northeastern University_ (Pawtucket, RI)
+
+**Kevin Franciotti ’06** _Northeastern University_ (New York, NY)
+
+**Evan Fulton ’11** _University of Connecticut_ (Willimantic, CT)
+
+**James Given ’12** _University of Rhode Island_ (Carolina, RI)
+
+**Dan Goldman ’99** _University of Wisconsin Madison_ (New York, NY)
+
+**Shea Gunther ’97** _Rochester Institute of Technology_ (Portland, ME)
+
+**Robert Hofmann ’16** _SUNY New Paltz_ (Providence, RI)
+
+**Stephanie Izquieta ’13** _Binghamton University_ (East Elmhurst, NY)
+
+**Jennifer Janichek-Krane ’03** _Roosevelt University_ (Boston, MA)
+
+**Daniel Katz ’13** _University of Connecticut_ (Rocky Hill, CT)
+
+**Nick (Ransom) Kennedy ’11** _University of Connecticut_ (Storrs, CT)
+
+**Kris Krane ’98** _American University_ (Boston, MA)
+
+**Sam Land ’15** _SUNY Purchase_ (New York, NY)
+
+**Alexander Lekhtman ’15** _New York University_ (New York, NY)
+
+**Brandon Levey ’09** _University of Maryland_ (Cambridge, MA)
+
+**Dan M. ’07** _Kalamazoo College_ (Boston, MA)
+
+**Oriana Mayorga ’13** _Fordham University_ (New York, NY)
+
+**Dan MacCombie ’04** _Brown University_ (Brooklyn, NY)
+
+**Kayla MacEachern ’15** _University of Rhode Island_ (Narragansett, RI)
+
+**Nick Murray ’10** _University of New Hampshire_ (Portland, ME)
+
+**Evan Nison ’09** _Ithaca College_ (East Brunswick, NJ)
+
+**Kevin Oliveira ’10** _University of Connecticut_ (Manchester, CT)
+
+**Ericka Persson ’12** _New York University_ (New York, NY)
+
+**Lauren Parasconda ’14** _SUNY Albany_ (Staten Island, NY)
+
+**Cedar R**<span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Robideaux&quot;}" data-sheets-userformat="{&quot;2&quot;:4225,&quot;3&quot;:[null,0],&quot;10&quot;:2,&quot;15&quot;:&quot;arial,sans,sans-serif&quot;}">**obideaux ’14** _Massachusetts College of Liberal Arts_ (Amherst, MA)</span>
+
+**Amy Romanello ’16** _Northeastern University_ (Boston, MA)
+
+**Andi Roets ’14** _University of Connecticut_ (Ellington, CT)
+
+**Avi Scher ’09** _Rutgers University_ (New York, NY)
+
+**Shaleen Title ’02** _University of Illinois at Urbana-Champaign_ (Revere, MA)
+
+**Sam Tracy ’09** _University of Connecticut_ (Boston, MA)
+
+**Lauren Traitz ’10** _Tufts University_ (Somerville, MA)
+
+**Emma Tuttleman-Kriegler ’13** _Tulane University_ (Brooklyn, NY)
+
+**Valerie Vande Panne ’99** _Honorary_ (Cambridge, MA)
+
+**Karen Walker ’15** _Binghamton University_ (Goshen, NY)
+
+**Rachel Wissner ’11** _SUNY New Paltz_ (New Paltz, NY)
+
+**Yi Wu ’08** _Boston University_ (New York, NY)
+
+**Brendan Zarkower ’14** _Binghamton University_ (New York, NY)
 
 ## Pacific Region
 
