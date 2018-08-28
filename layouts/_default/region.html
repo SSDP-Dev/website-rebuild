@@ -7,6 +7,14 @@
       <hr>
     </div>
   </div>
+  <div class="row">
+    <div class="col">
+    {{ range .Pages}}
+    <a href="{{ .RelPermalink }}"><button class="btn btn-john-walsh-ssdp m-1" style="text-transform: uppercase;">{{ .Params.state_name }} >></button></a>
+    {{ end }}
+  </div>
+  </div>
+
 </div>
 
 {{.Params.mbf}} {{.Params.mbf_title}} {{.Params.mbf_bio}} {{partial "footer.html" . }}
