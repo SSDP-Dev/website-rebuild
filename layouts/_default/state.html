@@ -3,50 +3,6 @@
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
-.grid {
-  display: grid;
-  grid-template-columns: repeat(12, [col-start] 1fr);
-  grid-auto-flow: dense;
-}
-
-.gray-title-bar {
-  grid-column: 1 / -1;
-}
-
-.logo-block,
-.chapter-cl,
-.chapter-est,
-.chapter-fb,
-.chapter-location,
-.chapter-block {
-  grid-column:  1 / -1;
-
-}
-
-.logo-block {
-  grid-row: 2;
-}
-
-.chapter-block {
-  display: grid;
-  grid-template-columns: repeat(12, [col-start] 1fr);
-  grid-template-rows: 50px 500px 25% 25%;
-  grid-auto-flow: dense;
-}
-@media all and (min-width: 43.75rem) {
-  .logo-block {
-    grid-column: 1 / 7;
-  }
-
-  .chapter-cl, .chapter-location {
-    grid-column: 7 / 10;
-  }
-
-  .chapter-est, .chapter-fb {
-    grid-column: 10 / 13;
-  }
-
-}
 </style>
 <div class="container">
   <div class="row p-5">
