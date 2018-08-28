@@ -1,3 +1,0 @@
-+++
-state_name="Iowa"
-+++
