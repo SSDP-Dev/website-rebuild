@@ -1,14 +1,14 @@
 <?php
 $date = new DateTime();
 
-$log_file = '/home/dh_ij9i3a/hugo_webhook.txt';
+$log_file = 'hugo_webhook.txt';
 $handle = fopen($log_file, 'w') or die('Cannot open file:  '.$log_file); //implicitly creates file
 
-chdir('/home/dh_ij9i3a/hugo_build_files');
+chdir('/home/dh_ij9i3a');
 $fetch_time = $date->getTimestamp();
 $git_fetch_output = shell_exec("git fetch --all 2>&1");
 fwrite($handle, $fetch_time . ": " . $git_fetch_output . "\n");
-chdir('/home/dh_ij9i3a/hugo_build_files');
+chdir('/home/dh_ij9i3a');
 $reset_time = $date->getTimestamp();
 $git_reset_output = shell_exec("git reset --hard 2>&1");
 fwrite($handle, $reset_time . ": " . $git_reset_output. "\n");
