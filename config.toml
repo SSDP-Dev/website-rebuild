@@ -1,4 +1,4 @@
-baseURL="https://hugo.ssdp.org"
+baseURL="/"
 languageCode = "en-us"
 title = "SSDP Rebuild"
 publishDir = "../hugo.ssdp.org"
