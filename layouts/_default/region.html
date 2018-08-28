@@ -1,0 +1,12 @@
+{{ partial "head.html" . }} {{ partial "nav.html" . }}
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1 style="text-align: center">{{.Params.region}} Region</h1>
+      <hr>
+    </div>
+  </div>
+</div>
+
+{{.Params.mbf}} {{.Params.mbf_title}} {{.Params.mbf_bio}} {{partial "footer.html" . }}
