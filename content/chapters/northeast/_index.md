@@ -1,10 +1,10 @@
 +++
 type="default"
 layout="region"
-region="Heartland"
-mbf="Luis"
+region="Northeast"
+mbf="Elise Szabo ’14"
 mbf_title="Movement Building Fellow"
 mbf_bio = """
-Luis Montoya (’16) is the Outreach Coordinator for the Southwest and Southeast Regions. He first joined SSDP at Florida International University. He is passionate about ending the war on drugs. In the spring semester of 2016, he joined SSDP at Florida International University. He was elected chapter president in May of 2016. During his term as president, he focused on raising awareness around the growing opioid epidemic, naloxone access, and campaigning for Amendment 2 (Medical Marijuana in Florida). He was elected to the Board of Directors in March of 2017, and he joined SSDP staff in June of 2017. Luis studied Psychology at Florida International University in Miami, FL from 2012-2017. He interned at the Miami-Dade State Attorney’s Office as a victim witness counselor during the Summer of 2016. Before joining SSDP staff, he worked at the FIU Green Library, first as a student assistant, then as a guest services attendant.
+Elise joined the SSDP staff in June 2017 as the Outreach Coordinator for the Pacific region. She works out of our Oakland, building and guiding the chapters in her region and connecting them to SSDP’s network. She first got involved in SSDP during her freshman year as a Philosophy student at Kent State University. After her time as a chapter leader, Elise served a short term on SSDP’s Board of Directors before being hired to staff. Outside of human rights and social justice, Elise is also passionate about animal rights and environmental conservation, and she participated in student groups with those focuses during her time at Kent as well.
 """
 +++

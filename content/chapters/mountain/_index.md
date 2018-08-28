@@ -1,7 +1,7 @@
 +++
 type="default"
 layout="region"
-region="Heartland"
+region="Mountain"
 mbf="Luis"
 mbf_title="Movement Building Fellow"
 mbf_bio = """
