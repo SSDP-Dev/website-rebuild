@@ -6,7 +6,8 @@ $git_pull_output = shell_exec("git pull 2>&1");
 fwrite($handle, $git_pull_output . "\n");
 // We'll need to run gulp here as well, but for now we're getting errors
 // It's not mission-critical, since people won't likely be editing scss
-$hugo_output = shell_exec("../hugo 2>&1");
-fwrite($handle, $hugo_output . "\n")
+chdir('/home/dh_ij9i3a/hugo.ssdp.org');
+$hugo_output = shell_exec("/home/dh_ij9i3a/hugo 2>&1");
+fwrite($handle, $hugo_output . "\n");
 echo($hugo_output);
 ?>
