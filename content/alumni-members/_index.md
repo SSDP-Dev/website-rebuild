@@ -473,7 +473,45 @@ This list includes all current members of the [SSDP Alumni Association](http://s
 
 ## Southeast Region
 
-**Hana Arraya ’14** _New College of Florida_ (Miami, FL) **Zane Bader ’15** _University of Georgia_ (Lawrenceville, GA) **Nick Brandimarte ’15** _Florida Atlantic University_ (Ft. Pierce, FL) **Chaz Colavito ’14** _University of South Florida_ (Tampa, FL) **Michael-Devereux Bertin ’16** _College of Charleston_ (Charleston, SC) **Erica Darragh ’14** University of North Georgia (Flowery Branch, GA) **Austin Davis ’16** _Honorary_ (Nashville, TN) **Evan Eisenberg ’12** _University of South Florida_ (Tampa, FL) **Kevin Garcia ’15** _Florida International University_ (Miami, FL) **Jonathan Green ’11** _Tufts University_ (New Orleans, LA) **KC Klens ’14** _Eckerd College_ (Sarasota, FL) **Emily Longacre ’13** _Kennesaw State University_ (Marietta, GA) **Stanley McAfee ’14** _College of Charleston_ (Charleston, SC) **Daniel Miles ’14** _College of Charleston_ (Charleston, SC) **Amanda Muller ’10** _Florida State University_ (Tallahassee, FL) **Max Nielson ’14** _College of Charleston_ (CT) **Chris Riker ’14** _Barry University_ (Miami, FL) **Ryan Schmidtke ’15** _East Carolina University_ (Davidson, NC) **Jessel Serrano ’12** _Florida Gulf Coast University_ (Fort Myers, FL) **Petra Valle ’12** _University of South Florida_ (Pompano Beach, FL)
+**Hana Arraya ’14** _New College of Florida_ (Miami, FL)
+
+**Zane Bader ’15** _University of Georgia_ (Lawrenceville, GA)
+
+**Nick Brandimarte ’15** _Florida Atlantic University_ (Ft. Pierce, FL)
+
+**Chaz Colavito ’14** _University of South Florida_ (Tampa, FL)
+
+**Michael-Devereux Bertin ’16** _College of Charleston_ (Charleston, SC)
+
+**Erica Darragh ’14** University of North Georgia (Flowery Branch, GA)
+
+**Austin Davis ’16** _Honorary_ (Nashville, TN)
+
+**Evan Eisenberg ’12** _University of South Florida_ (Tampa, FL)
+
+**Kevin Garcia ’15** _Florida International University_ (Miami, FL)
+
+**Jonathan Green ’11** _Tufts University_ (New Orleans, LA)
+
+**KC Klens ’14** _Eckerd College_ (Sarasota, FL)
+
+**Emily Longacre ’13** _Kennesaw State University_ (Marietta, GA)
+
+**Stanley McAfee ’14** _College of Charleston_ (Charleston, SC)
+
+**Daniel Miles ’14** _College of Charleston_ (Charleston, SC)
+
+**Amanda Muller ’10** _Florida State University_ (Tallahassee, FL)
+
+**Max Nielson ’14** _College of Charleston_ (CT)
+
+**Chris Riker ’14** _Barry University_ (Miami, FL)
+
+**Ryan Schmidtke ’15** _East Carolina University_ (Davidson, NC)
+
+**Jessel Serrano ’12** _Florida Gulf Coast University_ (Fort Myers, FL)
+
+**Petra Valle ’12** _University of South Florida_ (Pompano Beach, FL)
 
 ## Southwest Region
 
