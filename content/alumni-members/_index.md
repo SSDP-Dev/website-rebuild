@@ -515,7 +515,27 @@ This list includes all current members of the [SSDP Alumni Association](http://s
 
 ## Southwest Region
 
-**Cody Aragon ’16** _University of New Mexico_ (Albuquerque, NM) **Matthew Aragon ’15** _Volcano Vista High School_ (Albuquerque, NM) **Mason Burks ’17** _University of New Mexico_ (Albuquerque, NM) **Monique Chavez ’14** _University of New Mexico School of Law_ (Albuquerque, NM) ****Stephen Duke ’09**** _University of Arkansas Fayetteville_ (Austin, TX) **Angel Garcia ’14** _University of Texas of the Permian Basin_ (Odessa, TX) **Greg Hansch ’06** _University of Maryland_ (Austin, TX) **Annie Huelefeld ’10** _University of Cincinnati_ (Oklahoma City, OK) **Brett Phelps ’04** _University of New Mexico School of Law_ (Mora, NM) **Billy Poer ’16** _University of North Texas_ (Denton, TX) **Viviano Solano ’15** _Rice University_ (San Antonio, TX)
+**Cody Aragon ’16** _University of New Mexico_ (Albuquerque, NM)
+
+**Matthew Aragon ’15** _Volcano Vista High School_ (Albuquerque, NM)
+
+**Mason Burks ’17** _University of New Mexico_ (Albuquerque, NM)
+
+**Monique Chavez ’14** _University of New Mexico School of Law_ (Albuquerque, NM)
+
+**Stephen Duke ’09** _University of Arkansas Fayetteville_ (Austin, TX)
+
+**Angel Garcia ’14** _University of Texas of the Permian Basin_ (Odessa, TX)
+
+**Greg Hansch ’06** _University of Maryland_ (Austin, TX)
+
+**Annie Huelefeld ’10** _University of Cincinnati_ (Oklahoma City, OK)
+
+**Brett Phelps ’04** _University of New Mexico School of Law_ (Mora, NM)
+
+**Billy Poer ’16** _University of North Texas_ (Denton, TX)
+
+**Viviano Solano ’15** _Rice University_ (San Antonio, TX)
 
 _For any edits, errors, or updates to this list, please contact [Stacia Cosner](mailto:stacia@ssdp.org)._
 
