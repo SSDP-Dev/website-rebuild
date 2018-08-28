@@ -10,7 +10,7 @@ $git_fetch_output = shell_exec("git fetch --all 2>&1");
 fwrite($handle, $fetch_time . ": " . $git_fetch_output . "\n");
 chdir('/home/dh_ij9i3a/hugo_build_files');
 $reset_time = $date->getTimestamp();
-$git_reset_output = shell_exec("git reset --hard 2>&1");
+$git_reset_output = shell_exec("git reset --hard origin/master 2>&1");
 fwrite($handle, $reset_time . ": " . $git_reset_output. "\n");
 
 // We'll need to run gulp here as well, but for now we're getting errors
