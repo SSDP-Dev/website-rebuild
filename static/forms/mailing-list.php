@@ -1,6 +1,6 @@
 <?php
 
-$configs = include('config.php');
+$configs = include('/home/dh_ij9i3a/nationbuilder/-config.php');
 
 // NationBuilder configuration
 $NB_ACCESS_TOKEN = $configs['token'];
