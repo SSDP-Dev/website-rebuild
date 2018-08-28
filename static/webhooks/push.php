@@ -19,5 +19,9 @@ chdir('/home/dh_ij9i3a/hugo_build_files');
 $hugo_time = $date->getTimestamp();
 $hugo_output = shell_exec("/home/dh_ij9i3a/hugo 2>&1");
 fwrite($handle, $hugo_time . ": " . $hugo_output. "\n");
-echo($hugo_output);
+
+$sync_time = $date->getTimestamp();
+$sync_output = shell_exec("rsync -r /home/dh_ij9i3a/hugo_build_files/public /home/dh_ij9i3a/hugo.ssdp.org");
+fwrite($handle, $sync_time . ": " . $sync_output. "\n");
+
 ?>
