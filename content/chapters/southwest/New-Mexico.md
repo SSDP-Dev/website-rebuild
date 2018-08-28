@@ -1,4 +1,3 @@
-
 +++
 type="default"
 layout="state"
