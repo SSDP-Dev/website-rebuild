@@ -12,7 +12,7 @@
     {{ range .Pages}}
     <div class="col-sm-3">
       <img style="width: 100%" src = "{{.Params.headshot}}" />
-      <div class = "staff-name">{{.Params.name}}</div>
+      <div class="staff-name">{{.Params.name}}</div>
         <div class="staff-title">{{.Params.title}}</div>
         <div class="staff-social">
           <a href="{{.Params.facebook}}" target="_blank" rel="noopener"><i class="fab fa-facebook-f text-orange-ssdp"></i></a>
@@ -21,9 +21,8 @@
         </div>
         <hr />
         <div style="text-align: center"><a href="{{ .RelPermalink }}">Bio ></a></div>
-
     </div>
-          {{ end}}
-        </div>
+    {{ end}}
+  </div>
 </div>
   {{ partial "footer.html" . }}
