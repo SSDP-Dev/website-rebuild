@@ -5,4 +5,5 @@ facebook="https://www.facebook.com/vil.murrays"
 twitter="https://twitter.com/ssdp"
 email="vilmarie@ssdp.org"
 headshot="img/bw-vilmarie.jpeg"
+weight="90"
 +++

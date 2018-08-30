@@ -5,4 +5,5 @@ facebook="https://www.facebook.com/tylerwilliamsct"
 twitter="https://twitter.com/tylerwilliamsct"
 email="tyler@ssdp.org"
 headshot="img/bw-Tyler.jpeg"
+weight="100"
 +++

@@ -5,4 +5,5 @@ facebook="https://www.facebook.com/ssdp"
 twitter="https://twitter.com/drugwaractivist"
 email="rachel@ssdp.org"
 headshot="img/Rachel-bw.jpg"
+weight="40"
 +++
