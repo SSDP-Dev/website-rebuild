@@ -10,7 +10,19 @@
     </div>
   </div>
   <div class="row p-1">
-
+    {{ range .Pages}}
+    <div class="col-sm-3">
+      <img style="width: 100%" src = "{{.Params.headshot}}" />
+      <div class="board-name">{{.Params.name}}</div>
+        <div class="board-title">{{.Params.title}}</div>
+        <div class="board-social">
+          <a href="mailto:{{.Params.email}}" target="_blank" rel="noopener"><i class="fas fa-envelope text-orange-ssdp"></i></a>
+        </div>
+        <hr />
+        <div style="text-align: center"><a href="{{ .RelPermalink }}">Bio ></a></div>
+    </div>
+    {{ end}}
+  </div>
     <div class="col-sm">
       <a href="board/#ismail-ali"><img style="width:100%"src="img/IsmailAli.jpg" /></a>
       <div class="board-name">Ismail Ali '16</div>
