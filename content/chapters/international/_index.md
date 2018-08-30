@@ -3,7 +3,7 @@ type="default"
 layout="base"
 +++
 
-<h1 style="text-align: center">International Chapters</h1>
+<h1>International Chapters</h1>
 
 <hr>
 <button class="btn btn-john-walsh-ssdp m-1" style="text-transform: uppercase;">Austria >></button>
