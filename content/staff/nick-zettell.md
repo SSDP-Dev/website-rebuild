@@ -1,0 +1,8 @@
++++
+name="Nick Zettell '09"
+title=""
+facebook="https://www.facebook.com/nick.zettell"
+twitter="https://twitter.com/ssdp"
+email="nick@ssdp.org"
+headshot="img/Nick-bw.jpg"
++++
