@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Juana Boateng '15"
 title=""
 email="juana.boateng@board.ssdp.org"

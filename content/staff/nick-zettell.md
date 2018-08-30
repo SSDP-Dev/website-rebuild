@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Nick Zettell '09"
 title=""
 facebook="https://www.facebook.com/nick.zettell"

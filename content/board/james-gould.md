@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="James Gould '15"
 title=""
 email="james.gould@board.ssdp.org"

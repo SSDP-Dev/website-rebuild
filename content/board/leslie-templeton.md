@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Leslie Templeton '16"
 title=""
 email="leslie.templeton@board.ssdp.org"

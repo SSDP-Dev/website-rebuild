@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Tyler Williams '11"
 title="Systems Administrator"
 facebook="https://www.facebook.com/tylerwilliamsct"

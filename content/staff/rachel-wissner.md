@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Rachel Wissner '11"
 title="Development and Events Associate"
 facebook="https://www.facebook.com/ssdp"

@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Emma Rodriguez Romeo '16"
 title=""
 email="emma.rodriguezromero@board.ssdp.org"

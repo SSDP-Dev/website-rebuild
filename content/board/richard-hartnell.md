@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Richard Hartnell '16"
 title=""
 email="richard.hartnell@board.ssdp.org"

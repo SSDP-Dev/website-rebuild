@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Riley Tillitt '16"
 title=""
 email="riley.tillitt@board.ssdp.org"

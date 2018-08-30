@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Zane Bader '15"
 title="Secretary"
 email="zane.bader@board.ssdp.org"

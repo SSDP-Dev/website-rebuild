@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Vilmarie Fraguada Narloch, Psy.D. '09"
 title="Drug Education Manager"
 facebook="https://www.facebook.com/vil.murrays"

@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Jake Agliata '11"
 title="International Program Manager"
 facebook="https://www.facebook.com/jake.agliata"

@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Betty Aldworth"
 title="Executive Director"
 facebook="https://www.facebook.com/betty.aldworth"

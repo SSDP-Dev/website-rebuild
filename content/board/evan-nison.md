@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Evan Nison '09"
 title=""
 email="evan.nison@board.ssdp.org"

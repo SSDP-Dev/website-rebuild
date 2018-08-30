@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Elise Szabo '14"
 title="Movement Building Fellow"
 facebook="https://www.facebook.com/elise.szabo"

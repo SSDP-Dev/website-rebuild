@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Betty Aldworth"
 title="Ex Officio"
 email="betty@ssdp.org"

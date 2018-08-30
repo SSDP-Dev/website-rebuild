@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Stacia Cosner '09"
 title="Deputy Director"
 facebook="https://www.facebook.com/TheStacia"

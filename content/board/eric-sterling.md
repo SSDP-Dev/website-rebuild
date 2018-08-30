@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Eric Sterling '98"
 title=""
 email="emma.sterling@board.ssdp.org"

@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Kat Murti '09"
 title=""
 email="kat.murti@board.ssdp.org"

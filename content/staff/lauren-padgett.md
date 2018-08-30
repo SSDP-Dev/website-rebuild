@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Lauren Padgett"
 title="Development Director"
 facebook="https://www.facebook.com/lauren.padgett"

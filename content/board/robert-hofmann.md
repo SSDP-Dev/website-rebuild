@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Robert Hofmann '16"
 title=""
 email="rober.hofmann@board.ssdp.org"

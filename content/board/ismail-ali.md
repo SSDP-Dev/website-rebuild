@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Ismail Ali '16"
 title="Chair"
 email="ismail.ali@board.ssdp.org"

@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Hannah Procell '15"
 title="Advocacy Fellow"
 facebook="https://www.facebook.com/hannahprocell0702"

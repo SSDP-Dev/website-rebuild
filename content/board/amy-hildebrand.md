@@ -1,4 +1,6 @@
 +++
+type="default"
+layout="bio"
 name="Amy Hildebrand '16"
 title="Vice Chair"
 email="amy.hildebrand@board.ssdp.org"
