@@ -1,0 +1,39 @@
++++
+id = """10567"""
+date = """2017-02-23T09:06:23"""
+date_gmt = """2017-02-23T09:06:23"""
+guid = """http://ssdp.org/?p=10567"""
+modified = """2017-02-23T09:06:23"""
+modified_gmt = """2017-02-23T09:06:23"""
+slug = """u-s-senate-caucus-on-international-narcotics-control-targets-synthetic-drugs"""
+status = """publish"""
+type = """post"""
+link = """https://ssdp.org/blog/u-s-senate-caucus-on-international-narcotics-control-targets-synthetic-drugs/"""
+title = """U.S. Senate Caucus on International Narcotics Control Targets Synthetic Drugs"""
+excerpt = """<p>On Wednesday, September 25, the Senate Caucus on International Narcotics Control held a hearing on unregulated analogues of synthetic drugs and recent legislation proposed to address growing concern. Chairman Dianne Feinstein (D-Calif.) led the hearing that included testimony from Michael Botticelli, deputy director of the Office of National Drug Control Policy, and Joseph Rannazzisi, deputy assistant administrator at the Office</p>
+<div class="h10"></div>
+<p><a class="more-link2 flat" href="https://ssdp.org/blog/u-s-senate-caucus-on-international-narcotics-control-targets-synthetic-drugs/">Read more</a></p>
+"""
+author = """224"""
+featured_media = """10572"""
+comment_status = """open"""
+ping_status = """open"""
+template = """"""
+format = """standard"""
+meta = """[]"""
+categories = """[24]"""
+tags = """[76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88]"""
++++
+<p dir="ltr">On Wednesday, September 25, the<a href="http://www.drugcaucus.senate.gov/index.html" target="_blank"> Senate Caucus on International Narcotics Control</a> held a<a href="http://www.c-span.org/Events/Senate-Caucus-Investigates-Synthetic-Drugs/10737441669-1/" target="_blank"> hearing</a> on unregulated analogues of synthetic drugs and recent legislation proposed to address growing concern. Chairman Dianne Feinstein (D-Calif.) led the hearing that included testimony from Michael Botticelli, deputy director of the<a href="http://www.whitehouse.gov/ondcp" target="_blank"> Office of National Drug Control Policy</a>, and Joseph Rannazzisi, deputy assistant administrator at the Office of Diversion Control for the<a href="http://www.justice.gov/dea/index.shtml" target="_blank"> Drug Enforcement Administration</a> (DEA), among others.</p>
+
+
+<div id="attachment_10572" style="width: 310px" class="wp-caption alignright"><a href="/assets/2013/09/DFeinstein.jpeg"><img class="size-medium wp-image-10572" src="http://ssdp.org/assets/2013/09/DFeinstein-300x199.jpeg" alt="Dianne Feinstein" width="300" height="199" /></a><p class="wp-caption-text">Dianne Feinstein (Photo credit: The San Francisco Appeal)</p></div>
+
+Senator Feinstein introduced the<a href="http://www.feinstein.senate.gov/public/index.cfm/files/serve/?File_id=4f0e4d31-38fd-4d58-a93f-f11f7e8b03fa" target="_blank"> Protecting Our Youth from Dangerous Synthetic Drugs Act of 2013</a> this past July in an effort to amend existing laws regarding the 26 synthetic drugs currently controlled by the federal government. If passed, the act would establish an inter-agency committee headed by the DEA that would have the ability to control chemical analogues of substances like ecstasy, LSD, PCP, and THC.<a href="http://www.9news.com/news/local/article/356732/222/Congress-to-scrutinize-synthetic-drugs" target="_blank"> Some states</a> already have taken measures to outlaw such drugs known as K2, spice, and bath salts. Witnesses at the hearing raised concerns over the growing number of youth reporting use of synthetic marijuana and significant increase in poison control calls and emergency room visits attributed to synthetic drugs. Rannazzisi stated that, since 2008, 30 chemical analogues have been controlled through regulatory action, while as many as 250 have been identified in domestic and international markets.
+<p dir="ltr">Nora Volkow, director of the<a href="http://www.drugabuse.gov/" target="_blank"> National Institute on Drug Abuse</a>, offered testimony on the few known effects of synthetic marijuana. “Very little is known about the short and long term health effects of spice, but we have reason to think that their potential health risks might be quite grave. These synthetic cannabinoids have not been tested in humans, so we don&#8217;t know how long they stay in the body, how they are broken down, or at what doses they exert their effects,” she says. “However, we do know that some of the cannabinoids found in these products bind much more strongly to cannabinoid receptors in the brain than THC itself, which could lead, of course, to more powerful and unpredictable effects.”</p>
+<p dir="ltr">The common practice of labeling analogue drugs as products not intended for human consumption was a critical factor in new regulations emphasized heavily by Senator Feinstein and Senator Amy Klobuchar (D-Minn.), who also recently proposed legislation regarding synthetic drugs. “The falsity is in the packaging and the selling in a drug store as a bath spice or some other innocent thing,” says Feinstein. Addressing the intent to sell a substance for human consumption was Senator Feinstein&#8217;s answer to the problem with scheduling synthetics, which can be made legal with a simple change in chemistry.</p>
+<p dir="ltr">Timothy Heaphy, U.S. attorney of the western district of Virginia, stressed instead the necessity of changing the language of analogue laws to include all known synthetic drugs, rather than specific chemical formulas. “We&#8217;ll have to continually look at the emerging trends and aggressively schedule these drugs going forward,” he says. “But immediately now, there are thirty, forty, fifty chemicals that we&#8217;ve already identified and proven in trials as analogues&#8230;” He offered insight into how criminal trials often proceed when synthetic drugs are the issue, stating that no trial is able to set a precedent and both the prosecution and defense will call expert witnesses to testify on the potential similarity of a given analogue to a scheduled substance.</p>
+<p dir="ltr">“The chemicals that we&#8217;re looking at now have no legitimate use,” says Rannazzisi. He also echoed Heaphy&#8217;s sentiment on aggressive scheduling: “We just need to catch up. We&#8217;re so behind. At the end of the this year, we could be close to 200 compounds behind and we just don&#8217;t have the ability to keep scheduling these drugs.”</p>
+What the hearing failed to address, save for insightful evidence offered by Nora Volkow, was prevention in the form of education without exaggeration. Volkow briefly touched on the subject while explaining the similarity of molly to ecstasy and emphasizing that the contamination of the drug is one of the most prevalent causes of overdose or death. When asked by Senator Feinstein about the recent deaths attributed to molly, Heaphy stated the actual contents of the drug were not known and he had no knowledge of a toxicology report.
+<p dir="ltr">The Drug Policy Alliance (DPA) published a<a href="http://www.drugpolicy.org/news/2013/09/today-us-senate-hearing-synthetic-drugs-offers-failed-drug-war-policies-past" target="_blank"> press release</a> on the day of the hearing illuminating more pitfalls of prohibition policies. Stressing the need for<a href="http://www.drugpolicy.org/blog/senate-hearing-synthetic-drugs-offered-failed-drug-war-policies-past" target="_blank"> regulation instead of criminalization</a>, DPA highlighted<a href="http://www.thedailychronic.net/2013/25065/new-zealand-becomes-first-country-in-the-world-to-legally-regulate-new-designer-drugs/" target="_blank"> New Zealand</a> as the first country to legally regulate the sale of designer drugs.</p>
+<p dir="ltr">The hearing concluded with Senator Feinstein asking the four witnesses to take a look at the act she introduced and offer advice. As of July 18, the act is still in committee.</p>

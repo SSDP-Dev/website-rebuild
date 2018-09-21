@@ -1,0 +1,51 @@
++++
+id = """2364"""
+date = """2010-11-04T20:05:39"""
+date_gmt = """2010-11-04T20:05:39"""
+guid = """http://drewstromberg.com/ssdp/?p=2364"""
+modified = """2017-02-03T05:04:41"""
+modified_gmt = """2017-02-03T05:04:41"""
+slug = """proposition-19-hidden-victories-in-a-hollow-defeat"""
+status = """publish"""
+type = """post"""
+link = """https://ssdp.org/blog/proposition-19-hidden-victories-in-a-hollow-defeat/"""
+title = """Proposition 19 &#8211; Hidden Victories in a Hollow Defeat"""
+excerpt = """<p>With 100% of precincts reporting, California&#8217;s Proposition 19 fell less than 3.9% short of victory, leaving many in the media to focus on why Prop 19 did not get majority support. Ultimately the failure to pass Prop 19 will prove to be less important than what was gained during the campaign. Besides, how solid of a defeat could it have been</p>
+<div class="h10"></div>
+<p><a class="more-link2 flat" href="https://ssdp.org/blog/proposition-19-hidden-victories-in-a-hollow-defeat/">Read more</a></p>
+"""
+author = """231"""
+featured_media = """0"""
+comment_status = """open"""
+ping_status = """open"""
+template = """"""
+format = """standard"""
+meta = """[]"""
+categories = """[24]"""
+tags = """[118, 166, 337, 338, 339, 340, 209, 341, 210]"""
++++
+With 100% of precincts reporting, California&#8217;s <a href="http://www.sfgate.com/election-results/" target="_blank">Proposition 19 fell less than 3.9% short of victory</a>, leaving many in the media to focus on why Prop 19 did not get majority support. Ultimately the failure to pass Prop 19 will prove to be less important than what was gained during the campaign. Besides, how solid of a defeat could it have been when the opposition&#8217;s argument of greatest resonance was &#8220;if you are going to vote for legalization, this is not the bill to do it with?&#8221; That&#8217;s a tacit admission by the opposition that legalization is inevitable, a waving of the white flag while simultaneously fighting one last battle. A bizarre political tactic to be sure, but a sign for us that things are headed in the right direction.
+
+So perhaps it is best to view the Prop 19 Campaign in terms of where marijuana reform stood at the beginning of 2010 versus today. These 4 outcomes from the campaign show why despite losing at the polls, Prop 19&#8217;s legacy will prove to be extremely positive for reformers.
+<h3>Hidden Victory # 1 &#8211; Without the Prop 19 Campagin Schwarenegger Doesn&#8217;t Sign SB 1149</h3>
+California&#8217;s SB 1449, which essentially decriminalized marijuana in the state, was signed into law because of the Prop 19 campaign (by &#8220;Prop 19 campaign&#8221; I am principally referring to the efforts of <a href="http://www.yeson19.com/" target="_blank">Yes on 19</a> and <a href="http://www.justsaynow.com/" target="_blank">Just Say Now</a>). Without the Prop 19 campaign, it is likely that Gov. Schwarzenegger would not have signed the bill. <a href="http://calpotnews.com/media/s-f-chronicle-sb-1449-is-the-better-approach-for-cannabis/" target="_blank">After all, it had been introduced in some form 4 times in the past decade without success</a>. There was little reason to expect this year&#8217;s version would fare any better, as Schwarzenegger said, <a href="http://www.salem-news.com/articles/october012010/schwarzenegger-marijuana.php" target="_blank">&#8220;I am opposed to decriminalizing the possession and recreational use of marijuana.&#8221;</a>
+
+However, the unexpected happened when Prop 19 consistently polled for a victory to the surprise of many. At least 10 polls conducted in the weeks and months leading up to the signing of SB 1449 had Prop 19 winning (after the signing of SB 1449, it began to reverse). In a last ditch effort to scuttle Prop 19, the Governor reluctantly signed SB 1449, using the signing ceremony to decry Prop 19 by saying that it &#8220;is a deeply flawed measure.&#8221; In an effort to defeat Prop 19&#8217;s realistic chance of passing, Schwarzenegger chose what he believed to be the lesser of the two evils (decrim). &#8221; The success of the Prop 19 campaign forced Schwarzenegger to make a concession previously thought unattainable by many. In terms of the daily lives of Californians, far fewer people are going to have criminal record as a result of the Prop 19 campaign.
+<h3>Hidden Victory #2 &#8211; Behind the Youth Voter Turnout Numbers</h3>
+Some have suggested that the youth voter turnout in California was disappointing, but that assessment seems inaccurate. <a href="http://latimesblogs.latimes.com/california-politics/2010/11/prop-19-to-legalize-pot-had-strong-support-from-young-but-only-the-bay-area-tilted-toward-the-measure-exit-polls-found.html" target="_blank">The LA Times has said that youth voters made up 13% of the electorate</a>, which may seem low, but according to Rock the Vote, youth voters only accounted for <a href="http://www.rockthevote.com/about/press-room/electronic-press-kit/memo-share-vs-turnout.html" target="_blank">10.2% of the electorate in 2002 and 11.2% in 2006</a>. This means the youth vote in California this year was proportionately 16% greater than 2006 and 27% more than the 2002 number, hardly something to sneeze at. In fact, there was such a groundswell of college-age voters that<a href="http://www.daily49er.com/news/csulb-polling-station-runs-out-of-ballots-1.2391988" target="_blank">many college-area polling stations could not meet the demand and ran out of ballots</a>. What&#8217;s more is that these increases were accomplished in the face of SB 1449 being signed right as voter registration efforts were being launched into full gear, which created more difficult circumstances to register youth voters even under these stepped up efforts.
+<h3>Hidden Victory #3 &#8211; Geographic Success with Limited Resources</h3>
+The Prop 19 campaign was <a href="http://www.eastbayexpress.com/LegalizationNation/archives/2010/11/03/why-prop-19-lost-apathy-cash-fear-loathing" target="_blank">only able to raise about a third of the money</a> predicted necessary to ensure a win on Nov. 2nd. Consequently, there were insufficient staff to run an ideal campaign, which meant efforts could only be focused in certain geographic areas. The campaign made the decision to try to turn out the most voters in areas that were more open to legalization rather than the prohibitionist regions of the state.
+
+In the SF Bay area, where much of the Prop 19 campaign took place, support for Prop 19 was tremendous. <a href="http://vote.sos.ca.gov/maps/ballot-measures/19/" target="_blank">Five of the nine bay-adjoining jurisdictions supported Prop 19</a>, all but one by 9 points or more, two with landslide margins of support. In three of those jurisdictions where it did not win, it lost by fewer than 2.5 points. Nearby Santa Cruz supported Prop 19 by over 27 points.
+
+Moving further south through California, the Prop 19 campaign had fewer resources. Support extended down the coast to Santa Barbara, but the campaign lacked the financial resources to crack into Los Angeles and San Diego. However, many of the aforementioned college polling stations that ran out of provisional ballots were in the San Diego and Los Angeles areas. This is further evidence that marijuana legalization truly brings out the youth vote, something the political establishment would be foolish not to consider going into 2012.
+
+A related aspect is impressive number of calls made through the Just Say Now and Yes on 19 phonebanking tools. SSDPers and others from across the country made at least 15,000 calls to California voters, which certainly translated into a stronger total in favor of Prop 19.
+<h3>Hidden Victory #4 &#8211; Experience: Got One Under Our Belt</h3>
+One of the greatest hidden victories of the Prop 19 campaign was that it trained <a href="http://www.ssdp.org/" target="_blank">the emerging generation of marijuana reformers</a> on how to run a legalization campaign, and left virtually all of them wanting to win on this issue in 2012. To be certain, the Prop 19 campaign made its share of mistakes, but given the low expectations of passage, the mistakes made this year will likely not leave much lasting harm and will help pave the way for more successful campaigns across in various states in elections to come. Prop 19 may not have written the history book, but it will have at least written the playbook for success in years to come. (As a sidenote, when the history book is written, it should be recognized that many, if not the majority of those worked for both Just Say Now and Yes on 19 are SSDP students, alumni and/or current/former staff).
+
+Similarly leaving reformers in a better position for future campaigns were the many coalitions forged, signaling the end of marijuana reform being a third rail issue for other advocates of social justice. From <a href="http://articles.latimes.com/2010/sep/22/local/la-me-0922-pot-union-20100922" target="_blank">organized labor</a> to the<a href="http://www.huffingtonpost.com/david-a-love/california-naacp-is-right_b_645746.html" target="_blank">NAACP</a>, mainstream organizations began flocking to marijuana reform like never before. Given the prospects for future success, it seems likely that these relationships will last for years to come.
+<h3>What it All Means</h3>
+So yes, I am deeply disappointed that we could not get Prop 19 passed this year, but looking at the big picture, the campaign was a categorical success as it resulted in the decriminalization of marijuana in California and brought out an unexpectedly high number of youth voters. The defeat suffered this year should ultimately prove fleeting, and should be viewed as the launching pad for future success. <a href="http://www.latimes.com/news/opinion/opinionla/la-oew-gutwillig-prop19-20101103,0,602552.story" target="_blank">As the LA Times recently noted</a>, the success of the Prop 19 campaign has pushed marijuana reform from the sidelines to the mainstream spotlight, an accomplish. Change in civil rights issues is a long process peppered with numerous defeats, but it is in these defeats where advocates discover what is necessary to win, and few such events have paved a brighter light to ultimate victory than the Proposition 19 campaign.
+
+<em>(thanks to Irina Alexander for editorial suggestions)</em>
