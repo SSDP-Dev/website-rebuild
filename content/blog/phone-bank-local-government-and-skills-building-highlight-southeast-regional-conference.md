@@ -1,0 +1,45 @@
++++
+id = """20627"""
+date = """2016-12-20T16:55:37"""
+date_gmt = """2016-12-20T16:55:37"""
+guid = """http://ssdp.org/?p=20627"""
+modified = """2016-12-20T16:55:37"""
+modified_gmt = """2016-12-20T16:55:37"""
+slug = """phone-bank-local-government-and-skills-building-highlight-southeast-regional-conference"""
+status = """publish"""
+type = """post"""
+link = """https://ssdp.org/blog/phone-bank-local-government-and-skills-building-highlight-southeast-regional-conference/"""
+title = """Phone Bank, Local Government, and Skills-Building Highlight Southeast Regional Conference"""
+excerpt = """<p>Last month, the 2017 Southeast Regional SSDP Conference took place on the campus of the University of Georgia (UGA) in Athens, GA. This event marked the first time an SSDP conference has been held in that state. The chapter network in Georgia has been one of the most successful state-wide SSDP networks in recent memory. This conference marked a culmination</p>
+<div class="h10"></div>
+<p><a class="more-link2 flat" href="https://ssdp.org/blog/phone-bank-local-government-and-skills-building-highlight-southeast-regional-conference/">Read more</a></p>
+"""
+author = """18"""
+featured_media = """20634"""
+comment_status = """open"""
+ping_status = """open"""
+template = """"""
+format = """standard"""
+meta = """[]"""
+categories = """[24]"""
+tags = """[848, 1736]"""
++++
+<div id="attachment_20629" style="width: 235px" class="wp-caption alignleft"><a href="/assets/SERC1.jpg"><img class="wp-image-20629 size-medium" src="https://ssdp.org/wp-content/uploads/2016/12/SERC1-225x300-1.jpg" alt="serc1" width="225" height="300" /></a><p class="wp-caption-text">Some of the attendees under the famed UGA Arch. Local superstition holds that if you walk under the arch you will fail classes that semester. The sidewalk is noticeably worn all around the arch and pristine underneath it.</p></div>
+
+<span style="font-weight: 400">Last month, the 2017 Southeast Regional SSDP Conference took place on the campus of the University of Georgia (UGA) in Athens, GA. This event marked the first time an SSDP conference has been held in that state. The chapter network in Georgia has been one of the most successful state-wide SSDP networks in recent memory. This conference marked a culmination of the work that SSDPers have done at the state level and a transition to the current strategy of engaging at the local level to push for cannabis reforms, decriminalization and harm reduction measures, including Naloxone availability/access and overdose prevention. </span><span style="font-weight: 400">
+</span><span style="font-weight: 400">
+</span><span style="font-weight: 400">The conference took place on the weekend before Election Day and SSDP’s phone bank was a large part of the weekend’s activities. Fully equipped with phones, laptops, bottles of water, and pizza from a local pizza shop, members of the UGA chapter and attendees who arrived on Friday spent several hours making phone bank calls from campus, generating hundreds of dials. This effort was one of several conference-wide phone bank sessions throughout the weekend, which helped propel both UGA SSDP and University of North Georgia (UNG) SSDP into the top ten on the phone bank leaderboard. </span><span style="font-weight: 400">UGA chapter leader, Jordan Hobdy was also the top student dialer for the year (over 2,400), helped by the calls made during the conference. </span><span style="font-weight: 400">
+</span><span style="font-weight: 400">
+</span><span style="font-weight: 400">After breakfast and the opening session on Saturday morning, conference attendees had the opportunity to hear from MAPS researcher Dr. Yevgeniy Gelfand, the proposed primary investigator for the phase III studies using 3,4-Methylenedioxymethamphetamine (MDMA)-assisted psychotherapy to treat PTSD symptoms.  He discussed the findings from phase II as well as the future timeline for MDMA-assisted psychotherapy. Conference attendees were shown data from the phase II results demonstrating an exceptionally high success rate. Attendees were also shown segments of recorded video from one of the phase II sessions, really giving the attendees a first-person look into the MDMA-assisted therapy sessions. The video was exceptionally powerful and demonstrated very clearly the beneficial effects MDMA were having in real time during the session. There was scarcely a dry eye in the room at the conclusion of the video. Happily, this upcoming phase is the last in a series of clinical studies before MDMA can be regulated by the FDA and put on the market as a government sanctioned medicinal substance. </span>
+
+<span style="font-weight: 400">After lunch, two guests speakers headlined the afternoon program, Executive Director of Peachtree NORML, Sharon Ravert, and Mayor of Clarkston Georgia, Ted Terry. Ms. Ravert shared her personal story about why she got involved with cannabis activism, where her home was raided by a local law enforcement agency SWAT team, leading to the discovery of less than a gram of cannabis in her residence and her daughter facing years of prison if convicted of the crimes she was being charged with. A lengthy court battle and years of persistence led Sharon from a confused, concerned, and angry mother advocating for her daughter, into an unflappable advocate for change and a leader in drug policy reform in the south. Mayor Terry addressed the conference and told the story of how his town of Clarkston became the first in Georgia to decriminalize small amounts of cannabis by passing a parallel ordinance. The information he provided was a valuable asset to the local chapters, who currently lead the SSDP network in a number of local, public testimony appearances regarding cannabis policy reform. The strategy employed by advocates and policy-makers in Georgia is one that local SSDP chapters are working to duplicate in other cities, towns, counties and municipalities around the state. </span><span style="font-weight: 400">
+</span><span style="font-weight: 400">
+</span><span style="font-weight: 400">Mayor Terry’s appearance led into the next session perfectly, where Outreach Coordinator </span><a href="http://ssdp.org/about/staff/scott-cecil/"><span style="font-weight: 400">Scott Cecil</span></a><span style="font-weight: 400">, SSDP Board member </span><a href="http://ssdp.org/about/board/jeremy-sharp/"><span style="font-weight: 400">Jeremy Sharp</span></a><span style="font-weight: 400">, and former UNG SSDP Chapter Leader Severin Mangold conducted a panel discussion on public testimony and lobbying. Each chapter in attendance left the session with a concrete strategy on how to present a comprehensive and effective message, in both open testimony and closed-door lobbying meetings. </span>
+
+<span style="font-weight: 400">The final Session of the day was a presentation of </span><a href="http://ssdp.org/campaigns/peer-education-program/"><span style="font-weight: 400">SSDP Peer Education Program</span></a><span style="font-weight: 400">, “Just Say Know”, by Scott Cecil. Several conference attendees have subsequently gone on to begin the process of becoming certified peer educators for SSDP. After a brief break, attendees spent several more hours phone banking, making calls to voters in Florida, Maine, Arizona, Massachusetts, and Nevada that evening.</span>
+
+<div id="attachment_20630" style="width: 160px" class="wp-caption alignright"><a href="/assets/SERC2.jpg"><img class="wp-image-20630 size-thumbnail" src="/assets/SERC2-150x150.jpg" alt="serc2" width="150" height="150" /></a><p class="wp-caption-text">Meditation Circle during Sunday breakfast.</p></div>
+
+<span style="font-weight: 400">Sunday consisted of even more reflection and training. It began with a meditation circle during breakfast led by a local SSDP Alumni and resident of Athens. Following this very relaxing session was a psychedelic storytelling session led by Zane Bader, the organizer for the conference and the president and founder of the UGA chapter of Psychedelic Club. </span><span style="font-weight: 400">Following lunch, Jeremy Sharp presented on the history of overdose prevention in Georgia with topics including the Georgia Good Samaritan law, naloxone access, and the successes and failures of changing policies to prevent overdoses in the state. Jeremy also provided naloxone to conference attendees and gave some basic training on how to administer naloxone through intramuscular injection, nasal spray, and autoinjector.</span>
+
+<span style="font-weight: 400">The final session was the highest rated session of the conference. Scott Cecil and former UGA SSDP chapter leader and founder Josh Wayne discussed Coalition building, focusing mainly on how to engage other organizations, both on and off of campus, and why a perspective on intersectionality is vital for SSDP chapters when reaching out to other organizations. After a third night of phone banking, attendees left the conference feeling energized and armed with new information to combat the war on drugs. </span>

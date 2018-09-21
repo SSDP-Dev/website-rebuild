@@ -1,0 +1,25 @@
++++
+id = """2015"""
+date = """2011-06-09T19:31:39"""
+date_gmt = """2011-06-09T19:31:39"""
+guid = """http://drewstromberg.com/ssdp/?p=2015"""
+modified = """2017-02-04T04:23:29"""
+modified_gmt = """2017-02-04T04:23:29"""
+slug = """the-power-of-student-activism"""
+status = """publish"""
+type = """post"""
+link = """https://ssdp.org/blog/the-power-of-student-activism/"""
+title = """The Power of Student Activism"""
+excerpt = """<p>Check out our very own David Haseltine, president of the University of Connecticut SSDP chapter, on Huffington Post talking about how SSDP helped pass Connecticut&#8217;s new marijuana decriminalization law. Go David!</p>
+"""
+author = """132"""
+featured_media = """2020"""
+comment_status = """open"""
+ping_status = """open"""
+template = """"""
+format = """standard"""
+meta = """[]"""
+categories = """[24]"""
+tags = """[186, 42, 613, 402]"""
++++
+<img class="alignleft" src="http://ssdp.org/assets/images/blog/2011/june/college[1].png" alt="Huffpost College" width="320" height="24" />Check out our very own David Haseltine, president of the University of Connecticut SSDP chapter, on Huffington Post <a href="http://www.huffingtonpost.com/david-haseltine/post_2102_b_874366.html" target="_blank">talking about how SSDP helped pass</a> Connecticut&#8217;s new marijuana decriminalization law. Go David!

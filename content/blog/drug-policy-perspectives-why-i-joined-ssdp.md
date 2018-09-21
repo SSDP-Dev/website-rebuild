@@ -1,0 +1,31 @@
++++
+id = """16677"""
+date = """2015-09-16T15:01:27"""
+date_gmt = """2015-09-16T15:01:27"""
+guid = """http://ssdp.org/?p=16677"""
+modified = """2017-02-03T10:03:08"""
+modified_gmt = """2017-02-03T10:03:08"""
+slug = """drug-policy-perspectives-why-i-joined-ssdp"""
+status = """publish"""
+type = """post"""
+link = """https://ssdp.org/blog/drug-policy-perspectives-why-i-joined-ssdp/"""
+title = """Drug Policy Perspectives: Why I Joined SSDP"""
+excerpt = """<p>My name is Oliver Zerrudo, and I am a 5th year undergraduate at the University of California at Berkeley. I wanted to express my reasons for joining SSDP, and the rationales for why I am passionate about the work we are attempting to do. As A Bay Area Native, the impacts of social justice inequalities have always been highlighted to</p>
+<div class="h10"></div>
+<p><a class="more-link2 flat" href="https://ssdp.org/blog/drug-policy-perspectives-why-i-joined-ssdp/">Read more</a></p>
+"""
+author = """9"""
+featured_media = """16685"""
+comment_status = """open"""
+ping_status = """open"""
+template = """"""
+format = """standard"""
+meta = """[]"""
+categories = """[24]"""
+tags = """[1731, 1791]"""
++++
+<div id="attachment_16685" style="width: 190px" class="wp-caption alignright"><a href="http://ssdp.org/assets/Oliver-Zerrudo.png"><img class="size-full wp-image-16685" src="http://ssdp.org/assets/Oliver-Zerrudo.png" alt="Oliver Zerrudo, UC Berkeley " width="180" height="180" /></a><p class="wp-caption-text">Oliver Zerrudo, UC Berkeley</p></div>
+
+<span id="E8">My name is Oliver </span><span id="E10">Zerrudo</span><span id="E12">, and I am a 5</span><span id="E13">th</span><span id="E14"> year undergraduate at the University of Cal</span><span id="E15">ifornia at</span><span id="E16"> Berkeley. I wanted to express my reasons for joining SSDP, and the rationales for why I am passionate about the work we are attempting to do. As A Bay Area Native, the impacts of social justice inequalities have always been highlighted to me via the socio-economic developments of my neighborhood, as well the vast </span><span id="E17">organizing efforts of community-</span><span id="E18">based grassroots organizatio</span><span id="E19">ns around me. Growing up in </span><span id="E20">San Francisco’s Mission District I am all too aware of the negative impacts of state-sponsored control systems: Urban Shield, Gang Injunction, DEA/ICE Raids, etc. These experiences galvanized my dedication to people of color communities, people of color histories, and deconstructi</span><span id="E21">ng the western hegemonic understanding of immigration</span><span id="E22">. </span><span id="E23">From prison abolition, drug policy advocacy, immigration reform, and more</span><span id="E24">,</span><span id="E25"> the struggles of underrepresented people of color have become forefront political conversations in mainstream America</span><span id="E26"> –</span><span id="E27"> </span><span id="E28">however very</span><span id="E29"> seldom is it people co</span><span id="E30">ming from communities impacted b</span><span id="E31">y these issues on the forefront of mobilizations/conversations geared towards </span><span id="E32">systemic political </span><span id="E33">change. </span><span id="E34">As a Filipino immigrant, I frequently challenge myself to decentralize American </span><span id="E36">Exceptionalism</span><span id="E38"> and Western Capitalist Values from my </span><span id="E39">political prioritizations</span><span id="E40">. </span><span id="E41">Often in America, the conversations around drug policy take a very myopic lens –focusing on economics or quantitative crime measurements. </span><span id="E42">These perspectives, while valuable, detach people of color communities from the impact of policy and remove the international perspective non-Americans contribute to the drug trade.</span>
+<p id="E43"><span id="E44">After a year of our campus’ chapter being dark, a group of friends and I decided to restart Berkeley’s involvements in the larger SSDP/DPA network. As a group of young men of color from Latin America and Asia, I am inspired by the perspectives and narratives of my chapter members –rarely am I granted to work amongst such passion generated from circumstances similar to mine. Being grounded in an organization built amongst communities of color is an invaluable asset when navigating the needs and goals for drug policy advocacy. Conversations around legalization/</span><span id="E46">recreationalization</span><span id="E48">, the failures of mass incarceration, and addiction stigma are incomplete without contextual conversations around </span><span id="E50">immigrancy</span><span id="E52">, the status of the formerly incarcerated</span><span id="E53">, </span><span id="E55">crime</span><span id="E57"> in the global south, and others. I have found that the intersectional nature of past and present drug war legislation/advocacy requires the intersectional perspectives of young immigrant youth –able to voice the struggles of their parents as well as the impacts of contemporary legislation –in order to </span><span id="E58">qualitatively</span><span id="E59"> improve the </span><span id="E60">standard of living</span><span id="E61"> understood by members of our communities. </span></p>
+<p id="E62"><span id="E63">Joining SSDP affords people like me, marginalized</span><span id="E64"> immigrant</span><span id="E65"> urban youth, an opportunity to </span><span id="E66">proliferate our perspective in the political spectrum. The privilege of mainstream university student status elevates us from the negatively viewed ‘migrant’ class into the pantheons of the ivory tower –where academic status and legitimacy combat citizenship and language barri</span><span id="E67">ers. Often I find the university awards</span><span id="E68"> adherence</span><span id="E69"> to</span><span id="E70"> capital</span><span id="E71">istic standards of productivity – where priorities are often derived by the logistics and motivations of things such as voting season or our two-party electoral system. I hope to steer my chapter towards having a more holistic outlook of policy change from a wider range of people of color perspectives </span>often misunderstood in drug policy conversations.</p>

@@ -1,0 +1,25 @@
++++
+id = """4612"""
+date = """2012-07-09T11:13:28"""
+date_gmt = """2012-07-09T15:13:28"""
+guid = """http://ssdp.org/?p=4612"""
+modified = """2017-02-04T04:38:01"""
+modified_gmt = """2017-02-04T04:38:01"""
+slug = """ssdp-featured-in-us-news-and-world-report"""
+status = """publish"""
+type = """post"""
+link = """https://ssdp.org/blog/ssdp-featured-in-us-news-and-world-report/"""
+title = """SSDP Featured in US News and World Report"""
+excerpt = """<p>Today, our Executive Director, Aaron Houston, is featured in the US News and World Report Debate Club, discussing the failed policies of America&#8217;s longest war: the war on drugs. Check out the article, and if you like it, please upvote the article on their website.</p>
+"""
+author = """196"""
+featured_media = """4627"""
+comment_status = """open"""
+ping_status = """open"""
+template = """"""
+format = """standard"""
+meta = """[]"""
+categories = """[24]"""
+tags = """[543, 1050, 1051, 1052]"""
++++
+<a href="http://ssdp.org/news/blog/ssdp-featured-in-us-news-and-world-report/attachment/a-houston-2/" rel="attachment wp-att-4614"><img class="wp-image-4614 alignleft" title="a-houston" src="/assets/2012/07/a-houston.jpeg" alt="a-houston" width="130" height="129" srcset="https://ssdp.org/wp-content/uploads/2012/07/a-houston.jpeg 163w, https://ssdp.org/wp-content/uploads/2012/07/a-houston-150x150.jpeg 150w" sizes="(max-width: 130px) 100vw, 130px" /></a>Today, our Executive Director, Aaron Houston, is featured in the <a title="Debate Club Article" href="http://www.usnews.com/debate-club/is-it-time-to-scale-back-the-war-on-drugs/americas-longest-war-has-once-again-shown-that-prohibition-doesnt-work">US News and World Report Debate Club</a>, discussing the failed policies of America&#8217;s longest war: the war on drugs. Check out the article, and if you like it, please upvote the article on their website.
